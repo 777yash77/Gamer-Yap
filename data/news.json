@@ -50,57 +50,6 @@
     "publishedAt": "2026-11-26T22:29:06.000Z"
   },
   {
-    "id": "23e8002a98c119dc",
-    "title": "Path of Exile 2 Boss Slams 'Truly Terrible' Game Reveals and Calls Out Blizzard",
-    "summary": "Path of Exile co-game director Jonathan Rogers recently criticized standard industry livestream practices at a DevGAMM conference, taking a direct jab at Blizzard for withholding the juiciest details until the very end. Rogers argued that game announcements should cut straight to exciting gameplay and core features to maintain player interest.",
-    "content": [
-      "Speaking at the DevGAMM FTW! games industry conference, Path of Exile co-game director Jonathan Rogers shared insights into how Grinding Gear Games handles its seasonal update schedules. Unlike many traditional game developers, GGG cuts straight to showing new gameplay features ahead of any preamble during its announcement livestreams, a strategy Rogers credits as a key driver behind the game's 13-year success.",
-      "According to Rogers, these announcement streams serve a dual purpose beyond mere marketing. They actively help dictate what features and content the development team should focus on with each update, ensuring that every new league is backed by genuinely exciting features that can successfully rally the player base.",
-      "During his presentation, Rogers did not shy away from critiquing broader industry trends, noting that he has witnessed numerous 'truly terrible livestreams for game announcements' before delivering a playful jab directly targeting Blizzard. While major studios often prefer a slower build-up featuring extensive introductions and detailed design breakdowns, Rogers believes holding the best reveals for the end wastes everyone's time.",
-      "Industry observers and journalists note that while traditional build-ups can sometimes drag on during deep-dive statistic reviews, hearing the direct thought process from developers can humanize studios for the audience. Nevertheless, Rogers' underlying message emphasizes that developers must accurately read the room and tailor their presentations to instantly capture community excitement rather than putting viewers to sleep."
-    ],
-    "highlights": [
-      "Path of Exile co-game director Jonathan Rogers criticized standard industry announcement streams at DevGAMM.",
-      "Rogers singled out Blizzard with a direct jab regarding lengthy and delayed game reveals.",
-      "Grinding Gear Games relies on cutting straight to gameplay to test whether a seasonal league concept is exciting enough to build.",
-      "Critics debate whether prolonged developer deep-dives humanize studio teams or simply drag on too long."
-    ],
-    "socialPulse": {
-      "sentiment": "Mixed",
-      "viralPlatforms": [
-        "X / Twitter",
-        "Reddit",
-        "YouTube"
-      ],
-      "summary": "Social media users are heavily debating the pacing of modern game developer livestreams, with many players agreeing that traditional update streams often include too much filler. Some community members appreciate the deep dives into stats and humanizing the developers behind the screens, while others strongly prefer Grinding Gear Games' fast-paced, gameplay-first approach.",
-      "viewpoints": [
-        {
-          "stance": "Cut to the Chase",
-          "detail": "Many players agree with Jonathan Rogers that prolonged introductions and delayed reveals waste time and drain excitement. Gamers want to see major gameplay features and new content immediately to decide if an update is worth returning for."
-        },
-        {
-          "stance": "Appreciate the Context",
-          "detail": "Other community members enjoy hearing developer thought processes and detailed statistical breakdowns. They feel this transparency reminds audiences that real humans are building the games and provides valuable insight into design decisions."
-        }
-      ]
-    },
-    "category": "Industry",
-    "gameTitle": "Path of Exile 2",
-    "gameScale": "AAA",
-    "fanbaseScore": 9,
-    "isUpcoming": false,
-    "isRumor": false,
-    "releaseWindow": "",
-    "isControversy": false,
-    "controversyAngle": "",
-    "isTrending": true,
-    "importance": 6,
-    "source": "PC Gamer",
-    "url": "https://www.pcgamer.com/games/rpg/blizzard-im-looking-at-you-path-of-exile-2-boss-criticizes-truly-terrible-game-announcements-that-hold-the-juiciest-details-until-the-end",
-    "image": "https://cdn.mos.cms.futurecdn.net/HMRK6xpxefVxP2MDgUaKmG-1920-80.jpg",
-    "publishedAt": "2026-11-26T23:00:00.000Z"
-  },
-  {
     "id": "bc58dec925a91b59",
     "title": "Rockstar Workers Vote Against Union Recognition, But Organizers Vow To Keep Fighting",
     "summary": "A potentially historic union recognition vote at GTA 6 creator Rockstar Games has failed, with only 25% of participating studio members voting in favor. Despite the defeat, the International Workers of Great Britain union stated they will continue organizing for better labor rights, pay transparency, and protections against AI and layoffs.",
@@ -151,6 +100,57 @@
     "url": "https://www.rockpapershotgun.com/this-isnt-a-sign-to-retreat-rockstars-historic-union-vote-has-failed-with-75-voting-against-but-the-organisers-are-going-to-keep-fighting",
     "image": "https://assetsio.gnwcdn.com/gta-6-art.jpg?width=690&quality=85&format=jpg&auto=webp",
     "publishedAt": "2026-11-26T16:39:40.000Z"
+  },
+  {
+    "id": "23e8002a98c119dc",
+    "title": "Path of Exile 2 Boss Slams 'Truly Terrible' Game Reveals and Calls Out Blizzard",
+    "summary": "Path of Exile co-game director Jonathan Rogers recently criticized standard industry livestream practices at a DevGAMM conference, taking a direct jab at Blizzard for withholding the juiciest details until the very end. Rogers argued that game announcements should cut straight to exciting gameplay and core features to maintain player interest.",
+    "content": [
+      "Speaking at the DevGAMM FTW! games industry conference, Path of Exile co-game director Jonathan Rogers shared insights into how Grinding Gear Games handles its seasonal update schedules. Unlike many traditional game developers, GGG cuts straight to showing new gameplay features ahead of any preamble during its announcement livestreams, a strategy Rogers credits as a key driver behind the game's 13-year success.",
+      "According to Rogers, these announcement streams serve a dual purpose beyond mere marketing. They actively help dictate what features and content the development team should focus on with each update, ensuring that every new league is backed by genuinely exciting features that can successfully rally the player base.",
+      "During his presentation, Rogers did not shy away from critiquing broader industry trends, noting that he has witnessed numerous 'truly terrible livestreams for game announcements' before delivering a playful jab directly targeting Blizzard. While major studios often prefer a slower build-up featuring extensive introductions and detailed design breakdowns, Rogers believes holding the best reveals for the end wastes everyone's time.",
+      "Industry observers and journalists note that while traditional build-ups can sometimes drag on during deep-dive statistic reviews, hearing the direct thought process from developers can humanize studios for the audience. Nevertheless, Rogers' underlying message emphasizes that developers must accurately read the room and tailor their presentations to instantly capture community excitement rather than putting viewers to sleep."
+    ],
+    "highlights": [
+      "Path of Exile co-game director Jonathan Rogers criticized standard industry announcement streams at DevGAMM.",
+      "Rogers singled out Blizzard with a direct jab regarding lengthy and delayed game reveals.",
+      "Grinding Gear Games relies on cutting straight to gameplay to test whether a seasonal league concept is exciting enough to build.",
+      "Critics debate whether prolonged developer deep-dives humanize studio teams or simply drag on too long."
+    ],
+    "socialPulse": {
+      "sentiment": "Mixed",
+      "viralPlatforms": [
+        "X / Twitter",
+        "Reddit",
+        "YouTube"
+      ],
+      "summary": "Social media users are heavily debating the pacing of modern game developer livestreams, with many players agreeing that traditional update streams often include too much filler. Some community members appreciate the deep dives into stats and humanizing the developers behind the screens, while others strongly prefer Grinding Gear Games' fast-paced, gameplay-first approach.",
+      "viewpoints": [
+        {
+          "stance": "Cut to the Chase",
+          "detail": "Many players agree with Jonathan Rogers that prolonged introductions and delayed reveals waste time and drain excitement. Gamers want to see major gameplay features and new content immediately to decide if an update is worth returning for."
+        },
+        {
+          "stance": "Appreciate the Context",
+          "detail": "Other community members enjoy hearing developer thought processes and detailed statistical breakdowns. They feel this transparency reminds audiences that real humans are building the games and provides valuable insight into design decisions."
+        }
+      ]
+    },
+    "category": "Industry",
+    "gameTitle": "Path of Exile 2",
+    "gameScale": "AAA",
+    "fanbaseScore": 9,
+    "isUpcoming": false,
+    "isRumor": false,
+    "releaseWindow": "",
+    "isControversy": false,
+    "controversyAngle": "",
+    "isTrending": true,
+    "importance": 6,
+    "source": "PC Gamer",
+    "url": "https://www.pcgamer.com/games/rpg/blizzard-im-looking-at-you-path-of-exile-2-boss-criticizes-truly-terrible-game-announcements-that-hold-the-juiciest-details-until-the-end",
+    "image": "https://cdn.mos.cms.futurecdn.net/HMRK6xpxefVxP2MDgUaKmG-1920-80.jpg",
+    "publishedAt": "2026-11-26T23:00:00.000Z"
   },
   {
     "id": "62ac826e785f54d0",
@@ -255,6 +255,57 @@
     "publishedAt": "2026-11-26T19:20:50.000Z"
   },
   {
+    "id": "e3e25e724d87073b",
+    "title": "Ubisoft Denies GenAI Pitch Mandate Following Report on Internal Developer Pressure",
+    "summary": "Ubisoft has pushed back against a new report claiming its developers must explain why they are not using generative AI in game pitches. While management encourages exploring AI and established the Motherbrain studio division, the company insists technology adoption remains optional.",
+    "content": [
+      "Ubisoft has denied claims that it is forcing developers to integrate generative AI into new game pitches as an absolute rule. The publisher's official statement follows an investigative report by Vertical Slice, which alleged that internal game pitching processes now require developers to either outline how genAI will accelerate production or provide a detailed justification for why the technology is unsuitable.",
+      "According to anonymous staff cited in the report, Ubisoft management revealed the procedural shift during an internal presentation, marking what employees described as a notable attitude shift. Sources indicated that workers feel increasingly cornered by the heavy push toward generative AI, though they acknowledged that management has stopped short of issuing a strict blanket mandate requiring genAI in every project.",
+      "In response to the report, Ubisoft issued an official statement emphasizing that technology usage is up to individual teams. The company stated that while it encourages teams to explore where AI can bring value, projects are not required to use generative AI. Instead, teams must determine whether the tech makes sense for the specific game and player experience they want to create.",
+      "This internal debate arrives against a backdrop of aggressive corporate restructuring, studio closures, and widespread layoffs at Ubisoft throughout the year. Recent cuts have impacted hundreds of employees across major subsidiaries including Ubisoft Montreal, Ubisoft Quebec, and several international studios, compounding existing friction over shifting remote work policies that previously triggered strikes in France and Italy."
+    ],
+    "highlights": [
+      "A report claimed Ubisoft pitches require justification if genAI is excluded.",
+      "Ubisoft denied a strict mandate, stating genAI use remains optional.",
+      "The company recently established Motherbrain, a division focused on generative AI experiments.",
+      "Internal tensions follow a year of extensive layoffs, studio closures, and remote work strikes."
+    ],
+    "socialPulse": {
+      "sentiment": "Backlash",
+      "viralPlatforms": [
+        "X / Twitter",
+        "Reddit",
+        "YouTube"
+      ],
+      "summary": "Gamers and developers on social media have heavily criticized Ubisoft's push into generative AI, especially given the backdrop of recent studio closures and massive layoffs. Many players feel management is prioritizing automated technology over human creativity and job security, while others view the denial of a strict mandate as mere damage control.",
+      "viewpoints": [
+        {
+          "stance": "Pro-Developer / Anti-AI",
+          "detail": "Commentators argue that forcing developers to justify not using AI creates an unfair pressure environment that undermines authentic creative expression. Critics are especially frustrated by executive investments in AI while hundreds of industry staff face layoffs."
+        },
+        {
+          "stance": "Skeptical of Corporate Denial",
+          "detail": "Many players believe Ubisoft's distinction between a 'mandate' and a 'requirement to justify' is simply semantics designed to soften public backlash. They expect future Ubisoft titles to increasingly feature AI generation regardless of official statements."
+        }
+      ]
+    },
+    "category": "Industry",
+    "gameTitle": "",
+    "gameScale": "AAA",
+    "fanbaseScore": 9,
+    "isUpcoming": false,
+    "isRumor": false,
+    "releaseWindow": "",
+    "isControversy": true,
+    "controversyAngle": "AI Mandate Backlash",
+    "isTrending": false,
+    "importance": 8,
+    "source": "Rock Paper Shotgun",
+    "url": "https://www.rockpapershotgun.com/ubisoft-now-require-their-devs-to-explain-why-they-arent-using-genai-in-game-pitches-claims-report-though-the-assassins-creed-publishers-deny-theyre-mandating-it",
+    "image": "https://assetsio.gnwcdn.com/farcry-tv-series-fx-rob-mac-01.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "publishedAt": "2026-11-26T14:57:30.000Z"
+  },
+  {
     "id": "3319f4708be665c5",
     "title": "GTA 6 Destroys Livestream Records With 420 Million Hours Watched",
     "summary": "Grand Theft Auto 6 has shattered livestreaming records, pulling in more than 420 million hours watched during its first week on sale. According to data from Streams Charts, this staggering total surpasses the combined first-week viewership of major titles like Elden Ring, Diablo 4, Valorant, and Lost Ark.",
@@ -308,55 +359,55 @@
     "publishedAt": "2026-11-26T15:32:20.000Z"
   },
   {
-    "id": "e3e25e724d87073b",
-    "title": "Ubisoft Denies GenAI Pitch Mandate Following Report on Internal Developer Pressure",
-    "summary": "Ubisoft has pushed back against a new report claiming its developers must explain why they are not using generative AI in game pitches. While management encourages exploring AI and established the Motherbrain studio division, the company insists technology adoption remains optional.",
+    "id": "7715cc3b5f5e7c26",
+    "title": "Forza Horizon 6 Dev Admits Flaws Amid Custom Car Design Bans and Moderation Backlash",
+    "summary": "Playground Games has addressed growing community frustration over inconsistent moderation and bans related to custom car liveries and Itasha designs in Forza Horizon 6. The developer acknowledged that there is significant room for improvement, releasing detailed enforcement statistics and promising clearer rules moving forward.",
     "content": [
-      "Ubisoft has denied claims that it is forcing developers to integrate generative AI into new game pitches as an absolute rule. The publisher's official statement follows an investigative report by Vertical Slice, which alleged that internal game pitching processes now require developers to either outline how genAI will accelerate production or provide a detailed justification for why the technology is unsuitable.",
-      "According to anonymous staff cited in the report, Ubisoft management revealed the procedural shift during an internal presentation, marking what employees described as a notable attitude shift. Sources indicated that workers feel increasingly cornered by the heavy push toward generative AI, though they acknowledged that management has stopped short of issuing a strict blanket mandate requiring genAI in every project.",
-      "In response to the report, Ubisoft issued an official statement emphasizing that technology usage is up to individual teams. The company stated that while it encourages teams to explore where AI can bring value, projects are not required to use generative AI. Instead, teams must determine whether the tech makes sense for the specific game and player experience they want to create.",
-      "This internal debate arrives against a backdrop of aggressive corporate restructuring, studio closures, and widespread layoffs at Ubisoft throughout the year. Recent cuts have impacted hundreds of employees across major subsidiaries including Ubisoft Montreal, Ubisoft Quebec, and several international studios, compounding existing friction over shifting remote work policies that previously triggered strikes in France and Italy."
+      "One of the standout features of Forza Horizon 6 is its extensive custom car design system, which allows players to share intricate user-generated content (UGC) like Itasha wraps depicting anime and gaming characters. However, as the community has embraced these creative tools, rising tensions have emerged over player bans and the removal of custom liveries due to vague content boundaries.",
+      "In response to community outcry, developer Playground Games has released transparency metrics detailing a recent one-month period where 12.5 million pieces of content were created. Out of 14,000 reported items, enforcement action was taken against a tiny fraction, resulting in 250 warnings, 90 suspensions, and 60 permanent bans primarily for severe violations involving full nudity or sexual content.",
+      "Playground emphasized that human moderators handle all final calls rather than automated AI systems, and that appeals are reviewed by a fresh set of eyes. Despite this human-driven process, the studio admitted that its policies can be difficult to navigate, particularly given the challenge of applying a global 'Everyone' rating standard to regional subcultures like Japanese Itasha art where cultural context varies greatly.",
+      "The studio also clarified that the code of conduct applies equally to private designs that might leak through the Drivatar system, or shared liveries that remain visible even after a creator unpublishes them. Moving forward, Playground Games has committed to delivering clearer guidelines, improved in-game messaging for content removals, and a more transparent appeals process to support the game's creative community."
     ],
     "highlights": [
-      "A report claimed Ubisoft pitches require justification if genAI is excluded.",
-      "Ubisoft denied a strict mandate, stating genAI use remains optional.",
-      "The company recently established Motherbrain, a division focused on generative AI experiments.",
-      "Internal tensions follow a year of extensive layoffs, studio closures, and remote work strikes."
+      "Playground Games addresses player frustrations over custom livery bans and moderation inconsistency.",
+      "Out of 12.5 million creations in a month, only 250 warnings, 90 suspensions, and 60 permanent bans were issued.",
+      "The developer reassures fans that Itasha designs are fully welcome, provided they adhere to global E-rated standards.",
+      "Playground promises clearer rules, updated codes of conduct, and better in-game messaging for appeals."
     ],
     "socialPulse": {
       "sentiment": "Backlash",
       "viralPlatforms": [
         "X / Twitter",
         "Reddit",
-        "YouTube"
+        "Steam"
       ],
-      "summary": "Gamers and developers on social media have heavily criticized Ubisoft's push into generative AI, especially given the backdrop of recent studio closures and massive layoffs. Many players feel management is prioritizing automated technology over human creativity and job security, while others view the denial of a strict mandate as mere damage control.",
+      "summary": "Players have expressed heavy frustration over ambiguous moderation rules that have led to unexpected bans for innocent custom car designs and anime-inspired Itasha liveries. While some community members appreciate the studio's transparency and willingness to share enforcement data, others remain skeptical about the consistency of human moderators applying global E-rated standards.",
       "viewpoints": [
         {
-          "stance": "Pro-Developer / Anti-AI",
-          "detail": "Commentators argue that forcing developers to justify not using AI creates an unfair pressure environment that undermines authentic creative expression. Critics are especially frustrated by executive investments in AI while hundreds of industry staff face layoffs."
+          "stance": "Frustrated Creators",
+          "detail": "Many players who spend hours crafting intricate liveries feel unfairly penalized due to overly broad and unclear UGC guidelines. They argue that strict global age ratings stifle cultural expressions like Itasha designs that are completely harmless in context."
         },
         {
-          "stance": "Skeptical of Corporate Denial",
-          "detail": "Many players believe Ubisoft's distinction between a 'mandate' and a 'requirement to justify' is simply semantics designed to soften public backlash. They expect future Ubisoft titles to increasingly feature AI generation regardless of official statements."
+          "stance": "Cautiously Optimistic",
+          "detail": "Some community members welcome Playground Games stepping forward with concrete enforcement numbers and a promise of better communication. They believe that clarifying rules and improving the appeal process is a strong step in the right direction."
         }
       ]
     },
-    "category": "Industry",
-    "gameTitle": "",
+    "category": "PC",
+    "gameTitle": "Forza Horizon 6",
     "gameScale": "AAA",
     "fanbaseScore": 9,
     "isUpcoming": false,
     "isRumor": false,
     "releaseWindow": "",
     "isControversy": true,
-    "controversyAngle": "AI Mandate Backlash",
-    "isTrending": true,
-    "importance": 8,
-    "source": "Rock Paper Shotgun",
-    "url": "https://www.rockpapershotgun.com/ubisoft-now-require-their-devs-to-explain-why-they-arent-using-genai-in-game-pitches-claims-report-though-the-assassins-creed-publishers-deny-theyre-mandating-it",
-    "image": "https://assetsio.gnwcdn.com/farcry-tv-series-fx-rob-mac-01.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "publishedAt": "2026-11-26T14:57:30.000Z"
+    "controversyAngle": "UGC Moderation Bans",
+    "isTrending": false,
+    "importance": 7,
+    "source": "PCGamesN",
+    "url": "https://www.pcgamesn.com/forza-horizon-6/custom-designs-ugc-bans",
+    "image": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/11/forza-horizon-6-ugc-regulations-itasha-and-custom-car-design-rules-playground-games.jpg",
+    "publishedAt": "2026-11-26T14:44:18.000Z"
   },
   {
     "id": "5b0087d0b388ffdc",
@@ -409,57 +460,6 @@
     "url": "https://www.rockpapershotgun.com/warhammer-40000-space-marine-2s-latest-updates-introduces-a-weekly-clash-mode-that-shakes-up-pvp-with-some-constricting-modifiers",
     "image": "https://assetsio.gnwcdn.com/warhammer-40k-space-marine-2-decimation.jpg?width=690&quality=85&format=jpg&auto=webp",
     "publishedAt": "2026-11-26T17:58:30.000Z"
-  },
-  {
-    "id": "7715cc3b5f5e7c26",
-    "title": "Forza Horizon 6 Dev Admits Flaws Amid Custom Car Design Bans and Moderation Backlash",
-    "summary": "Playground Games has addressed growing community frustration over inconsistent moderation and bans related to custom car liveries and Itasha designs in Forza Horizon 6. The developer acknowledged that there is significant room for improvement, releasing detailed enforcement statistics and promising clearer rules moving forward.",
-    "content": [
-      "One of the standout features of Forza Horizon 6 is its extensive custom car design system, which allows players to share intricate user-generated content (UGC) like Itasha wraps depicting anime and gaming characters. However, as the community has embraced these creative tools, rising tensions have emerged over player bans and the removal of custom liveries due to vague content boundaries.",
-      "In response to community outcry, developer Playground Games has released transparency metrics detailing a recent one-month period where 12.5 million pieces of content were created. Out of 14,000 reported items, enforcement action was taken against a tiny fraction, resulting in 250 warnings, 90 suspensions, and 60 permanent bans primarily for severe violations involving full nudity or sexual content.",
-      "Playground emphasized that human moderators handle all final calls rather than automated AI systems, and that appeals are reviewed by a fresh set of eyes. Despite this human-driven process, the studio admitted that its policies can be difficult to navigate, particularly given the challenge of applying a global 'Everyone' rating standard to regional subcultures like Japanese Itasha art where cultural context varies greatly.",
-      "The studio also clarified that the code of conduct applies equally to private designs that might leak through the Drivatar system, or shared liveries that remain visible even after a creator unpublishes them. Moving forward, Playground Games has committed to delivering clearer guidelines, improved in-game messaging for content removals, and a more transparent appeals process to support the game's creative community."
-    ],
-    "highlights": [
-      "Playground Games addresses player frustrations over custom livery bans and moderation inconsistency.",
-      "Out of 12.5 million creations in a month, only 250 warnings, 90 suspensions, and 60 permanent bans were issued.",
-      "The developer reassures fans that Itasha designs are fully welcome, provided they adhere to global E-rated standards.",
-      "Playground promises clearer rules, updated codes of conduct, and better in-game messaging for appeals."
-    ],
-    "socialPulse": {
-      "sentiment": "Backlash",
-      "viralPlatforms": [
-        "X / Twitter",
-        "Reddit",
-        "Steam"
-      ],
-      "summary": "Players have expressed heavy frustration over ambiguous moderation rules that have led to unexpected bans for innocent custom car designs and anime-inspired Itasha liveries. While some community members appreciate the studio's transparency and willingness to share enforcement data, others remain skeptical about the consistency of human moderators applying global E-rated standards.",
-      "viewpoints": [
-        {
-          "stance": "Frustrated Creators",
-          "detail": "Many players who spend hours crafting intricate liveries feel unfairly penalized due to overly broad and unclear UGC guidelines. They argue that strict global age ratings stifle cultural expressions like Itasha designs that are completely harmless in context."
-        },
-        {
-          "stance": "Cautiously Optimistic",
-          "detail": "Some community members welcome Playground Games stepping forward with concrete enforcement numbers and a promise of better communication. They believe that clarifying rules and improving the appeal process is a strong step in the right direction."
-        }
-      ]
-    },
-    "category": "PC",
-    "gameTitle": "Forza Horizon 6",
-    "gameScale": "AAA",
-    "fanbaseScore": 9,
-    "isUpcoming": false,
-    "isRumor": false,
-    "releaseWindow": "",
-    "isControversy": true,
-    "controversyAngle": "UGC Moderation Bans",
-    "isTrending": true,
-    "importance": 7,
-    "source": "PCGamesN",
-    "url": "https://www.pcgamesn.com/forza-horizon-6/custom-designs-ugc-bans",
-    "image": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/11/forza-horizon-6-ugc-regulations-itasha-and-custom-car-design-rules-playground-games.jpg",
-    "publishedAt": "2026-11-26T14:44:18.000Z"
   },
   {
     "id": "b76559ff35e32bd1",
@@ -658,7 +658,7 @@
     "releaseWindow": "",
     "isControversy": false,
     "controversyAngle": "",
-    "isTrending": true,
+    "isTrending": false,
     "importance": 6,
     "source": "Nintendo Life",
     "url": "https://www.nintendolife.com/news/2026/11/the-witcher-3-remastered-ver-5-02-update-is-now-live-here-are-the-full-patch-notes",
@@ -1024,56 +1024,6 @@
     "publishedAt": "2026-11-26T18:00:00.000Z"
   },
   {
-    "id": "d23df75e19084542",
-    "title": "HARK THE GHOUL Launches January 21, 2027 Across All Major Platforms",
-    "summary": "Dungeon crawler Hark the Ghoul has officially locked in a release date of January 21, 2027. The game is scheduled to launch simultaneously across PlayStation 5, Xbox Series, Switch 2, Switch, and PC.",
-    "content": [
-      "Dungeon crawler Hark the Ghoul has officially received a confirmed release date, bringing excitement to fans of the genre. Developer and publisher details point toward a massive multiplatform rollout scheduled for early 2027.",
-      "The title will be coming to a wide array of current and next-generation platforms. Specifically, players will be able to experience Hark the Ghoul on PlayStation 5, Xbox Series X/S, PC, Nintendo Switch, and the upcoming successor console tentatively referred to as the Switch 2.",
-      "This broad hardware support ensures that almost the entire console and PC gaming ecosystem will have access to the dungeon crawler on day one. Cross-generation and next-generation releases highlight the developer's ambition to reach players wherever they play.",
-      "With the release date set for January 21, 2027, fans now have a concrete timeline to look forward to. More gameplay details and platform-specific features are expected to be revealed as the launch window approaches."
-    ],
-    "highlights": [
-      "Hark the Ghoul launches on January 21, 2027.",
-      "Releasing across PlayStation 5, Xbox Series, PC, Switch, and Switch 2.",
-      "Positioned as a multiplatform dungeon crawler experience."
-    ],
-    "socialPulse": {
-      "sentiment": "Hyped",
-      "viralPlatforms": [
-        "X / Twitter",
-        "Reddit",
-        "YouTube"
-      ],
-      "summary": "The announcement of a wide multiplatform release date for Hark the Ghoul has generated significant excitement across online gaming communities. Fans are particularly thrilled about the inclusion of the Switch 2 alongside current-generation hardware.",
-      "viewpoints": [
-        {
-          "stance": "Excited for Switch 2 Support",
-          "detail": "Many players are thrilled to see the upcoming Nintendo successor included in the day-one lineup. It signals strong confidence in the new hardware's capabilities."
-        },
-        {
-          "stance": "Broad Platform Access",
-          "detail": "Gamers appreciate that the developers are not locking the title to a single ecosystem. Simultaneous releases across PC and all major consoles are seen as a major win."
-        }
-      ]
-    },
-    "category": "Console",
-    "gameTitle": "Hark the Ghoul",
-    "gameScale": "AA",
-    "fanbaseScore": 6,
-    "isUpcoming": true,
-    "isRumor": false,
-    "releaseWindow": "Jan 21, 2027",
-    "isControversy": false,
-    "controversyAngle": "",
-    "isTrending": true,
-    "importance": 6,
-    "source": "Gematsu",
-    "url": "https://www.gematsu.com/2026/11/hark-the-ghoul-launches-january-21-2027-for-ps5-xbox-series-switch-2-switch-and-pc",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3058660/5b0e4283073fca82f3cfbd6b7990416663dcf7bd/ss_5b0e4283073fca82f3cfbd6b7990416663dcf7bd.1920x1080.jpg?t=1795726221",
-    "publishedAt": "2026-11-26T15:50:27.000Z"
-  },
-  {
     "id": "82920a4d6424e046",
     "title": "Aeterna Lucis Dev Braces For Impact As Silksong Announces Fresh Showcase",
     "summary": "After delaying Aeterna Lucis to December 2026 specifically to escape Hollow Knight: Silksong's launch window, indie developer Aeternum Game Studios is now facing a new collision course. Team Cherry has announced an upcoming 'Cherry Time' special presentation featuring updates on the Sea of Sorrow DLC, threatening to overshadow indie releases yet again.",
@@ -1125,6 +1075,56 @@
     "publishedAt": "2026-11-26T12:45:00.000Z"
   },
   {
+    "id": "d23df75e19084542",
+    "title": "HARK THE GHOUL Launches January 21, 2027 Across All Major Platforms",
+    "summary": "Dungeon crawler Hark the Ghoul has officially locked in a release date of January 21, 2027. The game is scheduled to launch simultaneously across PlayStation 5, Xbox Series, Switch 2, Switch, and PC.",
+    "content": [
+      "Dungeon crawler Hark the Ghoul has officially received a confirmed release date, bringing excitement to fans of the genre. Developer and publisher details point toward a massive multiplatform rollout scheduled for early 2027.",
+      "The title will be coming to a wide array of current and next-generation platforms. Specifically, players will be able to experience Hark the Ghoul on PlayStation 5, Xbox Series X/S, PC, Nintendo Switch, and the upcoming successor console tentatively referred to as the Switch 2.",
+      "This broad hardware support ensures that almost the entire console and PC gaming ecosystem will have access to the dungeon crawler on day one. Cross-generation and next-generation releases highlight the developer's ambition to reach players wherever they play.",
+      "With the release date set for January 21, 2027, fans now have a concrete timeline to look forward to. More gameplay details and platform-specific features are expected to be revealed as the launch window approaches."
+    ],
+    "highlights": [
+      "Hark the Ghoul launches on January 21, 2027.",
+      "Releasing across PlayStation 5, Xbox Series, PC, Switch, and Switch 2.",
+      "Positioned as a multiplatform dungeon crawler experience."
+    ],
+    "socialPulse": {
+      "sentiment": "Hyped",
+      "viralPlatforms": [
+        "X / Twitter",
+        "Reddit",
+        "YouTube"
+      ],
+      "summary": "The announcement of a wide multiplatform release date for Hark the Ghoul has generated significant excitement across online gaming communities. Fans are particularly thrilled about the inclusion of the Switch 2 alongside current-generation hardware.",
+      "viewpoints": [
+        {
+          "stance": "Excited for Switch 2 Support",
+          "detail": "Many players are thrilled to see the upcoming Nintendo successor included in the day-one lineup. It signals strong confidence in the new hardware's capabilities."
+        },
+        {
+          "stance": "Broad Platform Access",
+          "detail": "Gamers appreciate that the developers are not locking the title to a single ecosystem. Simultaneous releases across PC and all major consoles are seen as a major win."
+        }
+      ]
+    },
+    "category": "Console",
+    "gameTitle": "Hark the Ghoul",
+    "gameScale": "AA",
+    "fanbaseScore": 6,
+    "isUpcoming": true,
+    "isRumor": false,
+    "releaseWindow": "Jan 21, 2027",
+    "isControversy": false,
+    "controversyAngle": "",
+    "isTrending": true,
+    "importance": 6,
+    "source": "Gematsu",
+    "url": "https://www.gematsu.com/2026/11/hark-the-ghoul-launches-january-21-2027-for-ps5-xbox-series-switch-2-switch-and-pc",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3058660/5b0e4283073fca82f3cfbd6b7990416663dcf7bd/ss_5b0e4283073fca82f3cfbd6b7990416663dcf7bd.1920x1080.jpg?t=1795726221",
+    "publishedAt": "2026-11-26T15:50:27.000Z"
+  },
+  {
     "id": "badf78583e3e271a",
     "title": "Upgrade Your PC Setup with These Top-Rated Budget Gamepads Under $25",
     "summary": "PC gamers looking for an affordable alternative to costly first-party controllers can choose from several sub-$25 options featuring stick-drift resistant Hall effect joysticks. Devices like the GameSir Nova Lite 2 and 8BitDo Ultimate 2C bring low-latency wireless gaming to budget-conscious setups without breaking the bank.",
@@ -1168,7 +1168,7 @@
     "releaseWindow": "",
     "isControversy": false,
     "controversyAngle": "",
-    "isTrending": true,
+    "isTrending": false,
     "importance": 5,
     "source": "PC Gamer",
     "url": "https://www.pcgamer.com/hardware/game-pads/these-budget-friendly-pads-are-the-cheapest-quickest-way-to-instantly-upgrade-your-setup-for-under-usd25",
@@ -1278,20 +1278,21 @@
     "publishedAt": "2026-11-25T16:05:50.000Z"
   },
   {
-    "id": "972ac98d85ae0ca3",
-    "title": "Diablo 4 is Making Its Most Nostalgic Season Permanently Playable",
-    "summary": "Blizzard has announced that due to overwhelming community demand, much of Diablo 4's nostalgic Season 15, Hell's Legacy, will carry forward permanently ahead of Season 16. Players can look forward to keeping classic boss encounters, legacy unique items, and even the secret cow island when the next update arrives.",
+    "id": "e2c43226f318ed7b",
+    "title": "How The Witcher 3 Forced Playground Games to Rethink the Upcoming Fable Reboot",
+    "summary": "Playground Games reveals that the upcoming Fable reboot had to look far beyond Lionhead's original trilogy due to modern benchmarks like The Witcher 3. Studio founder Ralph Fulton explained that open-world action RPG expectations changed dramatically over the last decade, requiring the team to blend classic British wit with modern systemic design.",
     "content": [
-      "Diablo 4 is gearing up for the arrival of Season 16, but it will not be leaving its popular previous season behind entirely. As detailed by Blizzard in a breakdown of the upcoming Season of Tyrael's Gambit, much of the previous season, Hell's Legacy, will become a permanent part of Diablo 4 going forward. Season 15 served as a celebration of the franchise's history, adding a smorgasbord of items and callbacks to previous Diablo titles, including a storyline revolving around Deckard Cain and the return of enemies and boss encounters from Diablo 2.",
-      "Most of that content is carrying forward due to overwhelming requests from the game's community. Hell's Legacy's capstone dungeons will be added permanently, alongside the ability to summon a World Boss version of Diablo and take on the cow god Moopisto. The Prime Evil Council is also becoming permanent, working the same way the game's other Lair bosses do with specific items required to open reward chests after defeating the encounter.",
-      "Waking Nightmare dungeons will still be accessible through Chronicle of Nightmares dungeon keys, while monsters from previous Diablo games will have a chance to spawn in The Pit. Players who progressed their secret cow level journey can also rejoice as the secret cow island and its corresponding waypoint are staying. Furthermore, Legacy Uniques like the Annihilus Seal and Hellfire Torch Charm will be added permanently.",
-      "Looking ahead, Diablo 4 Season 16 launches on December 1, bringing forward the Hell's Legacy content alongside an overhaul to the War Plans system and easier Helltide activities. Blizzard also noted that additional features from the season are being evaluated for future reworks. Beyond Season 16, Blizzard confirmed the game will receive a new Amazon class next year, and work is already underway on Diablo 5 for a 2029 release."
+      "Developer Playground Games faced the daunting task of looking beyond Lionhead's original run of Fable games when tackling the franchise's upcoming fantasy reboot. Bringing the classic fairytale series back to life required setting up an entirely new team, making its decade-long development journey a bit more complex than the studio's smooth sailing on the Forza Horizon series.",
+      "In a recent interview with GamesIndustry.biz, studio founder and general manager Ralph Fulton discussed how the industry shifted during development, highlighting technological advancements alongside the massive impact of rival titles. Fulton noted that 2015 marked a major turning point when The Witcher 3 redefined open-world action RPGs and established a brand new gold standard for the industry.",
+      "Following that release, the Assassin's Creed franchise also shifted into a modernized, quasi-RPG format with entries like Origins, Odyssey, and Valhalla. Fulton emphasized that these sweeping changes continuously reset player expectations, meaning millions of gamers now demand specific things from big-budget open-world role-playing games that the original Fable trilogy alone could not satisfy.",
+      "Despite adopting modern standards, Playground's Fable is still heavily drawing from its roots, retaining the signature British wit and in-flux morality system from the original games. Furthermore, the reboot incorporates spontaneous life simulation elements, such as social and economic simulations, which Fulton points out remain entirely unique to Fable within the RPG genre.",
+      "Players fondly remember raising multiple families and acting as landlords across Albion, and seeing the new Fable lean into these systemic choices with more believable NPC reactions could give the upcoming title immense staying power. The long-awaited reboot aims to balance its classic identity with the modern expectations set by a decade of open-world evolution."
     ],
     "highlights": [
-      "Much of Season 15's Hell's Legacy content is becoming permanent due to overwhelming community demand.",
-      "Classic boss encounters, capstone dungeons, and the secret cow island are all carrying forward into Diablo 4.",
-      "Legacy Unique items such as the Annihilus Seal and Hellfire Torch Charm will remain in the game permanently.",
-      "Diablo 4 Season 16 launches on December 1 alongside an overhaul to War Plans and Helltide activities."
+      "The Witcher 3 raised the bar and became the gold standard for open-world action RPGs in 2015.",
+      "Playground Games realized relying solely on the original Fable trilogy would leave the reboot lacking for modern audiences.",
+      "The reboot retains unique features like social and economic simulations, acting almost like a life sim.",
+      "Classic elements like British wit and an in-flux morality system remain core to the new game."
     ],
     "socialPulse": {
       "sentiment": "Hyped",
@@ -1300,33 +1301,33 @@
         "Reddit",
         "YouTube"
       ],
-      "summary": "Players across social media are expressing immense excitement and relief that Blizzard is listening to feedback by keeping the nostalgic features of Season 15. Fans are celebrating the retention of classic bosses, legacy items, and secret areas like the cow island. Many are praising the developers for preserving the best parts of the franchise's history in the core game.",
+      "summary": "Fans are expressing cautious optimism and excitement on social media after hearing the developers acknowledge modern RPG standards. Many players are relieved to see that Playground Games understands the importance of keeping Fable's unique life-sim mechanics intact rather than just copying standard open-world tropes. Others are eager to see how the signature British humor and modernized gameplay will merge when the game finally launches.",
       "viewpoints": [
         {
-          "stance": "Praising Developer Listening",
-          "detail": "Fans on Reddit and Twitter are thrilled that Blizzard actually listened to overwhelming community requests to make seasonal content permanent. Many feel this sets a fantastic precedent for future updates and respects player time."
+          "stance": "Cautiously Optimistic",
+          "detail": "Many veteran fans are glad the studio is recognizing modern RPG standards like The Witcher 3 while promising to keep the unique life-sim elements alive. They believe this blend could result in a modernized experience that still feels authentically like Fable."
         },
         {
-          "stance": "Nostalgia Appreciation",
-          "detail": "Veterans of the franchise are excited to keep classic elements like the Diablo 2 boss encounters and unique charms permanently accessible. The retention of the secret cow level content has also been a massive hit among the community."
+          "stance": "Eager for Unique Identity",
+          "detail": "Some community members emphasize that Fable's charm has always rested on its quirky social simulation and British wit, which competitors lack. They are relieved the developers are not stripping out these distinctive features in pursuit of generic open-world trends."
         }
       ]
     },
-    "category": "PC",
-    "gameTitle": "Diablo 4",
+    "category": "Console",
+    "gameTitle": "Fable",
     "gameScale": "AAA",
     "fanbaseScore": 9,
     "isUpcoming": true,
     "isRumor": false,
-    "releaseWindow": "Dec 1, 2025",
+    "releaseWindow": "Next year",
     "isControversy": false,
     "controversyAngle": "",
     "isTrending": false,
     "importance": 8,
-    "source": "GameSpot",
-    "url": "https://www.gamespot.com/articles/diablo-4s-most-nostalgic-season-is-becoming-mostly-permanent",
-    "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Diablo-4-Hells-Legacy-Season-Becoming-Permanent.jpg?w=1200",
-    "publishedAt": "2026-11-25T18:29:11.000Z"
+    "source": "Eurogamer",
+    "url": "https://www.eurogamer.net/fable-the-witcher-3-gold-standard",
+    "image": "https://assetsio.gnwcdn.com/fighting-a-fire-breathing-chicken-in-Fable.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "publishedAt": "2026-11-25T19:57:10.000Z"
   },
   {
     "id": "b8c6187274659fc6",
@@ -1379,6 +1380,57 @@
     "url": "https://www.rockpapershotgun.com/ai-generated-gta-6-pc-ports-get-nuked-in-alleged-rockstar-takedown-spree-as-former-bungie-dev-hails-most-ridiculous-dumpster-fire-ever",
     "image": "https://assetsio.gnwcdn.com/gta6-dancing-on-car.jpeg?width=690&quality=85&format=jpg&auto=webp",
     "publishedAt": "2026-11-25T10:38:50.000Z"
+  },
+  {
+    "id": "972ac98d85ae0ca3",
+    "title": "Diablo 4 is Making Its Most Nostalgic Season Permanently Playable",
+    "summary": "Blizzard has announced that due to overwhelming community demand, much of Diablo 4's nostalgic Season 15, Hell's Legacy, will carry forward permanently ahead of Season 16. Players can look forward to keeping classic boss encounters, legacy unique items, and even the secret cow island when the next update arrives.",
+    "content": [
+      "Diablo 4 is gearing up for the arrival of Season 16, but it will not be leaving its popular previous season behind entirely. As detailed by Blizzard in a breakdown of the upcoming Season of Tyrael's Gambit, much of the previous season, Hell's Legacy, will become a permanent part of Diablo 4 going forward. Season 15 served as a celebration of the franchise's history, adding a smorgasbord of items and callbacks to previous Diablo titles, including a storyline revolving around Deckard Cain and the return of enemies and boss encounters from Diablo 2.",
+      "Most of that content is carrying forward due to overwhelming requests from the game's community. Hell's Legacy's capstone dungeons will be added permanently, alongside the ability to summon a World Boss version of Diablo and take on the cow god Moopisto. The Prime Evil Council is also becoming permanent, working the same way the game's other Lair bosses do with specific items required to open reward chests after defeating the encounter.",
+      "Waking Nightmare dungeons will still be accessible through Chronicle of Nightmares dungeon keys, while monsters from previous Diablo games will have a chance to spawn in The Pit. Players who progressed their secret cow level journey can also rejoice as the secret cow island and its corresponding waypoint are staying. Furthermore, Legacy Uniques like the Annihilus Seal and Hellfire Torch Charm will be added permanently.",
+      "Looking ahead, Diablo 4 Season 16 launches on December 1, bringing forward the Hell's Legacy content alongside an overhaul to the War Plans system and easier Helltide activities. Blizzard also noted that additional features from the season are being evaluated for future reworks. Beyond Season 16, Blizzard confirmed the game will receive a new Amazon class next year, and work is already underway on Diablo 5 for a 2029 release."
+    ],
+    "highlights": [
+      "Much of Season 15's Hell's Legacy content is becoming permanent due to overwhelming community demand.",
+      "Classic boss encounters, capstone dungeons, and the secret cow island are all carrying forward into Diablo 4.",
+      "Legacy Unique items such as the Annihilus Seal and Hellfire Torch Charm will remain in the game permanently.",
+      "Diablo 4 Season 16 launches on December 1 alongside an overhaul to War Plans and Helltide activities."
+    ],
+    "socialPulse": {
+      "sentiment": "Hyped",
+      "viralPlatforms": [
+        "X / Twitter",
+        "Reddit",
+        "YouTube"
+      ],
+      "summary": "Players across social media are expressing immense excitement and relief that Blizzard is listening to feedback by keeping the nostalgic features of Season 15. Fans are celebrating the retention of classic bosses, legacy items, and secret areas like the cow island. Many are praising the developers for preserving the best parts of the franchise's history in the core game.",
+      "viewpoints": [
+        {
+          "stance": "Praising Developer Listening",
+          "detail": "Fans on Reddit and Twitter are thrilled that Blizzard actually listened to overwhelming community requests to make seasonal content permanent. Many feel this sets a fantastic precedent for future updates and respects player time."
+        },
+        {
+          "stance": "Nostalgia Appreciation",
+          "detail": "Veterans of the franchise are excited to keep classic elements like the Diablo 2 boss encounters and unique charms permanently accessible. The retention of the secret cow level content has also been a massive hit among the community."
+        }
+      ]
+    },
+    "category": "PC",
+    "gameTitle": "Diablo 4",
+    "gameScale": "AAA",
+    "fanbaseScore": 9,
+    "isUpcoming": true,
+    "isRumor": false,
+    "releaseWindow": "Dec 1, 2025",
+    "isControversy": false,
+    "controversyAngle": "",
+    "isTrending": false,
+    "importance": 8,
+    "source": "GameSpot",
+    "url": "https://www.gamespot.com/articles/diablo-4s-most-nostalgic-season-is-becoming-mostly-permanent",
+    "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Diablo-4-Hells-Legacy-Season-Becoming-Permanent.jpg?w=1200",
+    "publishedAt": "2026-11-25T18:29:11.000Z"
   },
   {
     "id": "e9010d45f1cfeee1",
@@ -1536,58 +1588,6 @@
     "publishedAt": "2026-11-25T15:32:40.000Z"
   },
   {
-    "id": "f904ed005e4e8335",
-    "title": "Capcom's Dinosaur Shooter Exoprimal Joins the Live-Service Graveyard With Servers Ending in 2027",
-    "summary": "Capcom has announced that its dinosaur action game Exoprimal will officially shut down its servers on September 30, 2027. Despite praise for its fun combat and chaotic premise following its 2023 launch, the game struggled to maintain a healthy player base.",
-    "content": [
-      "Capcom has announced that service for its Overwatch-with-dinosaurs game, Exoprimal, will be permanently discontinued, joining the growing list of live-service titles meeting an early end. The game's servers are scheduled to go offline on Thursday, September 30, 2027, making it entirely unplayable after that date. In a statement on the official site, Capcom thanked the community for their support and apologized for the gravity of the announcement.",
-      "The wind-down process is already underway, with season passes no longer available for purchase through digital storefronts. Exoprimal and all of its associated downloadable content will be completely delisted from stores starting March 30, 2027. However, players who already own the game will still be able to download and play it prior to the final server shutdown deadline in September 2027.",
-      "Upon its 2023 launch, Exoprimal offered a unique premise featuring massive oceans of dinosaurs, though it struggled to capture a massive long-term audience. GameSpot's review highlighted that while the early hours featured repetitive missions, later surprises, difficulty escalations, and enemy variety brought fresh life to the shooter for players willing to stick with it.",
-      "Signs of the game's decline had been mounting since 2024, when Capcom announced the end of new seasonal updates in favor of rotating existing content monthly. Player numbers on Steam ultimately cratered after peaking at 4,995 concurrent players in November 2023, dropping to a 24-hour peak of just 23 players. Exoprimal's closure follows a brutal period for live-service titles in 2026, which also saw the shutdowns of games like Highguard, Anthem, and New World: Aeternum."
-    ],
-    "highlights": [
-      "Exoprimal servers will officially shut down on September 30, 2027.",
-      "The game and its DLC will be delisted from digital storefronts on March 30, 2027.",
-      "Season passes have already been pulled from store shelves by Capcom.",
-      "Steam concurrent player counts dwindled significantly following its 2023 launch."
-    ],
-    "socialPulse": {
-      "sentiment": "Mixed",
-      "viralPlatforms": [
-        "X / Twitter",
-        "Reddit",
-        "Steam",
-        "YouTube"
-      ],
-      "summary": "Gamers on social media are expressing a mix of nostalgia for the game's unique concept and resignation regarding the state of live-service titles. While some fans are praising the chaotic fun of fighting waves of dinosaurs with friends, others point out that the writing was on the wall due to dwindling player counts and a lack of continuous content updates.",
-      "viewpoints": [
-        {
-          "stance": "Appreciative of the Core Concept",
-          "detail": "Some community members fondly remember the chaotic fun of the dinosaur-swarming combat and unique gameplay loop. They feel that the game deserved a better fate and blame a lack of sustained marketing and content for its ultimate demise."
-        },
-        {
-          "stance": "Unsurprised by the Closure",
-          "detail": "Other players noted that the low concurrent player numbers on Steam and Capcom's previous announcement to halt seasonal updates made this outcome completely inevitable. They view it as another cautionary tale about the unsustainable nature of the live-service model."
-        }
-      ]
-    },
-    "category": "Industry",
-    "gameTitle": "Exoprimal",
-    "gameScale": "AAA",
-    "fanbaseScore": 6,
-    "isUpcoming": false,
-    "isRumor": false,
-    "releaseWindow": "",
-    "isControversy": false,
-    "controversyAngle": "",
-    "isTrending": false,
-    "importance": 6,
-    "source": "GameSpot",
-    "url": "https://www.gamespot.com/articles/another-live-service-game-is-going-extinct-and-this-one-has-dinosaurs",
-    "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Exoprimal.jpg?w=1200",
-    "publishedAt": "2026-11-25T17:57:42.000Z"
-  },
-  {
     "id": "beded1df65460a20",
     "title": "Nvidia Finally Fixes Driver Bug That Hammered SSDs and Rewrote Massive Log Files",
     "summary": "Nvidia has released GeForce Game Ready driver version 621.40, serving as a critical follow-up patch to address a stubborn bug that pointlessly rewrote log files and threatened user SSD health. While an earlier weekend hotfix only delayed the issue, forum testing indicates the new version successfully resolves both the storage-hammering bug and a secondary custom cursor glitch.",
@@ -1689,6 +1689,58 @@
     "url": "https://www.eurogamer.net/gta-6-call-of-duty-fortnite-fc-27-daily-players-alinea",
     "image": "https://assetsio.gnwcdn.com/Screenshot-2026-11-24-at-17.54.07.png?width=690&quality=85&format=jpg&auto=webp",
     "publishedAt": "2026-11-24T17:59:50.000Z"
+  },
+  {
+    "id": "f904ed005e4e8335",
+    "title": "Capcom's Dinosaur Shooter Exoprimal Joins the Live-Service Graveyard With Servers Ending in 2027",
+    "summary": "Capcom has announced that its dinosaur action game Exoprimal will officially shut down its servers on September 30, 2027. Despite praise for its fun combat and chaotic premise following its 2023 launch, the game struggled to maintain a healthy player base.",
+    "content": [
+      "Capcom has announced that service for its Overwatch-with-dinosaurs game, Exoprimal, will be permanently discontinued, joining the growing list of live-service titles meeting an early end. The game's servers are scheduled to go offline on Thursday, September 30, 2027, making it entirely unplayable after that date. In a statement on the official site, Capcom thanked the community for their support and apologized for the gravity of the announcement.",
+      "The wind-down process is already underway, with season passes no longer available for purchase through digital storefronts. Exoprimal and all of its associated downloadable content will be completely delisted from stores starting March 30, 2027. However, players who already own the game will still be able to download and play it prior to the final server shutdown deadline in September 2027.",
+      "Upon its 2023 launch, Exoprimal offered a unique premise featuring massive oceans of dinosaurs, though it struggled to capture a massive long-term audience. GameSpot's review highlighted that while the early hours featured repetitive missions, later surprises, difficulty escalations, and enemy variety brought fresh life to the shooter for players willing to stick with it.",
+      "Signs of the game's decline had been mounting since 2024, when Capcom announced the end of new seasonal updates in favor of rotating existing content monthly. Player numbers on Steam ultimately cratered after peaking at 4,995 concurrent players in November 2023, dropping to a 24-hour peak of just 23 players. Exoprimal's closure follows a brutal period for live-service titles in 2026, which also saw the shutdowns of games like Highguard, Anthem, and New World: Aeternum."
+    ],
+    "highlights": [
+      "Exoprimal servers will officially shut down on September 30, 2027.",
+      "The game and its DLC will be delisted from digital storefronts on March 30, 2027.",
+      "Season passes have already been pulled from store shelves by Capcom.",
+      "Steam concurrent player counts dwindled significantly following its 2023 launch."
+    ],
+    "socialPulse": {
+      "sentiment": "Mixed",
+      "viralPlatforms": [
+        "X / Twitter",
+        "Reddit",
+        "Steam",
+        "YouTube"
+      ],
+      "summary": "Gamers on social media are expressing a mix of nostalgia for the game's unique concept and resignation regarding the state of live-service titles. While some fans are praising the chaotic fun of fighting waves of dinosaurs with friends, others point out that the writing was on the wall due to dwindling player counts and a lack of continuous content updates.",
+      "viewpoints": [
+        {
+          "stance": "Appreciative of the Core Concept",
+          "detail": "Some community members fondly remember the chaotic fun of the dinosaur-swarming combat and unique gameplay loop. They feel that the game deserved a better fate and blame a lack of sustained marketing and content for its ultimate demise."
+        },
+        {
+          "stance": "Unsurprised by the Closure",
+          "detail": "Other players noted that the low concurrent player numbers on Steam and Capcom's previous announcement to halt seasonal updates made this outcome completely inevitable. They view it as another cautionary tale about the unsustainable nature of the live-service model."
+        }
+      ]
+    },
+    "category": "Industry",
+    "gameTitle": "Exoprimal",
+    "gameScale": "AAA",
+    "fanbaseScore": 6,
+    "isUpcoming": false,
+    "isRumor": false,
+    "releaseWindow": "",
+    "isControversy": false,
+    "controversyAngle": "",
+    "isTrending": false,
+    "importance": 6,
+    "source": "GameSpot",
+    "url": "https://www.gamespot.com/articles/another-live-service-game-is-going-extinct-and-this-one-has-dinosaurs",
+    "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Exoprimal.jpg?w=1200",
+    "publishedAt": "2026-11-25T17:57:42.000Z"
   },
   {
     "id": "3d3a7f53cfc24e88",
@@ -1844,5 +1896,55 @@
     "url": "https://www.eurogamer.net/showa-american-story-delay-2027",
     "image": "https://assetsio.gnwcdn.com/Showa-American-Story-header.jpg?width=690&quality=85&format=jpg&auto=webp",
     "publishedAt": "2026-11-25T10:11:20.000Z"
+  },
+  {
+    "id": "9cdfa9ae8dd68330",
+    "title": "Ex-Respawn Studio Gravity Well Enters Hibernation After Funding Falls Through",
+    "summary": "Independent studio Gravity Well has announced it is going into hibernation for the foreseeable future following a round of layoffs affecting 40 jobs. The studio, founded by former Respawn developers, spent six years working on an unannounced game before losing its primary funding source in the spring.",
+    "content": [
+      "Following a round of layoffs last month that resulted in the loss of 40 jobs, which itself came after a previous source of funding pulled out in the spring, independent studio Gravity Well has now announced that it is going into hibernation for the foreseeable future. The team was largely made up of developers who had left Titanfall and Apex Legends studio Respawn Entertainment, and under the Gravity Well banner had been working on a new, still-unannounced game for around six years.",
+      "A statement posted to the main page on Gravity Well's site reads that they do not exactly know what is next for them or the studio, but they still believe in the IP and game they were building. The statement highlights that the team they managed to cultivate was truly world class and strongly recommends any affected resumes to hiring managers and recruiters, while also leaving the door open for publishers or investors interested in talking.",
+      "The message is signed off by its founders Drew McCoy, Jon 'Slothy' Shiring, and Mon Saetern. Besides being the second project led by former Respawn developers to be doomed this year—following Wildlight's Highguard—it is unfortunately another case of a studio made up of developers with incredible pedigrees being left at the whim of funding accruement in the current state of the industry.",
+      "It is noteworthy that the team did not show anything publicly in the six years since their formation, minus a few pieces of concept art which can now be seen on its site. It remains unknown exactly what Gravity Well was working on, though it was likely some kind of movement-based shooter given the team's extensive experience on Titanfall, Apex Legends, and Call of Duty."
+    ],
+    "highlights": [
+      "Gravity Well enters hibernation after losing its primary funding source in the spring.",
+      "The studio previously laid off 40 employees last month.",
+      "The team was founded by former Respawn Entertainment veterans who worked on Titanfall and Apex Legends.",
+      "The studio spent six years developing an unannounced game and is open to future investors or publishers."
+    ],
+    "socialPulse": {
+      "sentiment": "Mixed",
+      "viralPlatforms": [
+        "X / Twitter",
+        "Reddit"
+      ],
+      "summary": "Community members are expressing deep solidarity with the affected developers while lamenting the precarious state of independent game development and studio funding in the current industry climate. Some commentators also question the impact of spending six years in development without showing any public gameplay footage.",
+      "viewpoints": [
+        {
+          "stance": "Industry Frustration",
+          "detail": "Many players and developers are frustrated that another studio filled with veteran talent has been brought down by unstable funding conditions. Commentators point out that the inability to secure a publisher deal after six years highlights a systemic crisis in gaming."
+        },
+        {
+          "stance": "Lack of Visibility",
+          "detail": "Some community members note that remaining entirely in stealth mode for six years without public updates or gameplay reveals likely hurt their chances of retaining investor interest. Observers argue that building public hype earlier could have helped attract alternative financial backing."
+        }
+      ]
+    },
+    "category": "Industry",
+    "gameTitle": "",
+    "gameScale": "AA",
+    "fanbaseScore": 6,
+    "isUpcoming": false,
+    "isRumor": false,
+    "releaseWindow": "",
+    "isControversy": false,
+    "controversyAngle": "",
+    "isTrending": false,
+    "importance": 6,
+    "source": "Rock Paper Shotgun",
+    "url": "https://www.rockpapershotgun.com/ex-respawn-studio-gravity-well-announces-hibernation-following-previous-failure-to-secure-funding-and-layoffs-but-insists-we-still-believe-in-the-ip-and-game-we-were-building",
+    "image": "https://assetsio.gnwcdn.com/Gravity-Well.png?width=690&quality=85&format=jpg&auto=webp",
+    "publishedAt": "2026-11-24T17:06:30.000Z"
   }
 ]
