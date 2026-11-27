@@ -102,58 +102,6 @@
     "publishedAt": "2026-11-26T16:39:40.000Z"
   },
   {
-    "id": "0888ae6c43571217",
-    "title": "The Witcher 3 Patch 5.02 Adds 40 Cross-Platform Mods and Fixes Bizarre Bugs",
-    "summary": "CD Projekt Red has released an exhaustive new patch for The Witcher 3: Wild Hunt - Remastered across all platforms, fixing numerous game-breaking bugs and introducing 40 new cross-platform mods. The update also addresses persistent lighting issues and features developer hints about the scale of the upcoming Witcher 4.",
-    "content": [
-      "Developer CD Projekt Red has rolled out a new patch for The Witcher 3: Wild Hunt - Remastered on all platforms, squashing dozens of bugs and officially adding 40 cross-platform mods with more promised on the way. In its latest exhaustive list of patch notes for the decade-old game, the studio remarked that a witcher's work is never done.",
-      "Patch 5.02 includes vital bug fixes that previously caused crashes or unintended gameplay behavior. Notable fixes include a bizarre bug that caused time to go backwards indefinitely, another that accidentally left Geralt completely bald, and a fix for PC crashes caused by opening the game with outdated mods.",
-      "When the remastered version first launched, players criticized updated and lifeless lighting. While previous patches targeted these issues, Patch 5.02 continues to iron out various lighting problems across multiple locations and cutscenes, specifically addressing overly bright or dark areas, inconsistent transitions, and flickering.",
-      "Console owners previously lacked access to the full suite of PC mods, but this update expands the selection with 40 new cross-platform additions. These include exciting community creations like glowy eyes for Geralt and a brand new monster hunt.",
-      "Alongside the patch, CD Projekt Red remains hard at work on major sequels including The Witcher 4 and Cyberpunk 2. During a recent earnings call, joint-CEO Michal Nowakowski compared the anticipated technological leap between The Witcher 3 and The Witcher 4 to the transition seen from GTA 5 to GTA 6."
-    ],
-    "highlights": [
-      "Patch 5.02 introduces 40 new cross-platform mods, including glowy eyes for Geralt and a new monster hunt.",
-      "Bizarre bugs have been squashed, including an issue where time went backwards indefinitely and a glitch that made Geralt bald.",
-      "The update continues to address lighting complaints by fixing overly bright or dark areas and flickering transitions.",
-      "CD Projekt Red compared the upcoming technological leap for The Witcher 4 to the jump between GTA 5 and GTA 6."
-    ],
-    "socialPulse": {
-      "sentiment": "Hyped",
-      "viralPlatforms": [
-        "X / Twitter",
-        "Reddit",
-        "Steam"
-      ],
-      "summary": "Fans are reacting with immense enthusiasm to the continued support and mod integrations for a decade-old game, praising CDPR for listening to ongoing feedback regarding lighting and quirky bugs. Community discussion is also brimming with anticipation and speculation regarding the recent studio comments comparing The Witcher 4's scope to GTA 6.",
-      "viewpoints": [
-        {
-          "stance": "Mod Support Praise",
-          "detail": "Console players are thrilled to see the cross-platform mod library expand with quality-of-life additions and new content like custom monster hunts. Many are expressing gratitude that the studio continues to invest love and resources into a decade-old single-player experience."
-        },
-        {
-          "stance": "Sequel Excitement",
-          "detail": "Longtime franchise followers are dissecting the studio's earnings call comparisons between The Witcher 4 and GTA 6. This has ignited massive community hype and speculation surrounding the technical ambition of the next major installment."
-        }
-      ]
-    },
-    "category": "PC",
-    "gameTitle": "The Witcher 3",
-    "gameScale": "AAA",
-    "fanbaseScore": 10,
-    "isUpcoming": false,
-    "isRumor": false,
-    "releaseWindow": "",
-    "isControversy": false,
-    "controversyAngle": "",
-    "isTrending": true,
-    "importance": 7,
-    "source": "Eurogamer",
-    "url": "https://www.eurogamer.net/the-witcher-3-patch-40-mods-bugs",
-    "image": "https://assetsio.gnwcdn.com/geralt-witcher-3-remastered.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "publishedAt": "2026-11-26T19:20:50.000Z"
-  },
-  {
     "id": "62ac826e785f54d0",
     "title": "GTA 6 Scores Massive UK Physical Launch Despite Lack of Disc",
     "summary": "Grand Theft Auto 6 has broken expectations by recording the UK's largest physical launch since 2019's FIFA 20. Based on data from UK tracker Nielsen IQ, the blockbuster title proved that fans still love physical packaging even when navigating digital-focused releases.",
@@ -204,45 +152,45 @@
     "publishedAt": "2026-11-26T18:00:00.000Z"
   },
   {
-    "id": "5b0087d0b388ffdc",
-    "title": "Warhammer 40,000: Space Marine 2 Decimation Update Drops Weekly Clash, Vanguard Rework, and More",
-    "summary": "The latest Decimation update for Warhammer 40,000: Space Marine 2 introduces the new Weekly Clash PvP mode, a fresh Chaos Siege sector challenge, and a substantial rework for the Vanguard class. Players can also unlock new heroic weapons and armor pieces while benefiting from various quality-of-life adjustments.",
+    "id": "0888ae6c43571217",
+    "title": "The Witcher 3 Patch 5.02 Adds 40 Cross-Platform Mods and Fixes Bizarre Bugs",
+    "summary": "CD Projekt Red has released an exhaustive new patch for The Witcher 3: Wild Hunt - Remastered across all platforms, fixing numerous game-breaking bugs and introducing 40 new cross-platform mods. The update also addresses persistent lighting issues and features developer hints about the scale of the upcoming Witcher 4.",
     "content": [
-      "Warhammer 40,000: Space Marine 2 has received its latest patch, officially dubbed the Decimation update, bringing a host of fresh content and gameplay tweaks to the popular shooter. Developer Saber Interactive aims to shake up the multiplayer experience with structured community additions and tactical improvements across both PvE and PvP modes.",
-      "The highlight of the update is the new Weekly Clash mode designed for competitive players in Eternal War. According to the official Steam blog post, this mode introduces unique rules such as single-class restrictions, single-weapon loadouts, and near-unlimited grenades, with developers promising even more modifiers in future rotations.",
-      "For cooperative players, the update introduces a new Chaos Siege sector building upon last month's addition, delivering renewed challenges between waves 11 and 15. The armoury is also expanding with six new heroic weapons, including the omnissian axe, plasma incinerator, and heavy bolter, alongside four new heroic helmets for customisation.",
-      "Furthermore, the Vanguard class has received a comprehensive rework. Players can now utilize new ways to deploy the Grapnel Launcher, featuring attack cancellations, close-quarter kicks, and a brand-new Revenge mechanic designed to make the class feel even more brutal on the battlefield.",
-      "General tweaks round out the patch, including adjusted ammo and equipment pickup locations across all PvP maps, improved spawn position swap logic, and a new level 25 or Prestige requirement for Absolute Siege and Absolute Stratagems modes. Additionally, the patch addresses technical performance with improved loading times and general connectivity."
+      "Developer CD Projekt Red has rolled out a new patch for The Witcher 3: Wild Hunt - Remastered on all platforms, squashing dozens of bugs and officially adding 40 cross-platform mods with more promised on the way. In its latest exhaustive list of patch notes for the decade-old game, the studio remarked that a witcher's work is never done.",
+      "Patch 5.02 includes vital bug fixes that previously caused crashes or unintended gameplay behavior. Notable fixes include a bizarre bug that caused time to go backwards indefinitely, another that accidentally left Geralt completely bald, and a fix for PC crashes caused by opening the game with outdated mods.",
+      "When the remastered version first launched, players criticized updated and lifeless lighting. While previous patches targeted these issues, Patch 5.02 continues to iron out various lighting problems across multiple locations and cutscenes, specifically addressing overly bright or dark areas, inconsistent transitions, and flickering.",
+      "Console owners previously lacked access to the full suite of PC mods, but this update expands the selection with 40 new cross-platform additions. These include exciting community creations like glowy eyes for Geralt and a brand new monster hunt.",
+      "Alongside the patch, CD Projekt Red remains hard at work on major sequels including The Witcher 4 and Cyberpunk 2. During a recent earnings call, joint-CEO Michal Nowakowski compared the anticipated technological leap between The Witcher 3 and The Witcher 4 to the transition seen from GTA 5 to GTA 6."
     ],
     "highlights": [
-      "Weekly Clash PvP mode introduces rotating modifiers like single-class restrictions and unlimited grenades.",
-      "New Chaos Siege sector brings fresh challenges between waves 11 and 15.",
-      "Vanguard class receives a major rework featuring new Grapnel Launcher mechanics and a Revenge feature.",
-      "Six new heroic weapons and four new heroic helmets added to the armoury."
+      "Patch 5.02 introduces 40 new cross-platform mods, including glowy eyes for Geralt and a new monster hunt.",
+      "Bizarre bugs have been squashed, including an issue where time went backwards indefinitely and a glitch that made Geralt bald.",
+      "The update continues to address lighting complaints by fixing overly bright or dark areas and flickering transitions.",
+      "CD Projekt Red compared the upcoming technological leap for The Witcher 4 to the jump between GTA 5 and GTA 6."
     ],
     "socialPulse": {
       "sentiment": "Hyped",
       "viralPlatforms": [
-        "Steam",
+        "X / Twitter",
         "Reddit",
-        "X / Twitter"
+        "Steam"
       ],
-      "summary": "Fans are reacting enthusiastically to the fresh content drop, particularly praising the creative modifiers in Weekly Clash and the much-needed Vanguard class buffs. Many players are diving straight into the new Chaos Siege waves to test out the newly added heroic weapons and armor pieces. Overall sentiment is overwhelmingly positive as the community appreciates the active post-launch support and regular updates from the developers.",
+      "summary": "Fans are reacting with immense enthusiasm to the continued support and mod integrations for a decade-old game, praising CDPR for listening to ongoing feedback regarding lighting and quirky bugs. Community discussion is also brimming with anticipation and speculation regarding the recent studio comments comparing The Witcher 4's scope to GTA 6.",
       "viewpoints": [
         {
-          "stance": "PvP Enthusiast",
-          "detail": "Competitive players love the Weekly Clash mode because restricted rule sets force teams to adapt and try completely different tactical loadouts. The addition of crazy modifiers like unlimited grenades brings a refreshing chaotic energy to Eternal War matches."
+          "stance": "Mod Support Praise",
+          "detail": "Console players are thrilled to see the cross-platform mod library expand with quality-of-life additions and new content like custom monster hunts. Many are expressing gratitude that the studio continues to invest love and resources into a decade-old single-player experience."
         },
         {
-          "stance": "Vanguard Main",
-          "detail": "Class mains are celebrating the Vanguard rework, noting that the new attack cancellations and close-quarter kicks make high-intensity melee engagements feel much smoother. The introduction of the Revenge mechanic adds a satisfying layer of retribution against aggressive enemies."
+          "stance": "Sequel Excitement",
+          "detail": "Longtime franchise followers are dissecting the studio's earnings call comparisons between The Witcher 4 and GTA 6. This has ignited massive community hype and speculation surrounding the technical ambition of the next major installment."
         }
       ]
     },
     "category": "PC",
-    "gameTitle": "Warhammer 40,000: Space Marine 2",
+    "gameTitle": "The Witcher 3",
     "gameScale": "AAA",
-    "fanbaseScore": 9,
+    "fanbaseScore": 10,
     "isUpcoming": false,
     "isRumor": false,
     "releaseWindow": "",
@@ -250,61 +198,10 @@
     "controversyAngle": "",
     "isTrending": true,
     "importance": 7,
-    "source": "Rock Paper Shotgun",
-    "url": "https://www.rockpapershotgun.com/warhammer-40000-space-marine-2s-latest-updates-introduces-a-weekly-clash-mode-that-shakes-up-pvp-with-some-constricting-modifiers",
-    "image": "https://assetsio.gnwcdn.com/warhammer-40k-space-marine-2-decimation.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "publishedAt": "2026-11-26T17:58:30.000Z"
-  },
-  {
-    "id": "e3e25e724d87073b",
-    "title": "Ubisoft Denies GenAI Pitch Mandate Following Report on Internal Developer Pressure",
-    "summary": "Ubisoft has pushed back against a new report claiming its developers must explain why they are not using generative AI in game pitches. While management encourages exploring AI and established the Motherbrain studio division, the company insists technology adoption remains optional.",
-    "content": [
-      "Ubisoft has denied claims that it is forcing developers to integrate generative AI into new game pitches as an absolute rule. The publisher's official statement follows an investigative report by Vertical Slice, which alleged that internal game pitching processes now require developers to either outline how genAI will accelerate production or provide a detailed justification for why the technology is unsuitable.",
-      "According to anonymous staff cited in the report, Ubisoft management revealed the procedural shift during an internal presentation, marking what employees described as a notable attitude shift. Sources indicated that workers feel increasingly cornered by the heavy push toward generative AI, though they acknowledged that management has stopped short of issuing a strict blanket mandate requiring genAI in every project.",
-      "In response to the report, Ubisoft issued an official statement emphasizing that technology usage is up to individual teams. The company stated that while it encourages teams to explore where AI can bring value, projects are not required to use generative AI. Instead, teams must determine whether the tech makes sense for the specific game and player experience they want to create.",
-      "This internal debate arrives against a backdrop of aggressive corporate restructuring, studio closures, and widespread layoffs at Ubisoft throughout the year. Recent cuts have impacted hundreds of employees across major subsidiaries including Ubisoft Montreal, Ubisoft Quebec, and several international studios, compounding existing friction over shifting remote work policies that previously triggered strikes in France and Italy."
-    ],
-    "highlights": [
-      "A report claimed Ubisoft pitches require justification if genAI is excluded.",
-      "Ubisoft denied a strict mandate, stating genAI use remains optional.",
-      "The company recently established Motherbrain, a division focused on generative AI experiments.",
-      "Internal tensions follow a year of extensive layoffs, studio closures, and remote work strikes."
-    ],
-    "socialPulse": {
-      "sentiment": "Backlash",
-      "viralPlatforms": [
-        "X / Twitter",
-        "Reddit",
-        "YouTube"
-      ],
-      "summary": "Gamers and developers on social media have heavily criticized Ubisoft's push into generative AI, especially given the backdrop of recent studio closures and massive layoffs. Many players feel management is prioritizing automated technology over human creativity and job security, while others view the denial of a strict mandate as mere damage control.",
-      "viewpoints": [
-        {
-          "stance": "Pro-Developer / Anti-AI",
-          "detail": "Commentators argue that forcing developers to justify not using AI creates an unfair pressure environment that undermines authentic creative expression. Critics are especially frustrated by executive investments in AI while hundreds of industry staff face layoffs."
-        },
-        {
-          "stance": "Skeptical of Corporate Denial",
-          "detail": "Many players believe Ubisoft's distinction between a 'mandate' and a 'requirement to justify' is simply semantics designed to soften public backlash. They expect future Ubisoft titles to increasingly feature AI generation regardless of official statements."
-        }
-      ]
-    },
-    "category": "Industry",
-    "gameTitle": "",
-    "gameScale": "AAA",
-    "fanbaseScore": 9,
-    "isUpcoming": false,
-    "isRumor": false,
-    "releaseWindow": "",
-    "isControversy": true,
-    "controversyAngle": "AI Mandate Backlash",
-    "isTrending": true,
-    "importance": 8,
-    "source": "Rock Paper Shotgun",
-    "url": "https://www.rockpapershotgun.com/ubisoft-now-require-their-devs-to-explain-why-they-arent-using-genai-in-game-pitches-claims-report-though-the-assassins-creed-publishers-deny-theyre-mandating-it",
-    "image": "https://assetsio.gnwcdn.com/farcry-tv-series-fx-rob-mac-01.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "publishedAt": "2026-11-26T14:57:30.000Z"
+    "source": "Eurogamer",
+    "url": "https://www.eurogamer.net/the-witcher-3-patch-40-mods-bugs",
+    "image": "https://assetsio.gnwcdn.com/geralt-witcher-3-remastered.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "publishedAt": "2026-11-26T19:20:50.000Z"
   },
   {
     "id": "3319f4708be665c5",
@@ -360,54 +257,107 @@
     "publishedAt": "2026-11-26T15:32:20.000Z"
   },
   {
-    "id": "8390b99d17300ae5",
-    "title": "Monster Hunter Wilds & Rayman Legends Lead Nintendo Switch eShop Thanksgiving Lineup",
-    "summary": "Nintendo has rolled out its North American Switch eShop Thanksgiving update for November 26th, featuring a packed lineup of new titles and indie gems. Highlights include the intriguing prospect of Monster Hunter Wilds, Rayman Legends Retold, and other notable releases like The Ascent.",
+    "id": "e3e25e724d87073b",
+    "title": "Ubisoft Denies GenAI Pitch Mandate Following Report on Internal Developer Pressure",
+    "summary": "Ubisoft has pushed back against a new report claiming its developers must explain why they are not using generative AI in game pitches. While management encourages exploring AI and established the Motherbrain studio division, the company insists technology adoption remains optional.",
     "content": [
-      "The North American Nintendo Download Thanksgiving update for November 26th has arrived, bringing a fresh round of exciting software to the Switch eShop. This week's drop is highlighted by several high-profile titles and intriguing multi-platform releases that have caught the attention of handheld and console players alike.",
-      "Among the standout titles is Monster Hunter Wilds, sparking immediate curiosity regarding how Capcom's massive action RPG will perform and scale on Nintendo's upcoming hardware. Meanwhile, platformer fans are keeping a close eye on Rayman Legends Retold, a fresh take on Ubisoft's beloved classic that promises updated experiences despite raising questions among previewers about the necessity of its retelling.",
-      "Rounding out the eShop update are several other promising adventures worth investigating for players looking for new experiences over the holiday break. Games such as The Ascent, Station to Station, and Hela add a healthy dose of cyberpunk action, cozy puzzle-building, and whimsical exploration to the digital storefront.",
-      "As players dive into the Thanksgiving holiday, these new eShop additions provide plenty of gaming options across various genres. Nintendo fans can access the complete list of releases and check individual software details directly on the Switch eShop and through official coverage on Nintendo Life."
+      "Ubisoft has denied claims that it is forcing developers to integrate generative AI into new game pitches as an absolute rule. The publisher's official statement follows an investigative report by Vertical Slice, which alleged that internal game pitching processes now require developers to either outline how genAI will accelerate production or provide a detailed justification for why the technology is unsuitable.",
+      "According to anonymous staff cited in the report, Ubisoft management revealed the procedural shift during an internal presentation, marking what employees described as a notable attitude shift. Sources indicated that workers feel increasingly cornered by the heavy push toward generative AI, though they acknowledged that management has stopped short of issuing a strict blanket mandate requiring genAI in every project.",
+      "In response to the report, Ubisoft issued an official statement emphasizing that technology usage is up to individual teams. The company stated that while it encourages teams to explore where AI can bring value, projects are not required to use generative AI. Instead, teams must determine whether the tech makes sense for the specific game and player experience they want to create.",
+      "This internal debate arrives against a backdrop of aggressive corporate restructuring, studio closures, and widespread layoffs at Ubisoft throughout the year. Recent cuts have impacted hundreds of employees across major subsidiaries including Ubisoft Montreal, Ubisoft Quebec, and several international studios, compounding existing friction over shifting remote work policies that previously triggered strikes in France and Italy."
     ],
     "highlights": [
-      "North American Nintendo Download Thanksgiving update goes live for November 26th.",
-      "Monster Hunter Wilds sparks curiosity about its potential Switch 2 performance.",
-      "Rayman Legends Retold brings a refreshed perspective to the classic platformer.",
-      "Additional notable eShop releases include The Ascent, Station to Station, and Hela."
+      "A report claimed Ubisoft pitches require justification if genAI is excluded.",
+      "Ubisoft denied a strict mandate, stating genAI use remains optional.",
+      "The company recently established Motherbrain, a division focused on generative AI experiments.",
+      "Internal tensions follow a year of extensive layoffs, studio closures, and remote work strikes."
     ],
     "socialPulse": {
-      "sentiment": "Mixed",
+      "sentiment": "Backlash",
       "viralPlatforms": [
         "X / Twitter",
-        "Reddit"
+        "Reddit",
+        "YouTube"
       ],
-      "summary": "Players across social media are discussing the holiday eShop lineup with a mix of excitement and skepticism. While many are eager to dive into new indie titles and see how major games scale, others debate the necessity of re-releases and the performance capabilities of upcoming hardware.",
+      "summary": "Gamers and developers on social media have heavily criticized Ubisoft's push into generative AI, especially given the backdrop of recent studio closures and massive layoffs. Many players feel management is prioritizing automated technology over human creativity and job security, while others view the denial of a strict mandate as mere damage control.",
       "viewpoints": [
         {
-          "stance": "Cautious Curiosity",
-          "detail": "Fans are intensely curious about how demanding modern titles like Monster Hunter Wilds will run on Nintendo's hardware ecosystem. Many are waiting for thorough technical reviews before committing to holiday purchases."
+          "stance": "Pro-Developer / Anti-AI",
+          "detail": "Commentators argue that forcing developers to justify not using AI creates an unfair pressure environment that undermines authentic creative expression. Critics are especially frustrated by executive investments in AI while hundreds of industry staff face layoffs."
         },
         {
-          "stance": "Skeptical Remasters",
-          "detail": "Some community members question whether titles like Rayman Legends Retold offer enough new content to justify another playthrough. Critics debate if classic games truly require modern retellings when original versions remain readily accessible."
+          "stance": "Skeptical of Corporate Denial",
+          "detail": "Many players believe Ubisoft's distinction between a 'mandate' and a 'requirement to justify' is simply semantics designed to soften public backlash. They expect future Ubisoft titles to increasingly feature AI generation regardless of official statements."
         }
       ]
     },
-    "category": "Console",
-    "gameTitle": "Monster Hunter Wilds",
+    "category": "Industry",
+    "gameTitle": "",
     "gameScale": "AAA",
-    "fanbaseScore": 10,
+    "fanbaseScore": 9,
+    "isUpcoming": false,
+    "isRumor": false,
+    "releaseWindow": "",
+    "isControversy": true,
+    "controversyAngle": "AI Mandate Backlash",
+    "isTrending": true,
+    "importance": 8,
+    "source": "Rock Paper Shotgun",
+    "url": "https://www.rockpapershotgun.com/ubisoft-now-require-their-devs-to-explain-why-they-arent-using-genai-in-game-pitches-claims-report-though-the-assassins-creed-publishers-deny-theyre-mandating-it",
+    "image": "https://assetsio.gnwcdn.com/farcry-tv-series-fx-rob-mac-01.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "publishedAt": "2026-11-26T14:57:30.000Z"
+  },
+  {
+    "id": "5b0087d0b388ffdc",
+    "title": "Warhammer 40,000: Space Marine 2 Decimation Update Drops Weekly Clash, Vanguard Rework, and More",
+    "summary": "The latest Decimation update for Warhammer 40,000: Space Marine 2 introduces the new Weekly Clash PvP mode, a fresh Chaos Siege sector challenge, and a substantial rework for the Vanguard class. Players can also unlock new heroic weapons and armor pieces while benefiting from various quality-of-life adjustments.",
+    "content": [
+      "Warhammer 40,000: Space Marine 2 has received its latest patch, officially dubbed the Decimation update, bringing a host of fresh content and gameplay tweaks to the popular shooter. Developer Saber Interactive aims to shake up the multiplayer experience with structured community additions and tactical improvements across both PvE and PvP modes.",
+      "The highlight of the update is the new Weekly Clash mode designed for competitive players in Eternal War. According to the official Steam blog post, this mode introduces unique rules such as single-class restrictions, single-weapon loadouts, and near-unlimited grenades, with developers promising even more modifiers in future rotations.",
+      "For cooperative players, the update introduces a new Chaos Siege sector building upon last month's addition, delivering renewed challenges between waves 11 and 15. The armoury is also expanding with six new heroic weapons, including the omnissian axe, plasma incinerator, and heavy bolter, alongside four new heroic helmets for customisation.",
+      "Furthermore, the Vanguard class has received a comprehensive rework. Players can now utilize new ways to deploy the Grapnel Launcher, featuring attack cancellations, close-quarter kicks, and a brand-new Revenge mechanic designed to make the class feel even more brutal on the battlefield.",
+      "General tweaks round out the patch, including adjusted ammo and equipment pickup locations across all PvP maps, improved spawn position swap logic, and a new level 25 or Prestige requirement for Absolute Siege and Absolute Stratagems modes. Additionally, the patch addresses technical performance with improved loading times and general connectivity."
+    ],
+    "highlights": [
+      "Weekly Clash PvP mode introduces rotating modifiers like single-class restrictions and unlimited grenades.",
+      "New Chaos Siege sector brings fresh challenges between waves 11 and 15.",
+      "Vanguard class receives a major rework featuring new Grapnel Launcher mechanics and a Revenge feature.",
+      "Six new heroic weapons and four new heroic helmets added to the armoury."
+    ],
+    "socialPulse": {
+      "sentiment": "Hyped",
+      "viralPlatforms": [
+        "Steam",
+        "Reddit",
+        "X / Twitter"
+      ],
+      "summary": "Fans are reacting enthusiastically to the fresh content drop, particularly praising the creative modifiers in Weekly Clash and the much-needed Vanguard class buffs. Many players are diving straight into the new Chaos Siege waves to test out the newly added heroic weapons and armor pieces. Overall sentiment is overwhelmingly positive as the community appreciates the active post-launch support and regular updates from the developers.",
+      "viewpoints": [
+        {
+          "stance": "PvP Enthusiast",
+          "detail": "Competitive players love the Weekly Clash mode because restricted rule sets force teams to adapt and try completely different tactical loadouts. The addition of crazy modifiers like unlimited grenades brings a refreshing chaotic energy to Eternal War matches."
+        },
+        {
+          "stance": "Vanguard Main",
+          "detail": "Class mains are celebrating the Vanguard rework, noting that the new attack cancellations and close-quarter kicks make high-intensity melee engagements feel much smoother. The introduction of the Revenge mechanic adds a satisfying layer of retribution against aggressive enemies."
+        }
+      ]
+    },
+    "category": "PC",
+    "gameTitle": "Warhammer 40,000: Space Marine 2",
+    "gameScale": "AAA",
+    "fanbaseScore": 9,
     "isUpcoming": false,
     "isRumor": false,
     "releaseWindow": "",
     "isControversy": false,
     "controversyAngle": "",
     "isTrending": true,
-    "importance": 5,
-    "source": "Nintendo Life",
-    "url": "https://www.nintendolife.com/news/2026/11/here-are-all-the-games-coming-to-switch-eshop-this-week-november-26",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246340/ss_31b5597fecf2d9a2904bc9bbf8011aacb18143db.1920x1080.jpg?t=1787549555",
-    "publishedAt": "2026-11-26T17:30:00.000Z"
+    "importance": 7,
+    "source": "Rock Paper Shotgun",
+    "url": "https://www.rockpapershotgun.com/warhammer-40000-space-marine-2s-latest-updates-introduces-a-weekly-clash-mode-that-shakes-up-pvp-with-some-constricting-modifiers",
+    "image": "https://assetsio.gnwcdn.com/warhammer-40k-space-marine-2-decimation.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "publishedAt": "2026-11-26T17:58:30.000Z"
   },
   {
     "id": "b76559ff35e32bd1",
@@ -460,56 +410,6 @@
     "url": "https://www.eurogamer.net/ubisoft-reportedly-goes-all-in-on-company-wide-generative-ai-use-and-if-developers-dont-want-to-use-it-they-have-to-explain-why-in-detail",
     "image": "https://assetsio.gnwcdn.com/Screenshot-2025-01-27-152746.png?width=690&quality=85&format=jpg&auto=webp",
     "publishedAt": "2026-11-26T12:15:40.000Z"
-  },
-  {
-    "id": "c3d8cd82e78707bd",
-    "title": "The Witcher 3 Remastered Ver. 5.02 Update Lands With Switch 2 Mod Fixes",
-    "summary": "CD Projekt Red has officially released The Witcher 3: Wild Hunt - Remastered version 5.02 patch across supported platforms. The new update brings a wide variety of bug fixes spanning gameplay, user interface, quests, and more. Notably, it includes specific improvements for the upcoming hardware iteration, increasing the allowed mod size for players.",
-    "content": [
-      "CD Projekt Red continues to support The Witcher 3: Wild Hunt - Remastered with ongoing updates, deploying version 5.02 today. Players across eligible platforms can now download the patch to experience a cleaner, more stable journey through the Continent.",
-      "The patch notes highlight a broad spectrum of technical improvements. Developers have addressed various issues affecting core gameplay mechanics, fine-tuned the user interface, and resolved frustrating bugs tied to specific quests.",
-      "Of particular interest to Nintendo hardware enthusiasts, the ver. 5.02 update includes targeted adjustments for the platform referred to as Switch 2. Among these platform-specific changes is a welcome increase to the allowed mod size.",
-      "While CD Projekt Red is well past the initial launch window of the original game, this ongoing attention demonstrates a continued commitment to polishing the remastered experience. Players can review the complete set of patch notes directly through community channels or official sources."
-    ],
-    "highlights": [
-      "Version 5.02 update is live now for The Witcher 3: Wild Hunt - Remastered.",
-      "Includes general fixes for gameplay, user interface, and quests.",
-      "Features dedicated improvements for Switch 2 hardware, including a larger mod size limit."
-    ],
-    "socialPulse": {
-      "sentiment": "Hyped",
-      "viralPlatforms": [
-        "X / Twitter",
-        "Reddit",
-        "YouTube"
-      ],
-      "summary": "Fans are pleasantly surprised and excited to see CD Projekt Red continuing to support the remastered version of The Witcher 3 with quality-of-life updates. Discussions on Reddit and social media heavily focus on the Switch 2 specific enhancements, with many players praising the expanded mod size limits. Others are simply pleased to see the developer stamping out lingering quest and UI bugs years after the game's initial release.",
-      "viewpoints": [
-        {
-          "stance": "Continued Support Appreciation",
-          "detail": "Many players express genuine admiration for CD Projekt Red's dedication to keeping the game polished and updated years after launch. It reassures fans that their favorite title remains in active care."
-        },
-        {
-          "stance": "Platform-Specific Excitement",
-          "detail": "Nintendo platform enthusiasts are thrilled to see dedicated upgrades, specifically highlighting the increased mod size limit as a game-changer for portable and hybrid play. The inclusion of hardware-tailored tweaks shows strong attention to detail."
-        }
-      ]
-    },
-    "category": "PC",
-    "gameTitle": "The Witcher 3: Wild Hunt",
-    "gameScale": "AAA",
-    "fanbaseScore": 10,
-    "isUpcoming": false,
-    "isRumor": false,
-    "releaseWindow": "",
-    "isControversy": false,
-    "controversyAngle": "",
-    "isTrending": true,
-    "importance": 6,
-    "source": "Nintendo Life",
-    "url": "https://www.nintendolife.com/news/2026/11/the-witcher-3-remastered-ver-5-02-update-is-now-live-here-are-the-full-patch-notes",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/f7f564ecedd09b3e503b071a637aeefdedbeedd8/ss_f7f564ecedd09b3e503b071a637aeefdedbeedd8.1920x1080.jpg?t=1793900434",
-    "publishedAt": "2026-11-26T15:00:00.000Z"
   },
   {
     "id": "746a5699fd68e7a6",
@@ -614,42 +514,41 @@
     "publishedAt": "2026-11-26T11:00:06.000Z"
   },
   {
-    "id": "cd221b4d2a55c6e1",
-    "title": "GTA 6 PS5 Weather Fix Discovered: How Clearing Your Console Cache Makes Rainstorms Finally Kick In",
-    "summary": "Even after Rockstar rolled out a post-launch patch to fix GTA 6's lack of weather variety, some PlayStation 5 players found they were still stuck in endless sunshine. Fortunately, a newly discovered community workaround involving clearing the console's system cache is successfully forcing the patch to work as intended.",
+    "id": "c3d8cd82e78707bd",
+    "title": "The Witcher 3 Remastered Ver. 5.02 Update Lands With Switch 2 Mod Fixes",
+    "summary": "CD Projekt Red has officially released The Witcher 3: Wild Hunt - Remastered version 5.02 patch across supported platforms. The new update brings a wide variety of bug fixes spanning gameplay, user interface, quests, and more. Notably, it includes specific improvements for the upcoming hardware iteration, increasing the allowed mod size for players.",
     "content": [
-      "Rockstar recently deployed the first post-launch patch for Grand Theft Auto 6, which was designed in part to address complaints regarding a lack of weather variety. While the update helped many players, a notable number of users reported that their games were still suffering from minimal weather changes, blurring the line between intended narrative weather pacing and persistent bugs.",
-      "During the game's review period, Rockstar's vice president of art: lighting and rendering, Owen Shepherd, explained that weather patterns are designed to evolve across chapters. Much like real-world Florida climates, the game starts with generally good weather in early chapters before shifting to more changeable and stormy conditions later on, though localized weather pockets meant some players missed out entirely.",
-      "To combat the lingering post-patch issues, an X user known as @mauricioce85796 discovered a potential workaround specifically for PlayStation 5 players. By booting the console into safe mode and selecting option six to clear the system cache, players have found a way to force the game patch to properly apply its weather updates.",
-      "Gamers across social media have tested the method and shared overwhelmingly positive results, with many reporting being instantly greeted by dramatic thunderstorms upon loading back into Leonida. Importantly, performing a cache clear on the PS5 only deletes temporary system files and will not erase game saves, installed titles, screenshots, or personal account settings.",
-      "As the community continues to dive deep into Leonida with resources like the official IGN guide, beginner tips, and interactive maps, this simple console maintenance trick offers a reliable temporary fix for those struggling to experience GTA 6's full meteorological scope."
+      "CD Projekt Red continues to support The Witcher 3: Wild Hunt - Remastered with ongoing updates, deploying version 5.02 today. Players across eligible platforms can now download the patch to experience a cleaner, more stable journey through the Continent.",
+      "The patch notes highlight a broad spectrum of technical improvements. Developers have addressed various issues affecting core gameplay mechanics, fine-tuned the user interface, and resolved frustrating bugs tied to specific quests.",
+      "Of particular interest to Nintendo hardware enthusiasts, the ver. 5.02 update includes targeted adjustments for the platform referred to as Switch 2. Among these platform-specific changes is a welcome increase to the allowed mod size.",
+      "While CD Projekt Red is well past the initial launch window of the original game, this ongoing attention demonstrates a continued commitment to polishing the remastered experience. Players can review the complete set of patch notes directly through community channels or official sources."
     ],
     "highlights": [
-      "Rockstar released a post-launch patch targeting GTA 6's weather variety issues.",
-      "Some PS5 players still experienced minimal rain and storms despite the update.",
-      "Clearing the PS5 system cache in safe mode has emerged as a reliable fan-discovered workaround.",
-      "Players report immediately encountering heavy storms after executing the cache clear."
+      "Version 5.02 update is live now for The Witcher 3: Wild Hunt - Remastered.",
+      "Includes general fixes for gameplay, user interface, and quests.",
+      "Features dedicated improvements for Switch 2 hardware, including a larger mod size limit."
     ],
     "socialPulse": {
       "sentiment": "Hyped",
       "viralPlatforms": [
         "X / Twitter",
-        "Reddit"
+        "Reddit",
+        "YouTube"
       ],
-      "summary": "The community is buzzing with excitement over the simple PS5 cache-clearing trick, with many sharing video clips of dramatic rainstorms finally rolling into Leonida. While a few skeptics initially questioned whether it was merely a placebo effect, a flood of player confirmations has turned the method into a viral success.",
+      "summary": "Fans are pleasantly surprised and excited to see CD Projekt Red continuing to support the remastered version of The Witcher 3 with quality-of-life updates. Discussions on Reddit and social media heavily focus on the Switch 2 specific enhancements, with many players praising the expanded mod size limits. Others are simply pleased to see the developer stamping out lingering quest and UI bugs years after the game's initial release.",
       "viewpoints": [
         {
-          "stance": "Ecstatic Workaround Users",
-          "detail": "Many players are thrilled that a simple menu option in safe mode instantly solved their weather stagnation issues without risking saved game data. Seeing immediate thunderstorms roll in has given fans a newfound appreciation for the game's atmospheric lighting and rendering engine."
+          "stance": "Continued Support Appreciation",
+          "detail": "Many players express genuine admiration for CD Projekt Red's dedication to keeping the game polished and updated years after launch. It reassures fans that their favorite title remains in active care."
         },
         {
-          "stance": "Cautious Skeptics",
-          "detail": "Some community members remain wary, wondering if the sudden change in weather is simply a coincidence tied to natural chapter progression rather than the cache clear itself. Nevertheless, even skeptics acknowledge that clearing temporary system files is completely harmless to try."
+          "stance": "Platform-Specific Excitement",
+          "detail": "Nintendo platform enthusiasts are thrilled to see dedicated upgrades, specifically highlighting the increased mod size limit as a game-changer for portable and hybrid play. The inclusion of hardware-tailored tweaks shows strong attention to detail."
         }
       ]
     },
-    "category": "Console",
-    "gameTitle": "Grand Theft Auto 6",
+    "category": "PC",
+    "gameTitle": "The Witcher 3: Wild Hunt",
     "gameScale": "AAA",
     "fanbaseScore": 10,
     "isUpcoming": false,
@@ -658,62 +557,63 @@
     "isControversy": false,
     "controversyAngle": "",
     "isTrending": true,
-    "importance": 7,
-    "source": "IGN",
-    "url": "https://www.ign.com/articles/ps5-workaround-weather-gta-6",
-    "image": "https://upload.wikimedia.org/wikipedia/en/4/46/Grand_Theft_Auto_VI.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-    "publishedAt": "2026-11-26T11:26:17.000Z"
+    "importance": 6,
+    "source": "Nintendo Life",
+    "url": "https://www.nintendolife.com/news/2026/11/the-witcher-3-remastered-ver-5-02-update-is-now-live-here-are-the-full-patch-notes",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/f7f564ecedd09b3e503b071a637aeefdedbeedd8/ss_f7f564ecedd09b3e503b071a637aeefdedbeedd8.1920x1080.jpg?t=1793900434",
+    "publishedAt": "2026-11-26T15:00:00.000Z"
   },
   {
-    "id": "badf78583e3e271a",
-    "title": "Upgrade Your PC Setup with These Top-Rated Budget Gamepads Under $25",
-    "summary": "PC gamers looking for an affordable alternative to costly first-party controllers can choose from several sub-$25 options featuring stick-drift resistant Hall effect joysticks. Devices like the GameSir Nova Lite 2 and 8BitDo Ultimate 2C bring low-latency wireless gaming to budget-conscious setups without breaking the bank.",
+    "id": "87119c7504399245",
+    "title": "Team Ninja Defends AI in Quality Assurance While Insisting Creative Choices Must Remain Human",
+    "summary": "Team Ninja producers Kohei Shibata and Masakazu Hirayama recently discussed the studio's development philosophy, addressing how they balance challenging action design with modern tool usage. While the studio employs AI to handle repetitive quality assurance tasks and streamline workflows, they firmly maintain that the core creative elements and fun factor must be crafted by human hands.",
     "content": [
-      "Many PC games prompt players to grab a controller rather than using a mouse and keyboard, leaving staunch PC players who lack a gamepad facing a dilemma. While first-party hardware options from PlayStation and Xbox offer great features, their steep prices can be prohibitive for casual controller users. Fortunately, the market features plenty of budget-friendly options that deliver comfortable and robust gaming experiences for a fraction of the cost.",
-      "Among the best choices is the GameSir Nova Lite 2, currently priced around $23 at Walmart. It features Hall effect sticks for stick-drift protection, 1000 Hz polling, trigger locks, and a mechanical D-pad. While compromises are made with cheaper plastic and simple software, pad professional James Bentley praises its overall comfort and high performance for the price point.",
-      "For players accustomed to the Nintendo Switch Pro controller shape, the 8BitDo Ultimate 2C offers a similar layout at around $20 on Amazon. It also sports beloved Hall effect joysticks and vibrant colorways, though it features a slightly mushy D-pad. For those looking to spend the absolute minimum, the original GameSir Nova Lite drops down to roughly $18, though upgrading to the newer version for just a few extra dollars provides additional features and better value.",
-      "These budget controllers trade away expensive bells and whistles like advanced haptics and adaptive triggers to focus on what matters most for everyday play: low-latency wireless connections and durable hardware. By utilizing Hall effect sensors, these inexpensive gamepads effectively eliminate the dreaded stick-drift issue that often plagues more expensive legacy hardware over time."
+      "Team Ninja producers Kohei Shibata and Masakazu Hirayama recently spoke during an interview with INVEN Global at GCON 2026 in South Korea about their approach to game design and the integration of emerging technologies. Best known for their work on the Nioh and Wo Long series, the developers touched on the fine line between difficult and unfair game design, emphasizing the importance of precise control responsiveness and player movement.",
+      "Shibata described Nioh as samurai action rooted in stillness, movement, and observation, while Hirayama characterized Wo Long as aggressive Chinese martial arts action where attack and defense seamlessly flow. Both producers stressed that reducing friction between a player's action and the game's consequence is essential to ensuring that failure feels fair to the player rather than the fault of the software.",
+      "Transitioning to the topic of industry technology, the conversation shifted toward how Koei Tecmo and Team Ninja approach artificial intelligence. While various studios across the industry have adopted vastly different stances on AI, Team Ninja has chosen a measured compromise by implementing the technology specifically for quality assurance and verification tasks.",
+      "According to Shibata, utilizing AI to shorten repetitive task times allows the studio to redirect saved hours toward elevating the overall quality of the game. However, both producers were careful to draw a firm line, asserting that the fundamental task of deciding how to craft a game and making it enjoyable must remain entirely in human hands.",
+      "The ongoing debate surrounding AI in game development touches on broader concerns about job security and audience tolerance across the industry. While automated QA testing has historical roots predating modern generative AI, studios like Capcom and Team Ninja continue to evaluate how to balance efficiency with preserving the human element of game creation."
     ],
     "highlights": [
-      "Get reliable, low-latency wireless controllers for under $25.",
-      "Hall effect joysticks help prevent annoying stick-drift issues.",
-      "GameSir Nova Lite 2 features a mechanical D-pad and trigger locks for $23.",
-      "8BitDo Ultimate 2C offers a Switch Pro-like shape for around $20."
+      "Team Ninja producers explain the design philosophies behind Nioh and Wo Long at GCON 2026.",
+      "The studio currently uses AI exclusively for repetitive quality assurance and verification workflows.",
+      "Producers emphasize that creative choices and what makes a game fun must always be done by humans.",
+      "The industry remains divided on acceptable AI use as studios balance development efficiency with job security concerns."
     ],
     "socialPulse": {
-      "sentiment": "Hyped",
+      "sentiment": "Mixed",
       "viralPlatforms": [
-        "Reddit",
         "X / Twitter",
+        "Reddit",
         "YouTube"
       ],
-      "summary": "Gamers on social media are expressing excitement over the increasing quality and low cost of budget hardware, particularly praising the widespread adoption of Hall effect joysticks. Many users are thrilled that they no longer have to spend over $70 to get a reliable controller that won't suffer from stick drift within a few months. Some debate the minor compromises in build quality, but the consensus heavily favors these affordable peripherals as essential setup additions.",
+      "summary": "Gamers and industry observers on social media are split over Team Ninja's approach to artificial intelligence. While some users appreciate the studio's pragmatic distinction between using automation for boring QA tasks versus actual creative design, others remain deeply suspicious of any adoption of AI tools given broader concerns about industry job displacement.",
       "viewpoints": [
         {
-          "stance": "Value Enthusiast",
-          "detail": "Players are amazed that features like Hall effect sticks and mechanical D-pads are finally making their way into sub-$25 controllers. It completely changes how we view budget PC hardware and eliminates the need to overspend on first-party gamepads."
+          "stance": "Pragmatic Acceptance",
+          "detail": "Some community members argue that using AI strictly for automated bug checking and quality assurance is a harmless way to save developer time without compromising artistic integrity. They believe that distinguishing between backend optimization and creative generation is the right path forward for major studios."
         },
         {
-          "stance": "Cautious Skeptic",
-          "detail": "Some users point out that cheaper plastics and simple companion software mean these devices might not last as long under heavy, competitive use. However, most agree that even if they last half as long as a premium controller, the low price makes them entirely worth it."
+          "stance": "Deep Skepticism",
+          "detail": "Other players and industry advocates remain wary, arguing that opening the door to AI tools in any capacity sets a slippery slope for game development studios. They worry that administrative adoption of these technologies will inevitably lead to reduced headcounts and threaten jobs across the sector."
         }
       ]
     },
-    "category": "PC",
+    "category": "Industry",
     "gameTitle": "",
     "gameScale": "AAA",
     "fanbaseScore": 8,
     "isUpcoming": false,
     "isRumor": false,
     "releaseWindow": "",
-    "isControversy": false,
-    "controversyAngle": "",
+    "isControversy": true,
+    "controversyAngle": "AI Tool Backlash",
     "isTrending": true,
-    "importance": 5,
-    "source": "PC Gamer",
-    "url": "https://www.pcgamer.com/hardware/game-pads/these-budget-friendly-pads-are-the-cheapest-quickest-way-to-instantly-upgrade-your-setup-for-under-usd25",
-    "image": "https://cdn.mos.cms.futurecdn.net/HnGQPuJEk2xU29aLtyyTSG-1920-80.jpg",
-    "publishedAt": "2026-11-26T14:20:36.000Z"
+    "importance": 7,
+    "source": "Kotaku",
+    "url": "https://kotaku.com/team-ninja-ai-qa-difficulty-nioh-wo-long-koei-temco-capcom-2001000539",
+    "image": "https://kotaku.com/app/uploads/2026/11/Wo-Long-Danfu-1280x720.jpg",
+    "publishedAt": "2026-11-26T11:30:49.000Z"
   },
   {
     "id": "10a51d1d7f767576",
@@ -765,6 +665,57 @@
     "url": "https://www.pushsquare.com/news/2026/11/new-phantom-blade-zero-ps5-update-brings-features-upgrades-and-fixes",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/b2ebc232d3d88eafa8546f65b90d8dc8d2ece0b4/ss_b2ebc232d3d88eafa8546f65b90d8dc8d2ece0b4.1920x1080.jpg?t=1793261976",
     "publishedAt": "2026-11-26T17:30:00.000Z"
+  },
+  {
+    "id": "cd221b4d2a55c6e1",
+    "title": "GTA 6 PS5 Weather Fix Discovered: How Clearing Your Console Cache Makes Rainstorms Finally Kick In",
+    "summary": "Even after Rockstar rolled out a post-launch patch to fix GTA 6's lack of weather variety, some PlayStation 5 players found they were still stuck in endless sunshine. Fortunately, a newly discovered community workaround involving clearing the console's system cache is successfully forcing the patch to work as intended.",
+    "content": [
+      "Rockstar recently deployed the first post-launch patch for Grand Theft Auto 6, which was designed in part to address complaints regarding a lack of weather variety. While the update helped many players, a notable number of users reported that their games were still suffering from minimal weather changes, blurring the line between intended narrative weather pacing and persistent bugs.",
+      "During the game's review period, Rockstar's vice president of art: lighting and rendering, Owen Shepherd, explained that weather patterns are designed to evolve across chapters. Much like real-world Florida climates, the game starts with generally good weather in early chapters before shifting to more changeable and stormy conditions later on, though localized weather pockets meant some players missed out entirely.",
+      "To combat the lingering post-patch issues, an X user known as @mauricioce85796 discovered a potential workaround specifically for PlayStation 5 players. By booting the console into safe mode and selecting option six to clear the system cache, players have found a way to force the game patch to properly apply its weather updates.",
+      "Gamers across social media have tested the method and shared overwhelmingly positive results, with many reporting being instantly greeted by dramatic thunderstorms upon loading back into Leonida. Importantly, performing a cache clear on the PS5 only deletes temporary system files and will not erase game saves, installed titles, screenshots, or personal account settings.",
+      "As the community continues to dive deep into Leonida with resources like the official IGN guide, beginner tips, and interactive maps, this simple console maintenance trick offers a reliable temporary fix for those struggling to experience GTA 6's full meteorological scope."
+    ],
+    "highlights": [
+      "Rockstar released a post-launch patch targeting GTA 6's weather variety issues.",
+      "Some PS5 players still experienced minimal rain and storms despite the update.",
+      "Clearing the PS5 system cache in safe mode has emerged as a reliable fan-discovered workaround.",
+      "Players report immediately encountering heavy storms after executing the cache clear."
+    ],
+    "socialPulse": {
+      "sentiment": "Hyped",
+      "viralPlatforms": [
+        "X / Twitter",
+        "Reddit"
+      ],
+      "summary": "The community is buzzing with excitement over the simple PS5 cache-clearing trick, with many sharing video clips of dramatic rainstorms finally rolling into Leonida. While a few skeptics initially questioned whether it was merely a placebo effect, a flood of player confirmations has turned the method into a viral success.",
+      "viewpoints": [
+        {
+          "stance": "Ecstatic Workaround Users",
+          "detail": "Many players are thrilled that a simple menu option in safe mode instantly solved their weather stagnation issues without risking saved game data. Seeing immediate thunderstorms roll in has given fans a newfound appreciation for the game's atmospheric lighting and rendering engine."
+        },
+        {
+          "stance": "Cautious Skeptics",
+          "detail": "Some community members remain wary, wondering if the sudden change in weather is simply a coincidence tied to natural chapter progression rather than the cache clear itself. Nevertheless, even skeptics acknowledge that clearing temporary system files is completely harmless to try."
+        }
+      ]
+    },
+    "category": "Console",
+    "gameTitle": "Grand Theft Auto 6",
+    "gameScale": "AAA",
+    "fanbaseScore": 10,
+    "isUpcoming": false,
+    "isRumor": false,
+    "releaseWindow": "",
+    "isControversy": false,
+    "controversyAngle": "",
+    "isTrending": true,
+    "importance": 7,
+    "source": "IGN",
+    "url": "https://www.ign.com/articles/ps5-workaround-weather-gta-6",
+    "image": "https://upload.wikimedia.org/wikipedia/en/4/46/Grand_Theft_Auto_VI.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "publishedAt": "2026-11-26T11:26:17.000Z"
   },
   {
     "id": "d10f9b53074a563c",
@@ -869,6 +820,158 @@
     "publishedAt": "2026-11-26T03:35:00.000Z"
   },
   {
+    "id": "8390b99d17300ae5",
+    "title": "Monster Hunter Wilds & Rayman Legends Lead Nintendo Switch eShop Thanksgiving Lineup",
+    "summary": "Nintendo has rolled out its North American Switch eShop Thanksgiving update for November 26th, featuring a packed lineup of new titles and indie gems. Highlights include the intriguing prospect of Monster Hunter Wilds, Rayman Legends Retold, and other notable releases like The Ascent.",
+    "content": [
+      "The North American Nintendo Download Thanksgiving update for November 26th has arrived, bringing a fresh round of exciting software to the Switch eShop. This week's drop is highlighted by several high-profile titles and intriguing multi-platform releases that have caught the attention of handheld and console players alike.",
+      "Among the standout titles is Monster Hunter Wilds, sparking immediate curiosity regarding how Capcom's massive action RPG will perform and scale on Nintendo's upcoming hardware. Meanwhile, platformer fans are keeping a close eye on Rayman Legends Retold, a fresh take on Ubisoft's beloved classic that promises updated experiences despite raising questions among previewers about the necessity of its retelling.",
+      "Rounding out the eShop update are several other promising adventures worth investigating for players looking for new experiences over the holiday break. Games such as The Ascent, Station to Station, and Hela add a healthy dose of cyberpunk action, cozy puzzle-building, and whimsical exploration to the digital storefront.",
+      "As players dive into the Thanksgiving holiday, these new eShop additions provide plenty of gaming options across various genres. Nintendo fans can access the complete list of releases and check individual software details directly on the Switch eShop and through official coverage on Nintendo Life."
+    ],
+    "highlights": [
+      "North American Nintendo Download Thanksgiving update goes live for November 26th.",
+      "Monster Hunter Wilds sparks curiosity about its potential Switch 2 performance.",
+      "Rayman Legends Retold brings a refreshed perspective to the classic platformer.",
+      "Additional notable eShop releases include The Ascent, Station to Station, and Hela."
+    ],
+    "socialPulse": {
+      "sentiment": "Mixed",
+      "viralPlatforms": [
+        "X / Twitter",
+        "Reddit"
+      ],
+      "summary": "Players across social media are discussing the holiday eShop lineup with a mix of excitement and skepticism. While many are eager to dive into new indie titles and see how major games scale, others debate the necessity of re-releases and the performance capabilities of upcoming hardware.",
+      "viewpoints": [
+        {
+          "stance": "Cautious Curiosity",
+          "detail": "Fans are intensely curious about how demanding modern titles like Monster Hunter Wilds will run on Nintendo's hardware ecosystem. Many are waiting for thorough technical reviews before committing to holiday purchases."
+        },
+        {
+          "stance": "Skeptical Remasters",
+          "detail": "Some community members question whether titles like Rayman Legends Retold offer enough new content to justify another playthrough. Critics debate if classic games truly require modern retellings when original versions remain readily accessible."
+        }
+      ]
+    },
+    "category": "Console",
+    "gameTitle": "Monster Hunter Wilds",
+    "gameScale": "AAA",
+    "fanbaseScore": 10,
+    "isUpcoming": false,
+    "isRumor": false,
+    "releaseWindow": "",
+    "isControversy": false,
+    "controversyAngle": "",
+    "isTrending": true,
+    "importance": 5,
+    "source": "Nintendo Life",
+    "url": "https://www.nintendolife.com/news/2026/11/here-are-all-the-games-coming-to-switch-eshop-this-week-november-26",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246340/ss_31b5597fecf2d9a2904bc9bbf8011aacb18143db.1920x1080.jpg?t=1787549555",
+    "publishedAt": "2026-11-26T17:30:00.000Z"
+  },
+  {
+    "id": "683df533e53b06d4",
+    "title": "Review: Gamesir Nova Vision Controller for Switch 1 & 2 Elevates the Mid-Range Market",
+    "summary": "Accessory developer Gamesir has expanded its lineup with the Nova Vision, a mid-range controller designed for Switch 1 and 2 systems. Priced at $54.99, it introduces unique features like a built-in color LCD screen and tool-free adjustable tension Hall Effect analogue sticks.",
+    "content": [
+      "Accessory developer Gamesir has traditionally focused its controller efforts on Xbox and PC, making its latest hardware release for the Nintendo Switch 1 and Switch 2 an intriguing pivot. The Nova Vision enters the mid-range market at $54.99, bringing several distinctive features including a color LCD screen for easy customization and Hall Effect analogue sticks with adjustable tension that require no extra tools.",
+      "The analogue sticks stand out as a major feature, sharing a grippy rubberized texture and feel similar to PS5 sticks while utilizing Hall Effect technology to prevent stick drift. Unlike competing controllers that require additional tools to modify tension, the Nova Vision allows users to simply twist the sticks anti-clockwise to loosen or clockwise to tighten them, making adjustments seamless between different genres like open-world exploration and racing.",
+      "The built-in color LCD screen serves as the primary hub for system navigation, housing traditional inputs like Start, Select, and Home directly on the display surface. By holding down the dedicated 'M' button, users can access an on-screen configuration menu to switch platforms, remap buttons, adjust motion controls, and manage vibration intensity without navigating external software.",
+      "Physical inputs offer a mix of mechanical and membrane components, featuring satisfying clicky mechanical D-pads, shoulder buttons, and back buttons alongside quieter membrane ABXY keys. The controller supports triple-mode connectivity via Bluetooth, a 2.4G wireless dongle, or USB-C, powered by a 1000mAh battery that delivers over ten hours of use and comes packaged with a minimalist charging dock featuring wake-up support for Switch 2.",
+      "While the package delivers impressive value, it is not without minor drawbacks, such as the lack of a dedicated 'C' button and a companion PC configuration app that currently lacks Mac compatibility. Despite these minor limitations, the Nova Vision provides a compelling and feature-rich alternative for Switch owners seeking advanced customization at a competitive price point."
+    ],
+    "highlights": [
+      "Priced at $54.99 and includes a minimalist charging dock with Switch 2 wake-up support.",
+      "Features tool-free adjustable tension Hall Effect analogue sticks to prevent drift.",
+      "Built-in color LCD screen handles custom profiles, button remapping, and menu navigation.",
+      "Offers triple connectivity options including Bluetooth, 2.4G wireless, and USB-C."
+    ],
+    "socialPulse": {
+      "sentiment": "Mixed",
+      "viralPlatforms": [
+        "Nintendo Life",
+        "Reddit",
+        "YouTube"
+      ],
+      "summary": "Gamers are generally impressed by the innovative tool-free adjustable tension sticks and built-in screen functionality at a mid-range price point. However, some users remain skeptical about integrating basic inputs like the Start and Home buttons directly into a display screen.",
+      "viewpoints": [
+        {
+          "stance": "Praise for Innovation",
+          "detail": "Many players appreciate the inclusion of Hall Effect sticks and tool-free tension adjustment, viewing it as a massive value win for Switch owners. Being able to easily switch resistance depending on whether you are playing an open-world adventure or a racing game is seen as a genuine quality-of-life feature."
+        },
+        {
+          "stance": "Skepticism Over Screen Controls",
+          "detail": "Other members of the community express concern regarding housing essential inputs like Start and Home on an LCD screen rather than using physical tactile buttons. Some worry this design choice could lead to accidental presses or cumbersome navigation during intense gameplay sessions."
+        }
+      ]
+    },
+    "category": "Reviews",
+    "gameTitle": "",
+    "gameScale": "AAA",
+    "fanbaseScore": 8,
+    "isUpcoming": false,
+    "isRumor": false,
+    "releaseWindow": "",
+    "isControversy": false,
+    "controversyAngle": "",
+    "isTrending": true,
+    "importance": 5,
+    "source": "Nintendo Life",
+    "url": "https://www.nintendolife.com/reviews/gamesir-nova-vision-controller-for-switch-1-and-2-unique-features-elevate-this-mid-range-pad",
+    "image": "https://images.nintendolife.com/637448a224e55/large.jpg",
+    "publishedAt": "2026-11-26T18:00:00.000Z"
+  },
+  {
+    "id": "d23df75e19084542",
+    "title": "HARK THE GHOUL Launches January 21, 2027 Across All Major Platforms",
+    "summary": "Dungeon crawler Hark the Ghoul has officially locked in a release date of January 21, 2027. The game is scheduled to launch simultaneously across PlayStation 5, Xbox Series, Switch 2, Switch, and PC.",
+    "content": [
+      "Dungeon crawler Hark the Ghoul has officially received a confirmed release date, bringing excitement to fans of the genre. Developer and publisher details point toward a massive multiplatform rollout scheduled for early 2027.",
+      "The title will be coming to a wide array of current and next-generation platforms. Specifically, players will be able to experience Hark the Ghoul on PlayStation 5, Xbox Series X/S, PC, Nintendo Switch, and the upcoming successor console tentatively referred to as the Switch 2.",
+      "This broad hardware support ensures that almost the entire console and PC gaming ecosystem will have access to the dungeon crawler on day one. Cross-generation and next-generation releases highlight the developer's ambition to reach players wherever they play.",
+      "With the release date set for January 21, 2027, fans now have a concrete timeline to look forward to. More gameplay details and platform-specific features are expected to be revealed as the launch window approaches."
+    ],
+    "highlights": [
+      "Hark the Ghoul launches on January 21, 2027.",
+      "Releasing across PlayStation 5, Xbox Series, PC, Switch, and Switch 2.",
+      "Positioned as a multiplatform dungeon crawler experience."
+    ],
+    "socialPulse": {
+      "sentiment": "Hyped",
+      "viralPlatforms": [
+        "X / Twitter",
+        "Reddit",
+        "YouTube"
+      ],
+      "summary": "The announcement of a wide multiplatform release date for Hark the Ghoul has generated significant excitement across online gaming communities. Fans are particularly thrilled about the inclusion of the Switch 2 alongside current-generation hardware.",
+      "viewpoints": [
+        {
+          "stance": "Excited for Switch 2 Support",
+          "detail": "Many players are thrilled to see the upcoming Nintendo successor included in the day-one lineup. It signals strong confidence in the new hardware's capabilities."
+        },
+        {
+          "stance": "Broad Platform Access",
+          "detail": "Gamers appreciate that the developers are not locking the title to a single ecosystem. Simultaneous releases across PC and all major consoles are seen as a major win."
+        }
+      ]
+    },
+    "category": "Console",
+    "gameTitle": "Hark the Ghoul",
+    "gameScale": "AA",
+    "fanbaseScore": 6,
+    "isUpcoming": true,
+    "isRumor": false,
+    "releaseWindow": "Jan 21, 2027",
+    "isControversy": false,
+    "controversyAngle": "",
+    "isTrending": true,
+    "importance": 6,
+    "source": "Gematsu",
+    "url": "https://www.gematsu.com/2026/11/hark-the-ghoul-launches-january-21-2027-for-ps5-xbox-series-switch-2-switch-and-pc",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3058660/5b0e4283073fca82f3cfbd6b7990416663dcf7bd/ss_5b0e4283073fca82f3cfbd6b7990416663dcf7bd.1920x1080.jpg?t=1795726221",
+    "publishedAt": "2026-11-26T15:50:27.000Z"
+  },
+  {
     "id": "82920a4d6424e046",
     "title": "Aeterna Lucis Dev Braces For Impact As Silksong Announces Fresh Showcase",
     "summary": "After delaying Aeterna Lucis to December 2026 specifically to escape Hollow Knight: Silksong's launch window, indie developer Aeternum Game Studios is now facing a new collision course. Team Cherry has announced an upcoming 'Cherry Time' special presentation featuring updates on the Sea of Sorrow DLC, threatening to overshadow indie releases yet again.",
@@ -920,54 +1023,55 @@
     "publishedAt": "2026-11-26T12:45:00.000Z"
   },
   {
-    "id": "d23df75e19084542",
-    "title": "HARK THE GHOUL Launches January 21, 2027 Across All Major Platforms",
-    "summary": "Dungeon crawler Hark the Ghoul has officially locked in a release date of January 21, 2027. The game is scheduled to launch simultaneously across PlayStation 5, Xbox Series, Switch 2, Switch, and PC.",
+    "id": "badf78583e3e271a",
+    "title": "Upgrade Your PC Setup with These Top-Rated Budget Gamepads Under $25",
+    "summary": "PC gamers looking for an affordable alternative to costly first-party controllers can choose from several sub-$25 options featuring stick-drift resistant Hall effect joysticks. Devices like the GameSir Nova Lite 2 and 8BitDo Ultimate 2C bring low-latency wireless gaming to budget-conscious setups without breaking the bank.",
     "content": [
-      "Dungeon crawler Hark the Ghoul has officially received a confirmed release date, bringing excitement to fans of the genre. Developer and publisher details point toward a massive multiplatform rollout scheduled for early 2027.",
-      "The title will be coming to a wide array of current and next-generation platforms. Specifically, players will be able to experience Hark the Ghoul on PlayStation 5, Xbox Series X/S, PC, Nintendo Switch, and the upcoming successor console tentatively referred to as the Switch 2.",
-      "This broad hardware support ensures that almost the entire console and PC gaming ecosystem will have access to the dungeon crawler on day one. Cross-generation and next-generation releases highlight the developer's ambition to reach players wherever they play.",
-      "With the release date set for January 21, 2027, fans now have a concrete timeline to look forward to. More gameplay details and platform-specific features are expected to be revealed as the launch window approaches."
+      "Many PC games prompt players to grab a controller rather than using a mouse and keyboard, leaving staunch PC players who lack a gamepad facing a dilemma. While first-party hardware options from PlayStation and Xbox offer great features, their steep prices can be prohibitive for casual controller users. Fortunately, the market features plenty of budget-friendly options that deliver comfortable and robust gaming experiences for a fraction of the cost.",
+      "Among the best choices is the GameSir Nova Lite 2, currently priced around $23 at Walmart. It features Hall effect sticks for stick-drift protection, 1000 Hz polling, trigger locks, and a mechanical D-pad. While compromises are made with cheaper plastic and simple software, pad professional James Bentley praises its overall comfort and high performance for the price point.",
+      "For players accustomed to the Nintendo Switch Pro controller shape, the 8BitDo Ultimate 2C offers a similar layout at around $20 on Amazon. It also sports beloved Hall effect joysticks and vibrant colorways, though it features a slightly mushy D-pad. For those looking to spend the absolute minimum, the original GameSir Nova Lite drops down to roughly $18, though upgrading to the newer version for just a few extra dollars provides additional features and better value.",
+      "These budget controllers trade away expensive bells and whistles like advanced haptics and adaptive triggers to focus on what matters most for everyday play: low-latency wireless connections and durable hardware. By utilizing Hall effect sensors, these inexpensive gamepads effectively eliminate the dreaded stick-drift issue that often plagues more expensive legacy hardware over time."
     ],
     "highlights": [
-      "Hark the Ghoul launches on January 21, 2027.",
-      "Releasing across PlayStation 5, Xbox Series, PC, Switch, and Switch 2.",
-      "Positioned as a multiplatform dungeon crawler experience."
+      "Get reliable, low-latency wireless controllers for under $25.",
+      "Hall effect joysticks help prevent annoying stick-drift issues.",
+      "GameSir Nova Lite 2 features a mechanical D-pad and trigger locks for $23.",
+      "8BitDo Ultimate 2C offers a Switch Pro-like shape for around $20."
     ],
     "socialPulse": {
       "sentiment": "Hyped",
       "viralPlatforms": [
-        "X / Twitter",
         "Reddit",
+        "X / Twitter",
         "YouTube"
       ],
-      "summary": "The announcement of a wide multiplatform release date for Hark the Ghoul has generated significant excitement across online gaming communities. Fans are particularly thrilled about the inclusion of the Switch 2 alongside current-generation hardware.",
+      "summary": "Gamers on social media are expressing excitement over the increasing quality and low cost of budget hardware, particularly praising the widespread adoption of Hall effect joysticks. Many users are thrilled that they no longer have to spend over $70 to get a reliable controller that won't suffer from stick drift within a few months. Some debate the minor compromises in build quality, but the consensus heavily favors these affordable peripherals as essential setup additions.",
       "viewpoints": [
         {
-          "stance": "Excited for Switch 2 Support",
-          "detail": "Many players are thrilled to see the upcoming Nintendo successor included in the day-one lineup. It signals strong confidence in the new hardware's capabilities."
+          "stance": "Value Enthusiast",
+          "detail": "Players are amazed that features like Hall effect sticks and mechanical D-pads are finally making their way into sub-$25 controllers. It completely changes how we view budget PC hardware and eliminates the need to overspend on first-party gamepads."
         },
         {
-          "stance": "Broad Platform Access",
-          "detail": "Gamers appreciate that the developers are not locking the title to a single ecosystem. Simultaneous releases across PC and all major consoles are seen as a major win."
+          "stance": "Cautious Skeptic",
+          "detail": "Some users point out that cheaper plastics and simple companion software mean these devices might not last as long under heavy, competitive use. However, most agree that even if they last half as long as a premium controller, the low price makes them entirely worth it."
         }
       ]
     },
-    "category": "Console",
-    "gameTitle": "Hark the Ghoul",
-    "gameScale": "AA",
-    "fanbaseScore": 6,
-    "isUpcoming": true,
+    "category": "PC",
+    "gameTitle": "",
+    "gameScale": "AAA",
+    "fanbaseScore": 8,
+    "isUpcoming": false,
     "isRumor": false,
-    "releaseWindow": "Jan 21, 2027",
+    "releaseWindow": "",
     "isControversy": false,
     "controversyAngle": "",
     "isTrending": true,
-    "importance": 6,
-    "source": "Gematsu",
-    "url": "https://www.gematsu.com/2026/11/hark-the-ghoul-launches-january-21-2027-for-ps5-xbox-series-switch-2-switch-and-pc",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3058660/5b0e4283073fca82f3cfbd6b7990416663dcf7bd/ss_5b0e4283073fca82f3cfbd6b7990416663dcf7bd.1920x1080.jpg?t=1795726221",
-    "publishedAt": "2026-11-26T15:50:27.000Z"
+    "importance": 5,
+    "source": "PC Gamer",
+    "url": "https://www.pcgamer.com/hardware/game-pads/these-budget-friendly-pads-are-the-cheapest-quickest-way-to-instantly-upgrade-your-setup-for-under-usd25",
+    "image": "https://cdn.mos.cms.futurecdn.net/HnGQPuJEk2xU29aLtyyTSG-1920-80.jpg",
+    "publishedAt": "2026-11-26T14:20:36.000Z"
   },
   {
     "id": "16cd4c33011b7681",
@@ -1277,58 +1381,6 @@
     "publishedAt": "2026-11-25T09:15:10.000Z"
   },
   {
-    "id": "f904ed005e4e8335",
-    "title": "Capcom's Dinosaur Shooter Exoprimal Joins the Live-Service Graveyard With Servers Ending in 2027",
-    "summary": "Capcom has announced that its dinosaur action game Exoprimal will officially shut down its servers on September 30, 2027. Despite praise for its fun combat and chaotic premise following its 2023 launch, the game struggled to maintain a healthy player base.",
-    "content": [
-      "Capcom has announced that service for its Overwatch-with-dinosaurs game, Exoprimal, will be permanently discontinued, joining the growing list of live-service titles meeting an early end. The game's servers are scheduled to go offline on Thursday, September 30, 2027, making it entirely unplayable after that date. In a statement on the official site, Capcom thanked the community for their support and apologized for the gravity of the announcement.",
-      "The wind-down process is already underway, with season passes no longer available for purchase through digital storefronts. Exoprimal and all of its associated downloadable content will be completely delisted from stores starting March 30, 2027. However, players who already own the game will still be able to download and play it prior to the final server shutdown deadline in September 2027.",
-      "Upon its 2023 launch, Exoprimal offered a unique premise featuring massive oceans of dinosaurs, though it struggled to capture a massive long-term audience. GameSpot's review highlighted that while the early hours featured repetitive missions, later surprises, difficulty escalations, and enemy variety brought fresh life to the shooter for players willing to stick with it.",
-      "Signs of the game's decline had been mounting since 2024, when Capcom announced the end of new seasonal updates in favor of rotating existing content monthly. Player numbers on Steam ultimately cratered after peaking at 4,995 concurrent players in November 2023, dropping to a 24-hour peak of just 23 players. Exoprimal's closure follows a brutal period for live-service titles in 2026, which also saw the shutdowns of games like Highguard, Anthem, and New World: Aeternum."
-    ],
-    "highlights": [
-      "Exoprimal servers will officially shut down on September 30, 2027.",
-      "The game and its DLC will be delisted from digital storefronts on March 30, 2027.",
-      "Season passes have already been pulled from store shelves by Capcom.",
-      "Steam concurrent player counts dwindled significantly following its 2023 launch."
-    ],
-    "socialPulse": {
-      "sentiment": "Mixed",
-      "viralPlatforms": [
-        "X / Twitter",
-        "Reddit",
-        "Steam",
-        "YouTube"
-      ],
-      "summary": "Gamers on social media are expressing a mix of nostalgia for the game's unique concept and resignation regarding the state of live-service titles. While some fans are praising the chaotic fun of fighting waves of dinosaurs with friends, others point out that the writing was on the wall due to dwindling player counts and a lack of continuous content updates.",
-      "viewpoints": [
-        {
-          "stance": "Appreciative of the Core Concept",
-          "detail": "Some community members fondly remember the chaotic fun of the dinosaur-swarming combat and unique gameplay loop. They feel that the game deserved a better fate and blame a lack of sustained marketing and content for its ultimate demise."
-        },
-        {
-          "stance": "Unsurprised by the Closure",
-          "detail": "Other players noted that the low concurrent player numbers on Steam and Capcom's previous announcement to halt seasonal updates made this outcome completely inevitable. They view it as another cautionary tale about the unsustainable nature of the live-service model."
-        }
-      ]
-    },
-    "category": "Industry",
-    "gameTitle": "Exoprimal",
-    "gameScale": "AAA",
-    "fanbaseScore": 6,
-    "isUpcoming": false,
-    "isRumor": false,
-    "releaseWindow": "",
-    "isControversy": false,
-    "controversyAngle": "",
-    "isTrending": false,
-    "importance": 6,
-    "source": "GameSpot",
-    "url": "https://www.gamespot.com/articles/another-live-service-game-is-going-extinct-and-this-one-has-dinosaurs",
-    "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Exoprimal.jpg?w=1200",
-    "publishedAt": "2026-11-25T17:57:42.000Z"
-  },
-  {
     "id": "cdfd4246352ea09e",
     "title": "Team Cherry Announces 'Cherry Time' Showcase for Hollow Knight: Silksong's Sea of Sorrows DLC",
     "summary": "Team Cherry has scheduled a 'Cherry Time Special Presentation' for November 27 to showcase new details on the nautically-themed Sea of Sorrows DLC for Hollow Knight: Silksong. Alongside the DLC update, the studio has teased additional exciting announcements and potential reveals about upcoming free content packs found in recent physical editions.",
@@ -1382,55 +1434,56 @@
     "publishedAt": "2026-11-25T15:32:40.000Z"
   },
   {
-    "id": "1c6f62ec4b26c1e4",
-    "title": "GTA 6 Launch Smashes Records and Decimates Call of Duty Player Counts",
-    "summary": "Grand Theft Auto 6's massive November launch has pulled millions of players away from major live service giants, with Call of Duty suffering a severe 42 percent drop in daily active users that has failed to recover. Meanwhile, the blockbuster has sold 44.9 million copies and generated over $4 billion, though it simultaneously faces a Metacritic user score review bomb.",
+    "id": "f904ed005e4e8335",
+    "title": "Capcom's Dinosaur Shooter Exoprimal Joins the Live-Service Graveyard With Servers Ending in 2027",
+    "summary": "Capcom has announced that its dinosaur action game Exoprimal will officially shut down its servers on September 30, 2027. Despite praise for its fun combat and chaotic premise following its 2023 launch, the game struggled to maintain a healthy player base.",
     "content": [
-      "Grand Theft Auto 6's monumental launch on 19th November took a massive bite out of Call of Duty’s player base, according to new estimates from Alinea Analytics, and four days later the franchise still has not recovered. Writing in Alinea's newsletter, Rhys Elliott reported that Call of Duty HQ's daily active users across PlayStation, Xbox, and Steam plummeted 42 percent from an average of 7.5 million to 4.4 million. On PlayStation, which serves as the primary platform for Call of Duty, the drop was even steeper at 44 percent, with Elliott noting that the franchise remains down 41 percent from its baseline after four days.",
-      "Other live service juggernauts like Fortnite and FC 27 also suffered immediate impacts from the Grand Theft Auto 6 release, though they are already showing signs of recovery. Fortnite's daily active users on PlayStation and Xbox fell 28 percent from 17.8 million to 12.8 million before clawing back to 19 percent below its baseline by the end of the weekend, bolstered by an upcoming live event on 5th December. Similarly, FC 27 saw daily active users drop roughly 27 percent from 5.9 million to 4.3 million, returning to within 20 percent of its baseline shortly after.",
-      "Alinea's data indicates that among those who had played Grand Theft Auto 6 by the end of its launch weekend, 29 percent had also played Fortnite that month, 16 percent played Call of Duty HQ, and 11 percent played FC 27. Elliott noted that while live service titles generally bounced back because they are ingrained player habits, Call of Duty stands out as an outlier that should cause concern for Xbox. Furthermore, this heavy impact is solely from the single-player mode, with online components and a PC port anticipated next year that could cause even more disruption.",
-      "Commercially, Alinea estimates that Grand Theft Auto 6 has sold an astonishing 44.9 million copies and generated over $4 billion since its debut on PlayStation 5 and Xbox Series X/S. The title broke records by selling 32.5 million pre-release copies and pulling in $3.79 billion by the end of its first day alone, earning a five-star review from Eurogamer for its awe-inspiring scale. However, this historic financial success stands in stark contrast to its Metacritic user score, where players have review bombed the game over limited frame rates and alleged political agendas."
+      "Capcom has announced that service for its Overwatch-with-dinosaurs game, Exoprimal, will be permanently discontinued, joining the growing list of live-service titles meeting an early end. The game's servers are scheduled to go offline on Thursday, September 30, 2027, making it entirely unplayable after that date. In a statement on the official site, Capcom thanked the community for their support and apologized for the gravity of the announcement.",
+      "The wind-down process is already underway, with season passes no longer available for purchase through digital storefronts. Exoprimal and all of its associated downloadable content will be completely delisted from stores starting March 30, 2027. However, players who already own the game will still be able to download and play it prior to the final server shutdown deadline in September 2027.",
+      "Upon its 2023 launch, Exoprimal offered a unique premise featuring massive oceans of dinosaurs, though it struggled to capture a massive long-term audience. GameSpot's review highlighted that while the early hours featured repetitive missions, later surprises, difficulty escalations, and enemy variety brought fresh life to the shooter for players willing to stick with it.",
+      "Signs of the game's decline had been mounting since 2024, when Capcom announced the end of new seasonal updates in favor of rotating existing content monthly. Player numbers on Steam ultimately cratered after peaking at 4,995 concurrent players in November 2023, dropping to a 24-hour peak of just 23 players. Exoprimal's closure follows a brutal period for live-service titles in 2026, which also saw the shutdowns of games like Highguard, Anthem, and New World: Aeternum."
     ],
     "highlights": [
-      "Call of Duty daily active users dropped 42 percent at launch and remained down 41 percent after four days.",
-      "Fortnite and FC 27 also took hits of 28 and 27 percent respectively, though both are recovering faster.",
-      "Alinea estimates GTA 6 has sold 44.9 million copies and made over $4 billion since its 19th November launch.",
-      "The current impact stems entirely from single-player, with online and PC versions arriving next year."
+      "Exoprimal servers will officially shut down on September 30, 2027.",
+      "The game and its DLC will be delisted from digital storefronts on March 30, 2027.",
+      "Season passes have already been pulled from store shelves by Capcom.",
+      "Steam concurrent player counts dwindled significantly following its 2023 launch."
     ],
     "socialPulse": {
       "sentiment": "Mixed",
       "viralPlatforms": [
         "X / Twitter",
         "Reddit",
+        "Steam",
         "YouTube"
       ],
-      "summary": "Social media discussion is heavily split between utter amazement at GTA 6's unprecedented financial success and massive player migration, and intense online backlash. While many users are sharing gameplay clips and celebrating the single-player campaign, a vocal group on review aggregators and forums is actively review bombing the title over performance limitations and political talking points.",
+      "summary": "Gamers on social media are expressing a mix of nostalgia for the game's unique concept and resignation regarding the state of live-service titles. While some fans are praising the chaotic fun of fighting waves of dinosaurs with friends, others point out that the writing was on the wall due to dwindling player counts and a lack of continuous content updates.",
       "viewpoints": [
         {
-          "stance": "Industry Disruption",
-          "detail": "Commentators and analysts are shocked by how thoroughly GTA 6 can pull massive player counts away from entrenched live service games like Call of Duty. Many are warning that the upcoming online mode and PC release could cause even permanent shifts in daily player habits."
+          "stance": "Appreciative of the Core Concept",
+          "detail": "Some community members fondly remember the chaotic fun of the dinosaur-swarming combat and unique gameplay loop. They feel that the game deserved a better fate and blame a lack of sustained marketing and content for its ultimate demise."
         },
         {
-          "stance": "Performance and Culture Backlash",
-          "detail": "Frustrated players are taking to review platforms to voice their anger regarding limited frame rates and perceived ideological angles in the game. This reaction has created a sharp divide between critical acclaim and fractured community reception on user score boards."
+          "stance": "Unsurprised by the Closure",
+          "detail": "Other players noted that the low concurrent player numbers on Steam and Capcom's previous announcement to halt seasonal updates made this outcome completely inevitable. They view it as another cautionary tale about the unsustainable nature of the live-service model."
         }
       ]
     },
-    "category": "Console",
-    "gameTitle": "Grand Theft Auto 6",
+    "category": "Industry",
+    "gameTitle": "Exoprimal",
     "gameScale": "AAA",
-    "fanbaseScore": 10,
+    "fanbaseScore": 6,
     "isUpcoming": false,
     "isRumor": false,
     "releaseWindow": "",
-    "isControversy": true,
-    "controversyAngle": "Review Bombing",
+    "isControversy": false,
+    "controversyAngle": "",
     "isTrending": false,
-    "importance": 10,
-    "source": "Eurogamer",
-    "url": "https://www.eurogamer.net/gta-6-call-of-duty-fortnite-fc-27-daily-players-alinea",
-    "image": "https://assetsio.gnwcdn.com/Screenshot-2026-11-24-at-17.54.07.png?width=690&quality=85&format=jpg&auto=webp",
-    "publishedAt": "2026-11-24T17:59:50.000Z"
+    "importance": 6,
+    "source": "GameSpot",
+    "url": "https://www.gamespot.com/articles/another-live-service-game-is-going-extinct-and-this-one-has-dinosaurs",
+    "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Exoprimal.jpg?w=1200",
+    "publishedAt": "2026-11-25T17:57:42.000Z"
   },
   {
     "id": "beded1df65460a20",
@@ -1485,20 +1538,20 @@
     "publishedAt": "2026-11-24T22:04:28.000Z"
   },
   {
-    "id": "e4fff56798a6a668",
-    "title": "Capcom's Exoprimal Faces the Extinction: PS5 Game to Be Delisted",
-    "summary": "Capcom has announced that its multiplayer dinosaur shooter Exoprimal will be delisted in March 2027, with servers shutting down entirely later that year in September. The official end of service announcement was published directly on the Exoprimal website, expressing gratitude to the player base while apologizing for the sudden news.",
+    "id": "1c6f62ec4b26c1e4",
+    "title": "GTA 6 Launch Smashes Records and Decimates Call of Duty Player Counts",
+    "summary": "Grand Theft Auto 6's massive November launch has pulled millions of players away from major live service giants, with Call of Duty suffering a severe 42 percent drop in daily active users that has failed to recover. Meanwhile, the blockbuster has sold 44.9 million copies and generated over $4 billion, though it simultaneously faces a Metacritic user score review bomb.",
     "content": [
-      "Capcom has officially confirmed that its cooperative multiplayer title Exoprimal is heading toward a complete shutdown. According to an end-of-service announcement posted on the official website, the game will be delisted from digital storefronts in March 2027.",
-      "Following the upcoming delisting, Capcom plans to completely pull the plug on the game's servers in September 2027. This effectively ends the online-focused experience for all players who have engaged with the dinosaur-slaying action since its launch.",
-      "In the official announcement, the development and publishing team expressed deep gratitude to their community. The statement read: 'We cannot thank you enough for the love and support you have shown over the years, and we sincerely apologize for the gravity of this announcement.'",
-      "The decision marks a significant closure for the multiplayer project, which relied entirely on online connectivity and teamwork to battle hordes of prehistoric beasts. Players now have a limited multi-year window to enjoy the game before it disappears from storefronts and active service permanently."
+      "Grand Theft Auto 6's monumental launch on 19th November took a massive bite out of Call of Duty’s player base, according to new estimates from Alinea Analytics, and four days later the franchise still has not recovered. Writing in Alinea's newsletter, Rhys Elliott reported that Call of Duty HQ's daily active users across PlayStation, Xbox, and Steam plummeted 42 percent from an average of 7.5 million to 4.4 million. On PlayStation, which serves as the primary platform for Call of Duty, the drop was even steeper at 44 percent, with Elliott noting that the franchise remains down 41 percent from its baseline after four days.",
+      "Other live service juggernauts like Fortnite and FC 27 also suffered immediate impacts from the Grand Theft Auto 6 release, though they are already showing signs of recovery. Fortnite's daily active users on PlayStation and Xbox fell 28 percent from 17.8 million to 12.8 million before clawing back to 19 percent below its baseline by the end of the weekend, bolstered by an upcoming live event on 5th December. Similarly, FC 27 saw daily active users drop roughly 27 percent from 5.9 million to 4.3 million, returning to within 20 percent of its baseline shortly after.",
+      "Alinea's data indicates that among those who had played Grand Theft Auto 6 by the end of its launch weekend, 29 percent had also played Fortnite that month, 16 percent played Call of Duty HQ, and 11 percent played FC 27. Elliott noted that while live service titles generally bounced back because they are ingrained player habits, Call of Duty stands out as an outlier that should cause concern for Xbox. Furthermore, this heavy impact is solely from the single-player mode, with online components and a PC port anticipated next year that could cause even more disruption.",
+      "Commercially, Alinea estimates that Grand Theft Auto 6 has sold an astonishing 44.9 million copies and generated over $4 billion since its debut on PlayStation 5 and Xbox Series X/S. The title broke records by selling 32.5 million pre-release copies and pulling in $3.79 billion by the end of its first day alone, earning a five-star review from Eurogamer for its awe-inspiring scale. However, this historic financial success stands in stark contrast to its Metacritic user score, where players have review bombed the game over limited frame rates and alleged political agendas."
     ],
     "highlights": [
-      "Capcom is officially delisting Exoprimal in March 2027.",
-      "Game servers will permanently shut down in September 2027.",
-      "An official end-of-service statement was published on the game's website.",
-      "Developers expressed sincere apologies and gratitude to the loyal player base."
+      "Call of Duty daily active users dropped 42 percent at launch and remained down 41 percent after four days.",
+      "Fortnite and FC 27 also took hits of 28 and 27 percent respectively, though both are recovering faster.",
+      "Alinea estimates GTA 6 has sold 44.9 million copies and made over $4 billion since its 19th November launch.",
+      "The current impact stems entirely from single-player, with online and PC versions arriving next year."
     ],
     "socialPulse": {
       "sentiment": "Mixed",
@@ -1507,33 +1560,33 @@
         "Reddit",
         "YouTube"
       ],
-      "summary": "Fans on social media are expressing a mix of sadness over the closure and frustration regarding the fragile nature of live-service multiplayer games. While some acknowledge the game's niche appeal and dwindling player base, others criticize the industry trend of rendering purchased games completely unplayable.",
+      "summary": "Social media discussion is heavily split between utter amazement at GTA 6's unprecedented financial success and massive player migration, and intense online backlash. While many users are sharing gameplay clips and celebrating the single-player campaign, a vocal group on review aggregators and forums is actively review bombing the title over performance limitations and political talking points.",
       "viewpoints": [
         {
-          "stance": "Understandable Reality",
-          "detail": "Some community members acknowledge that lower player counts made a server shutdown inevitable for an exclusively online multiplayer game. They appreciate that Capcom gave a long advance notice rather than pulling the plug overnight."
+          "stance": "Industry Disruption",
+          "detail": "Commentators and analysts are shocked by how thoroughly GTA 6 can pull massive player counts away from entrenched live service games like Call of Duty. Many are warning that the upcoming online mode and PC release could cause even permanent shifts in daily player habits."
         },
         {
-          "stance": "Live-Service Frustration",
-          "detail": "Other players voice deep disappointment over losing access to a title they financially supported. They point out how disappointing it is that games built entirely around online features become completely unusable once publishers pull server support."
+          "stance": "Performance and Culture Backlash",
+          "detail": "Frustrated players are taking to review platforms to voice their anger regarding limited frame rates and perceived ideological angles in the game. This reaction has created a sharp divide between critical acclaim and fractured community reception on user score boards."
         }
       ]
     },
     "category": "Console",
-    "gameTitle": "Exoprimal",
+    "gameTitle": "Grand Theft Auto 6",
     "gameScale": "AAA",
-    "fanbaseScore": 6,
-    "isUpcoming": true,
+    "fanbaseScore": 10,
+    "isUpcoming": false,
     "isRumor": false,
-    "releaseWindow": "Sept 2027",
-    "isControversy": false,
-    "controversyAngle": "",
+    "releaseWindow": "",
+    "isControversy": true,
+    "controversyAngle": "Review Bombing",
     "isTrending": false,
-    "importance": 5,
-    "source": "Push Square",
-    "url": "https://www.pushsquare.com/news/2026/11/another-big-ps5-game-will-be-delisted-in-the-coming-months",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286320/ss_dcba3dc9938cd9a284aa0449a1e69c8d7f5dbf0a.1920x1080.jpg?t=1795568630",
-    "publishedAt": "2026-11-25T10:00:00.000Z"
+    "importance": 10,
+    "source": "Eurogamer",
+    "url": "https://www.eurogamer.net/gta-6-call-of-duty-fortnite-fc-27-daily-players-alinea",
+    "image": "https://assetsio.gnwcdn.com/Screenshot-2026-11-24-at-17.54.07.png?width=690&quality=85&format=jpg&auto=webp",
+    "publishedAt": "2026-11-24T17:59:50.000Z"
   },
   {
     "id": "3d3a7f53cfc24e88",
@@ -1586,6 +1639,57 @@
     "url": "https://www.pcgamer.com/games/rpg/fan-favorite-diablo-2-anniversary-bosses-and-items-wont-disappear-when-diablo-4s-next-season-starts",
     "image": "https://cdn.mos.cms.futurecdn.net/m2KePNqos3tQNXQw6yUfTc-1920-80.jpg",
     "publishedAt": "2026-11-24T21:39:22.000Z"
+  },
+  {
+    "id": "e4fff56798a6a668",
+    "title": "Capcom's Exoprimal Faces the Extinction: PS5 Game to Be Delisted",
+    "summary": "Capcom has announced that its multiplayer dinosaur shooter Exoprimal will be delisted in March 2027, with servers shutting down entirely later that year in September. The official end of service announcement was published directly on the Exoprimal website, expressing gratitude to the player base while apologizing for the sudden news.",
+    "content": [
+      "Capcom has officially confirmed that its cooperative multiplayer title Exoprimal is heading toward a complete shutdown. According to an end-of-service announcement posted on the official website, the game will be delisted from digital storefronts in March 2027.",
+      "Following the upcoming delisting, Capcom plans to completely pull the plug on the game's servers in September 2027. This effectively ends the online-focused experience for all players who have engaged with the dinosaur-slaying action since its launch.",
+      "In the official announcement, the development and publishing team expressed deep gratitude to their community. The statement read: 'We cannot thank you enough for the love and support you have shown over the years, and we sincerely apologize for the gravity of this announcement.'",
+      "The decision marks a significant closure for the multiplayer project, which relied entirely on online connectivity and teamwork to battle hordes of prehistoric beasts. Players now have a limited multi-year window to enjoy the game before it disappears from storefronts and active service permanently."
+    ],
+    "highlights": [
+      "Capcom is officially delisting Exoprimal in March 2027.",
+      "Game servers will permanently shut down in September 2027.",
+      "An official end-of-service statement was published on the game's website.",
+      "Developers expressed sincere apologies and gratitude to the loyal player base."
+    ],
+    "socialPulse": {
+      "sentiment": "Mixed",
+      "viralPlatforms": [
+        "X / Twitter",
+        "Reddit",
+        "YouTube"
+      ],
+      "summary": "Fans on social media are expressing a mix of sadness over the closure and frustration regarding the fragile nature of live-service multiplayer games. While some acknowledge the game's niche appeal and dwindling player base, others criticize the industry trend of rendering purchased games completely unplayable.",
+      "viewpoints": [
+        {
+          "stance": "Understandable Reality",
+          "detail": "Some community members acknowledge that lower player counts made a server shutdown inevitable for an exclusively online multiplayer game. They appreciate that Capcom gave a long advance notice rather than pulling the plug overnight."
+        },
+        {
+          "stance": "Live-Service Frustration",
+          "detail": "Other players voice deep disappointment over losing access to a title they financially supported. They point out how disappointing it is that games built entirely around online features become completely unusable once publishers pull server support."
+        }
+      ]
+    },
+    "category": "Console",
+    "gameTitle": "Exoprimal",
+    "gameScale": "AAA",
+    "fanbaseScore": 6,
+    "isUpcoming": true,
+    "isRumor": false,
+    "releaseWindow": "Sept 2027",
+    "isControversy": false,
+    "controversyAngle": "",
+    "isTrending": false,
+    "importance": 5,
+    "source": "Push Square",
+    "url": "https://www.pushsquare.com/news/2026/11/another-big-ps5-game-will-be-delisted-in-the-coming-months",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286320/ss_dcba3dc9938cd9a284aa0449a1e69c8d7f5dbf0a.1920x1080.jpg?t=1795568630",
+    "publishedAt": "2026-11-25T10:00:00.000Z"
   },
   {
     "id": "e0bde88f9a24dfee",
