@@ -1,5 +1,160 @@
 [
   {
+    "id": "e9010d45f1cfeee1",
+    "title": "CD Projekt Red Expects GTA 5 to GTA 6-Like Leap in The Witcher 4",
+    "summary": "CD Projekt Red believes it can achieve a massive generational upgrade with The Witcher 4, comparing its ambition to the massive leap Rockstar Games is making from GTA 5 to GTA 6. The studio is eyeing the mature world-building and immersive content standards set by Rockstar's upcoming blockbuster.",
+    "content": [
+      "CD Projekt Red has set its sights extremely high for the next installment in its flagship franchise, indicating that fans should expect a substantially larger evolutionary jump with The Witcher 4. The development team is explicitly looking at the monumental transition between Grand Theft Auto 5 and Grand Theft Auto 6 as a benchmark for what modern open-world RPGs can achieve.",
+      "Highlighting the roughly 13-year gap between the two major Rockstar titles, CD Projekt Red noted how the extended development cycle has allowed Rockstar Games to craft what many consider to be the pinnacle of open-world game design. Within that massive framework, Rockstar has managed to deliver a more mature perspective on its game world alongside deeply immersive content.",
+      "By drawing inspiration from Rockstar's development philosophy, CD Projekt Red aims to push its own technical and narrative boundaries further than ever before. The studio hopes to replicate that exact same sense of generational progression and refined maturity when players finally step into the shoes of the next-generation witcher.",
+      "While specific gameplay details and release timelines for The Witcher 4 remain under wraps, this bold comparison signals a high level of confidence within CD Projekt Red's development ranks. Fans of the studio will undoubtedly be watching closely to see how these lofty ambitions translate into actual gameplay when the title eventually surfaces."
+    ],
+    "highlights": [
+      "CD Projekt Red targets a massive generational leap for The Witcher 4.",
+      "The studio compared its ambitions to the transition between GTA 5 and GTA 6.",
+      "Rockstar's 13-year gap between GTA games was praised for creating the greatest open-world game design.",
+      "The Witcher 4 aims to incorporate a mature world-building approach and deeply immersive content."
+    ],
+    "socialPulse": {
+      "sentiment": "Hyped",
+      "viralPlatforms": [
+        "X / Twitter",
+        "Reddit",
+        "YouTube"
+      ],
+      "summary": "Gamers across social media are expressing intense excitement and healthy skepticism regarding CD Projekt Red's lofty comparisons. While many fans are thrilled to see the studio aiming for Rockstar-level polish and scale, others are urging caution given the troubled launch history of Cyberpunk 2077.",
+      "viewpoints": [
+        {
+          "stance": "Optimistic Believers",
+          "detail": "Many fans believe that a massive generational gap and renewed focus will allow CD Projekt Red to deliver a true masterpiece. They point to the studio's strong narrative history as proof that they can pull off a mature, highly immersive open world."
+        },
+        {
+          "stance": "Cautious Skeptics",
+          "detail": "Other community members advise tempering expectations until actual gameplay is shown, remembering the initial technical hurdles of past CDPR launches. They question whether matching Rockstar's unprecedented scale and development budget is realistic."
+        }
+      ]
+    },
+    "category": "Industry",
+    "gameTitle": "The Witcher 4",
+    "gameScale": "AAA",
+    "fanbaseScore": 10,
+    "isUpcoming": true,
+    "isRumor": false,
+    "releaseWindow": "Rumor / TBA",
+    "isControversy": false,
+    "controversyAngle": "",
+    "isTrending": false,
+    "importance": 8,
+    "source": "Push Square",
+    "url": "https://www.pushsquare.com/news/2026/11/cd-projekt-red-expects-gta-5-to-gta-6-like-upgrade-in-the-witcher-4",
+    "image": "https://assetsio.gnwcdn.com/Ciri-in-The-Witcher-4.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "publishedAt": "2026-11-25T11:00:00.000Z"
+  },
+  {
+    "id": "b8c6187274659fc6",
+    "title": "AI-Generated GTA 6 PC Ports Hit With Take-Two Takedowns as Dev Calls Project 'Dumpster Fire'",
+    "summary": "An unofficial, AI-generated PC recompilation project for Grand Theft Auto 6 called Leonida has been targeted by copyright takedowns from Rockstar and Take-Two Interactive. Former Bungie developer Amy Hendricks documented the chaotic project, which was built using tools like Claude by teenagers before key members withdrew following Discord and GitHub enforcement actions.",
+    "content": [
+      "One of the creators of an unofficial AI-generated PC port of Grand Theft Auto 6 claims that Rockstar and Take-Two Interactive have stepped in to shut down the project. Titled 'Leonida' after the game's setting, the port is a recompilation translating the game's original code into native PC code. It was based on an incomplete GTA 6 Xbox build containing the executable file, which was leaked earlier in the week by a crypto figure named Cyberleek.",
+      "As documented by former Bungie developer Amy Hendricks in a Bluesky thread, the project was being built using Claude and Google's Antigravity tools. Hendricks noted that much of the creation process consisted of teenagers typing prompts like 'work faster' while spending significant amounts of money on usage fees.",
+      "Although the Leonida team managed to get the game to boot on PC, key members NotRexed and Shayder have withdrawn from the project and removed references from their social media. NotRexed shared a copyright infringement takedown notification from Discord, explaining that managing school, sports, and angry community members on Discord became too overwhelming.",
+      "The Leonida Discord server has been shut down, and GitHub has taken action against over 3,000 forks from the original repository following alleged takedown requests from Take-Two Interactive representatives. Despite this enforcement, separate leaderboards have already emerged to track progress on other similar GTA 6 recompilation projects.",
+      "Prior to the console release of GTA 6, former Rockstar North tech director Obbe Vermeij predicted that Rockstar would release an official PC version sooner than expected to combat generative AI rip-offs. When asked about the risk, Take-Two CEO Strauss Zelnick stated the company is not cavalier about the threat, but remains confident players prefer the authentic experience."
+    ],
+    "highlights": [
+      "An unofficial AI-generated GTA 6 PC port project called Leonida has faced aggressive takedowns from Rockstar and Take-Two.",
+      "The project was built by teenage developers using AI tools like Claude, prompting remarks about its chaotic nature from industry veterans.",
+      "GitHub and Discord removed the project's servers and thousands of code forks following copyright infringement notices.",
+      "Take-Two previously stated they take AI risks seriously, while former developers predicted swift action to protect the franchise's PC release."
+    ],
+    "socialPulse": {
+      "sentiment": "Heated",
+      "viralPlatforms": [
+        "X / Twitter",
+        "Reddit",
+        "Discord"
+      ],
+      "summary": "Social media users are heavily discussing the bizarre nature of teenagers attempting an AI-generated PC recompilation of an unreleased blockbuster. Observers on platforms like Bluesky and Discord have criticized the chaotic implementation and high usage costs, while others focus on the inevitable and swift legal hammer dropped by Take-Two Interactive.",
+      "viewpoints": [
+        {
+          "stance": "Inevitable Legal Action",
+          "detail": "Many commentators noted that attempting to distribute a recompilation based on leaked executable files was bound to trigger immediate corporate copyright enforcement. They expressed zero surprise that Take-Two moved quickly to shut down the GitHub repositories and Discord servers."
+        },
+        {
+          "stance": "Chaos and Slop",
+          "detail": "Industry developers and tech enthusiasts reacted with a mix of amusement and horror at the reliance on AI tools like Claude to cobble together a game port. Observers highlighted the absurdity of teenagers spending large sums of money on usage fees to prompt an AI into writing a complex game port."
+        }
+      ]
+    },
+    "category": "PC",
+    "gameTitle": "Grand Theft Auto 6",
+    "gameScale": "AAA",
+    "fanbaseScore": 10,
+    "isUpcoming": true,
+    "isRumor": false,
+    "releaseWindow": "Rumor / TBA",
+    "isControversy": true,
+    "controversyAngle": "AI Code Backlash",
+    "isTrending": false,
+    "importance": 8,
+    "source": "Rock Paper Shotgun",
+    "url": "https://www.rockpapershotgun.com/ai-generated-gta-6-pc-ports-get-nuked-in-alleged-rockstar-takedown-spree-as-former-bungie-dev-hails-most-ridiculous-dumpster-fire-ever",
+    "image": "https://assetsio.gnwcdn.com/gta6-dancing-on-car.jpeg?width=690&quality=85&format=jpg&auto=webp",
+    "publishedAt": "2026-11-25T10:38:50.000Z"
+  },
+  {
+    "id": "e0bde88f9a24dfee",
+    "title": "Showa American Story Delayed to Late 2027 for Extensive Polish",
+    "summary": "Publisher 4Divinity and developer Nekcom Entertainment have announced that their upcoming action-RPG, Showa American Story, has been delayed to October 28, 2027. The extra time will be dedicated entirely to polishing and optimizing the experience after five years of development.",
+    "content": [
+      "Publisher 4Divinity and developer Nekcom Entertainment have announced that upcoming action-RPG Showa American Story will now launch on 28th October, 2027. This comes after various sites noticed a Steam page update that listed the game as launching in 2027, slipping from the previous, vague window that suggested the game would come out this year. The announcement was made on the developer's Twitter account.",
+      "Hello everyone, read the message shared by the developers. We finally have an official release date to share: Showa American Story will launch on 28th October, 2027. Reaching this milestone after five years of development means a lot to our entire team. With core game content now complete, we're dedicating our full focus to polishing and optimizing the experience so that when you step into Showa American Story, it feels cohesive, responsive, and complete.",
+      "The devs went on to thank interested gamers for their support, enthusiasm, and patience. Just last month, game director Xiangyu Luo told Automaton that the game's content is already completely finished and that the team is now in the process of polishing its overall quality, giving the studio a solid year for polish and resource investment.",
+      "The most recent update prior to this was at Gamescom Opening Night Live back in August, where the developer revealed a bit more about the game's background and gameplay, showing off the Japanese voice cast for the first time. Showa American Story follows the journey of Choko, a young woman who suddenly revives from the dead to discover a wild world filled with zombies, monsters, and an eccentric cast of human survivors.",
+      "Players will travel across the United States in search of answers and discover the extent of Choko's mysterious and frightening powers, utilizing a rich arsenal of melee and ranged weaponry. Choko will face hordes of enemies in fast-paced real-time combat, leveraging weapon-specific attacks, dodges, counters, and executions with fluid precision in a style reminiscent of the Yakuza series."
+    ],
+    "highlights": [
+      "Showa American Story has been officially delayed to October 28, 2027.",
+      "Core game content is fully complete after five years of development.",
+      "The extended timeline will focus entirely on polish, optimization, and responsiveness.",
+      "The game features fast-paced real-time combat and a cross-country zombie setting."
+    ],
+    "socialPulse": {
+      "sentiment": "Mixed",
+      "viralPlatforms": [
+        "X / Twitter",
+        "Reddit",
+        "Steam"
+      ],
+      "summary": "Gamers on social media have expressed a mixture of disappointment over the long wait and appreciation for the studio's commitment to delivering a polished final product. While a 2027 release date feels distant, many fans are relieved to see developers taking adequate time rather than rushing a broken title.",
+      "viewpoints": [
+        {
+          "stance": "Appreciative of Polish",
+          "detail": "Many fans believe taking a full year for quality assurance and fine-tuning is a smart move for an indie-leaning studio. They hope the extra time results in a smooth, responsive combat experience."
+        },
+        {
+          "stance": "Disappointed by the Wait",
+          "detail": "Some community members are let down that a game they anticipated playing sooner is now multiple years away. They are anxious about the long silence ahead before the 2027 launch."
+        }
+      ]
+    },
+    "category": "PC",
+    "gameTitle": "Showa American Story",
+    "gameScale": "AA",
+    "fanbaseScore": 6,
+    "isUpcoming": true,
+    "isRumor": false,
+    "releaseWindow": "Oct 28, 2027",
+    "isControversy": false,
+    "controversyAngle": "",
+    "isTrending": false,
+    "importance": 6,
+    "source": "Eurogamer",
+    "url": "https://www.eurogamer.net/showa-american-story-delay-2027",
+    "image": "https://assetsio.gnwcdn.com/Showa-American-Story-header.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "publishedAt": "2026-11-25T10:11:20.000Z"
+  },
+  {
     "id": "e4fff56798a6a668",
     "title": "Capcom's Exoprimal Faces the Extinction: PS5 Game to Be Delisted",
     "summary": "Capcom has announced that its multiplayer dinosaur shooter Exoprimal will be delisted in March 2027, with servers shutting down entirely later that year in September. The official end of service announcement was published directly on the Exoprimal website, expressing gratitude to the player base while apologizing for the sudden news.",
