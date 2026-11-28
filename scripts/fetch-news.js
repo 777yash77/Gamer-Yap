@@ -79,6 +79,8 @@ const BAD_IMAGE_PATTERNS = [
   /(?:avatar|logo|author|profile|favicon|sprite|placeholder|default|badge|1x1|blank|pixel|flag_of_)/i,
   /\/(?:authors?|themes?|icons?)\//i,
   /\.svg(?:\?|$)/i,
+  // Reject Cloudflare-challenged / anti-hotlink CDNs that return 403 HTML to browsers
+  /^https?:\/\/(?:images\.(?:nintendolife|pushsquare|purexbox|timeextension)\.com|www\.videogameschronicle\.com\/files)\//i,
 ];
 
 const STOP_WORDS = new Set([
@@ -360,32 +362,44 @@ async function fetchJsonWithTimeout(url, options = {}, timeoutMs = 6000) {
 async function verifyImageUrl(url) {
   if (!isUsableImageCandidate(url)) return false;
   try {
+    const imageHeaders = {
+      "User-Agent": REQUEST_HEADERS["User-Agent"],
+      Accept: "image/avif,image/webp,image/apng,image/*,*/*;q=0.8",
+      "Sec-Fetch-Dest": "image",
+      "Sec-Fetch-Mode": "no-cors",
+      Range: "bytes=0-4096",
+    };
+
     let res = await fetchResponseWithTimeout(
       url,
-      {
-        method: "HEAD",
-        headers: { "User-Agent": REQUEST_HEADERS["User-Agent"] },
-      },
+      { method: "GET", headers: imageHeaders },
       6000
     );
-    if (res.status === 405) {
+
+    if (res.status === 416) {
       await res.body?.cancel().catch(() => {});
+      const { Range: _unused, ...noRangeHeaders } = imageHeaders;
+      void _unused;
       res = await fetchResponseWithTimeout(
         url,
-        {
-          method: "GET",
-          headers: { "User-Agent": REQUEST_HEADERS["User-Agent"], Range: "bytes=0-1024" },
-        },
+        { method: "GET", headers: noRangeHeaders },
         6000
       );
     }
+
     const ok = res.ok;
+    const cfMitigated = res.headers.get("cf-mitigated");
     const contentType = res.headers.get("content-type") || "";
-    const contentLength = Number(res.headers.get("content-length") || "0");
+    const contentRange = res.headers.get("content-range") || "";
+    const totalMatch = contentRange.match(/\/(\d+)$/);
+    const totalBytes = totalMatch
+      ? Number(totalMatch[1])
+      : Number(res.headers.get("content-length") || "0");
     await res.body?.cancel().catch(() => {});
-    if (!ok) return false;
-    if (contentType && !contentType.startsWith("image/")) return false;
-    if (contentLength > 0 && contentLength < 4000) return false;
+
+    if (!ok || cfMitigated) return false;
+    if (!contentType || !contentType.startsWith("image/")) return false;
+    if (totalBytes > 0 && totalBytes < 4000) return false;
     return true;
   } catch {
     return false;
@@ -449,22 +463,23 @@ async function findWikipediaImage(query) {
       { headers: { "User-Agent": "GamerYapBot/1.0 (https://github.com)" } },
       5000
     );
-    const title = searchJson?.query?.search?.[0]?.title;
-    if (!title) return "";
+    const results = searchJson?.query?.search || [];
+    for (const entry of results.slice(0, 3)) {
+      if (!entry?.title) continue;
+      const summary = await fetchJsonWithTimeout(
+        `https://en.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(entry.title)}`,
+        { headers: { "User-Agent": "GamerYapBot/1.0 (https://github.com)" } },
+        5000
+      );
+      const candidates = [
+        summary?.originalimage?.source,
+        summary?.thumbnail?.source,
+      ].filter(Boolean);
 
-    const summary = await fetchJsonWithTimeout(
-      `https://en.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(title)}`,
-      { headers: { "User-Agent": "GamerYapBot/1.0 (https://github.com)" } },
-      5000
-    );
-    const candidates = [
-      summary?.originalimage?.source,
-      summary?.thumbnail?.source,
-    ].filter(Boolean);
-
-    for (const img of candidates) {
-      if (isUsableImageCandidate(img) && (await verifyImageUrl(img))) {
-        return img;
+      for (const img of candidates) {
+        if (isUsableImageCandidate(img) && (await verifyImageUrl(img))) {
+          return img;
+        }
       }
     }
     return "";
@@ -563,7 +578,19 @@ function isNoiseItem(title, categories = []) {
   return NOISE_PATTERNS.some((regex) => regex.test(text));
 }
 
-function extractTopicTokens(text) {
+function extractTopicTokens(text, excludeTitle = "") {
+  const excludeSet = new Set(
+    String(excludeTitle || "")
+      .toLowerCase()
+      .replace(/[^a-z0-9.\s]/g, " ")
+      .split(/\s+/)
+      .filter(Boolean)
+      .map((w) => (w.length > 5 ? w.slice(0, 5) : w))
+  );
+  if (excludeSet.has("grand")) excludeSet.add("gta");
+  if (excludeSet.has("call")) excludeSet.add("cod");
+  if (excludeSet.has("world")) excludeSet.add("wow");
+
   const normalized = String(text || "")
     .toLowerCase()
     .replace(/\bgen(?:erative)?[-\s]?ai\b/g, "genai")
@@ -574,7 +601,10 @@ function extractTopicTokens(text) {
     const w = raw.replace(/^\.+|\.+$/g, "");
     if (!w || STOP_WORDS.has(w)) continue;
     if (w.length >= 3 || /^(?:ai|fc|gt|pc|vr|uk|us|\d+(?:\.\d+)?)$/.test(w)) {
-      tokens.add(w.length > 5 ? w.slice(0, 5) : w);
+      const stem = w.length > 5 ? w.slice(0, 5) : w;
+      if (!excludeSet.has(stem)) {
+        tokens.add(stem);
+      }
     }
   }
   return tokens;
@@ -791,7 +821,7 @@ function selectBalancedTopCandidates(scoredCandidates, existingArticles, limit) 
     } catch {
       urlSlug = "";
     }
-    return extractTopicTokens(`${a.gameTitle || ""} ${a.title} ${urlSlug}`);
+    return extractTopicTokens(`${a.title} ${urlSlug}`, a.gameTitle || "");
   });
 
   const selected = [];
@@ -1012,14 +1042,41 @@ async function main() {
   const nowMs = Date.now();
   const existingArticles = readExistingArticles();
 
-  // Retain articles within 72h (All) that have verified real external pictures
-  const retainedExisting = existingArticles
-    .filter((a) => isWithinHours(a.publishedAt, MAX_ALL_AGE_MS, nowMs) && a.image && !a.image.startsWith("/"))
+  // Retain articles within 72h (All) and auto-repair/purge any blocked or broken images
+  const within72h = existingArticles.filter(
+    (a) => isWithinHours(a.publishedAt, MAX_ALL_AGE_MS, nowMs) && !isNoiseItem(a.title)
+  );
+  const verifiedExisting = await Promise.all(
+    within72h.map(async (article) => {
+      const ok = await verifyImageUrl(article.image);
+      if (ok) return article;
+
+      const repaired = await resolveStrictRelevantImage(
+        { rawTitle: article.title, image: "" },
+        article.gameTitle,
+        article.gameTitle || article.title
+      );
+      if (repaired) {
+        console.log(`[REPAIR] Replaced blocked/broken image for "${article.title}".`);
+        return { ...article, image: repaired };
+      }
+      console.log(`[PURGE] Dropped unverified-image article "${article.title}".`);
+      return null;
+    })
+  );
+
+  const retainedExisting = verifiedExisting
+    .filter(Boolean)
     .map((a) => ({
       ...a,
       // Trending flag strictly reflects <=24h window
       isTrending: isWithinHours(a.publishedAt, MAX_TRENDING_AGE_MS, nowMs),
     }));
+
+  const repairedImageCount = retainedExisting.filter((a) => {
+    const prev = existingArticles.find((e) => e.id === a.id);
+    return Boolean(prev && prev.image !== a.image);
+  }).length;
 
   const purgedCount = existingArticles.length - retainedExisting.length;
   if (purgedCount > 0) {
@@ -1105,7 +1162,7 @@ async function main() {
   });
 
   if (unseenCandidates.length === 0) {
-    if (purgedCount > 0 || trendingChanged) {
+    if (purgedCount > 0 || repairedImageCount > 0 || trendingChanged) {
       const sortedRetained = [...retainedExisting].sort(
         (a, b) => computePriorityScore(b, nowMs) - computePriorityScore(a, nowMs)
       );
@@ -1225,13 +1282,21 @@ async function main() {
   const rewrittenArticles = [];
   let rewriteErrors = 0;
   const acceptedPostTopics = retainedExisting.map((a) =>
-    extractTopicTokens(`${a.gameTitle || ""} ${a.title}`)
+    extractTopicTokens(a.title, a.gameTitle || "")
   );
   for (let i = 0; i < candidatePool.length && rewrittenArticles.length < targetNewArticles; i++) {
     const candidate = candidatePool[i];
     try {
       const rewritten = await rewriteWithGemini(model, candidate);
-      const postTokens = extractTopicTokens(`${rewritten.gameTitle || ""} ${rewritten.title}`);
+      if (isNoiseItem(rewritten.title)) {
+        console.log(
+          `[SKIP] Filtered deal/guide after rewrite: "${rewritten.title}" (${candidate.source}).`
+        );
+        if (i < candidatePool.length - 1) await sleep(API_DELAY_MS);
+        continue;
+      }
+
+      const postTokens = extractTopicTokens(rewritten.title, rewritten.gameTitle || "");
       if (acceptedPostTopics.some((t) => isSimilarTopic(postTokens, t))) {
         console.log(
           `[SKIP] Duplicate event detected after rewrite for "${rewritten.title}" (${candidate.source}); skipping.`
@@ -1304,7 +1369,7 @@ async function main() {
     }
   }
 
-  if (rewrittenArticles.length === 0 && purgedCount === 0 && !trendingChanged) {
+  if (rewrittenArticles.length === 0 && purgedCount === 0 && repairedImageCount === 0 && !trendingChanged) {
     if (rewriteErrors > 0) {
       console.error("All Gemini attempts failed; leaving data/news.json unchanged.");
       process.exit(1);

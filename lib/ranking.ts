@@ -76,7 +76,16 @@ export function getLatestPublishedMs(articles: NewsArticle[]): number {
 }
 
 function getTopicTokens(article: NewsArticle): Set<string> {
-  const combined = `${article.gameTitle || ""} ${article.title}`
+  const gameWords = new Set(
+    (article.gameTitle || "")
+      .toLowerCase()
+      .replace(/[^a-z0-9.\s]/g, " ")
+      .split(/\s+/)
+      .filter(Boolean)
+      .map((w) => (w.length > 5 ? w.slice(0, 5) : w))
+  );
+
+  const combined = article.title
     .toLowerCase()
     .replace(/\bgen(?:erative)?[-\s]?ai\b/g, "genai")
     .replace(/[^a-z0-9.\s]/g, " ");
@@ -89,7 +98,10 @@ function getTopicTokens(article: NewsArticle): Set<string> {
       word.length >= 3 ||
       /^(?:ai|fc|gt|pc|vr|uk|us|\d+(?:\.\d+)?)$/.test(word)
     ) {
-      tokens.add(word.length > 5 ? word.slice(0, 5) : word);
+      const stem = word.length > 5 ? word.slice(0, 5) : word;
+      if (!gameWords.has(stem)) {
+        tokens.add(stem);
+      }
     }
   }
   return tokens;
