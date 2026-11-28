@@ -1,10 +1,7 @@
 name: Update Gaming News
 
 on:
-  schedule:
-    # Off-peak 30-minute schedule (:13 and :43 UTC) to avoid :00/:30 GitHub runner congestion
-    - cron: "13,43 * * * *"
-  # Allows manual one-click trigger from the GitHub Actions tab or external exact cron ping
+  # Triggered reliably on an exact 30-minute interval via cron-job.org (and manual runs)
   workflow_dispatch:
 
 permissions:
