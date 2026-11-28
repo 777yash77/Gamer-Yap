@@ -1,28 +1,63 @@
 import type { MetadataRoute } from "next";
-import newsData from "@/data/news.json";
+import { getArchiveArticles, getFrontPageArticles } from "@/lib/news-store";
 import { getSiteUrl } from "@/lib/site";
-import type { NewsArticle } from "@/types/news";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const siteUrl = getSiteUrl();
-  const articles = (Array.isArray(newsData) ? newsData : []) as NewsArticle[];
+  const frontArticles = getFrontPageArticles();
+  const archiveArticles = getArchiveArticles();
 
-  const latestPublished = articles[0]?.publishedAt || "2026-11-27T00:00:00.000Z";
+  const latestPublished =
+    frontArticles[0]?.publishedAt ||
+    archiveArticles[0]?.publishedAt ||
+    "2026-11-28T00:00:00.000Z";
 
-  const articleRoutes: MetadataRoute.Sitemap = articles.map((article) => ({
-    url: `${siteUrl}/news/${article.id}`,
-    lastModified: article.publishedAt,
-    changeFrequency: "hourly",
-    priority: article.gameScale === "AAA" ? 0.9 : 0.7,
-  }));
-
-  return [
+  const staticRoutes: MetadataRoute.Sitemap = [
     {
       url: siteUrl,
       lastModified: latestPublished,
       changeFrequency: "hourly",
       priority: 1,
     },
-    ...articleRoutes,
+    {
+      url: `${siteUrl}/about`,
+      lastModified: latestPublished,
+      changeFrequency: "monthly",
+      priority: 0.4,
+    },
+    {
+      url: `${siteUrl}/privacy-policy`,
+      lastModified: latestPublished,
+      changeFrequency: "monthly",
+      priority: 0.3,
+    },
+    {
+      url: `${siteUrl}/terms`,
+      lastModified: latestPublished,
+      changeFrequency: "monthly",
+      priority: 0.3,
+    },
+    {
+      url: `${siteUrl}/contact`,
+      lastModified: latestPublished,
+      changeFrequency: "monthly",
+      priority: 0.4,
+    },
   ];
+
+  const activeRoutes: MetadataRoute.Sitemap = frontArticles.map((article) => ({
+    url: `${siteUrl}/news/${article.id}`,
+    lastModified: article.publishedAt,
+    changeFrequency: "hourly",
+    priority: article.gameScale === "AAA" ? 0.9 : 0.7,
+  }));
+
+  const archivedRoutes: MetadataRoute.Sitemap = archiveArticles.map((article) => ({
+    url: `${siteUrl}/news/${article.id}`,
+    lastModified: article.publishedAt,
+    changeFrequency: "daily",
+    priority: 0.5,
+  }));
+
+  return [...staticRoutes, ...activeRoutes, ...archivedRoutes];
 }

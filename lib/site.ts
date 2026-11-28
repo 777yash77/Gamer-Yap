@@ -5,5 +5,5 @@ export function getSiteUrl(): string {
   if (process.env.VERCEL_PROJECT_PRODUCTION_URL) {
     return `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}`;
   }
-  return "https://gameryap.picstools.in";
+  return "https://gameryap.online";
 }

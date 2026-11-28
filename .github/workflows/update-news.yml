@@ -33,17 +33,17 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: node scripts/fetch-news.js
 
-      - name: Commit and push updated news.json
+      - name: Commit and push updated news data
         run: |
-          if git diff --quiet data/news.json; then
-            echo "No new articles to commit."
+          if git diff --quiet data/news.json data/archive.json; then
+            echo "No new articles or archive updates to commit."
             exit 0
           fi
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add data/news.json
+          git add data/news.json data/archive.json
           git commit -m "chore(news): auto-update gaming news [automated]"
           git pull --rebase origin main
           git push origin main

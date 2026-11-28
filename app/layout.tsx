@@ -25,9 +25,26 @@ const siteUrl = getSiteUrl();
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
-  title: "Gamer Yap | Trending Gaming News, Backlash & Hot Takes",
+  title: {
+    default: "Gamer Yap | Trending Gaming News, Backlash & Hot Takes",
+    template: "%s | Gamer Yap",
+  },
   description:
     "AAA gaming news, upcoming game reveals, social media reactions, and industry controversies curated from top gaming publications.",
+  alternates: {
+    canonical: siteUrl,
+  },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      "max-image-preview": "large",
+      "max-snippet": -1,
+      "max-video-preview": -1,
+    },
+  },
   openGraph: {
     type: "website",
     siteName: "Gamer Yap",
@@ -70,6 +87,22 @@ export default function RootLayout({
         <script dangerouslySetInnerHTML={{ __html: themeInitScript }} />
       </head>
       <body className="flex min-h-full flex-col bg-[#f5f5f2] font-sans text-zinc-900 antialiased selection:bg-[#ff2e4c]/20 selection:text-zinc-950 dark:bg-[#0b0c0e] dark:text-zinc-100 dark:selection:bg-[#ff2e4c]/30 dark:selection:text-white">
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "WebSite",
+              name: "Gamer Yap",
+              url: siteUrl,
+              publisher: {
+                "@type": "Organization",
+                name: "Gamer Yap",
+                url: siteUrl,
+              },
+            }).replace(/</g, "\\u003c"),
+          }}
+        />
         {/* Top Utility Dateline Bar */}
         <div className="border-b border-zinc-200 bg-[#ebebE6] dark:border-white/[0.07] dark:bg-[#08090b]">
           <div className="mx-auto flex max-w-[1320px] items-center justify-between gap-4 px-4 py-2 font-mono text-[11px] tracking-wider text-zinc-600 uppercase sm:px-6 lg:px-8 dark:text-zinc-500">
@@ -147,9 +180,26 @@ export default function RootLayout({
                 with direct attribution to reporting outlets.
               </p>
             </div>
-            <p className="font-mono text-[11px] text-zinc-500 uppercase dark:text-zinc-600">
-              © 2026 GAMER YAP
-            </p>
+            <div className="flex flex-wrap items-center gap-4 font-mono text-[11px] uppercase">
+              <nav aria-label="Footer navigation" className="flex flex-wrap items-center gap-3 text-zinc-600 dark:text-zinc-400">
+                <Link href="/about" className="hover:text-[#d91b38] dark:hover:text-white">
+                  About
+                </Link>
+                <Link href="/privacy-policy" className="hover:text-[#d91b38] dark:hover:text-white">
+                  Privacy
+                </Link>
+                <Link href="/terms" className="hover:text-[#d91b38] dark:hover:text-white">
+                  Terms
+                </Link>
+                <Link href="/contact" className="hover:text-[#d91b38] dark:hover:text-white">
+                  Contact
+                </Link>
+              </nav>
+              <span className="text-zinc-400 dark:text-zinc-700">•</span>
+              <p className="text-zinc-500 dark:text-zinc-600">
+                © 2026 GAMER YAP
+              </p>
+            </div>
           </div>
         </footer>
       </body>

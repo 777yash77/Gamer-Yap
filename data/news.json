@@ -355,55 +355,6 @@
     "publishedAt": "2026-11-27T21:42:49.000Z"
   },
   {
-    "id": "e1e2450ecdbb4898",
-    "title": "Official Pokémon Winds and Waves Plushies Revealed Despite Long Radio Silence",
-    "summary": "Fans waiting for news on Pokémon Winds and Waves have received a surprise update with the announcement of official merchandise plushies. While actual gameplay details remain scarce nearly a year after the initial reveal, collectors can look forward to new physical items.",
-    "content": [
-      "It has been almost an entire year since Pokémon Winds and Waves was first officially announced to the gaming public. Since that initial reveal, details regarding the upcoming title have been remarkably sparse, leaving fans eager for any official updates from the developers.",
-      "Breaking the prolonged radio silence, a new wave of official merchandise has just been revealed. Specifically, new Pokémon Winds and Waves plushies are on the way, giving collectors something tangible to look forward to while they wait for more substantial game news.",
-      "Although the merchandise announcement keeps the franchise in the public eye, it highlights the ongoing drought of information regarding actual gameplay, features, and concrete release dates for the title itself.",
-      "As the community continues to scour for updates, the confirmation of official plushies serves as a minor consolation for eager fans who have been waiting patiently for nearly twelve months."
-    ],
-    "highlights": [
-      "Official Pokémon Winds and Waves plushies have been officially revealed.",
-      "The announcement comes nearly a year after the game's initial reveal.",
-      "Concrete details and gameplay updates for the title remain scarce."
-    ],
-    "socialPulse": {
-      "sentiment": "Mixed",
-      "viralPlatforms": [
-        "X / Twitter",
-        "Reddit"
-      ],
-      "summary": "Fans on social media are experiencing a mix of excitement over the new merchandise and frustration over the lack of gameplay news. While collectors are happy to see new plushies added to the lineup, many players voiced disappointment that the update focused on physical items rather than game trailers.",
-      "viewpoints": [
-        {
-          "stance": "Collector Excitement",
-          "detail": "Many merchandise collectors are thrilled to see new plushies being added to the official Pokémon lineup. They look forward to adding the new items to their shelves regardless of game news."
-        },
-        {
-          "stance": "Gameplay Frustration",
-          "detail": "A large portion of the community expressed mild annoyance that nearly a year of silence was broken only by a merchandise reveal. Fans are desperately hoping for actual gameplay trailers or release windows soon."
-        }
-      ]
-    },
-    "category": "Console",
-    "gameTitle": "Pokémon Winds and Waves",
-    "gameScale": "AAA",
-    "fanbaseScore": 10,
-    "isUpcoming": true,
-    "isRumor": false,
-    "releaseWindow": "Coming Soon",
-    "isControversy": false,
-    "controversyAngle": "",
-    "isTrending": true,
-    "importance": 5,
-    "source": "Insider Gaming",
-    "url": "https://insider-gaming.com/pokemon-winds-and-waves-plushies",
-    "image": "https://insider-gaming.com/wp-content/uploads/2026/11/IMG_9439.jpeg",
-    "publishedAt": "2026-11-27T21:28:52.000Z"
-  },
-  {
     "id": "7d38edd9ee5e6b11",
     "title": "Grand Theft Auto 6 Guide: Complete Walkthrough For Finding All Of Wyman's Classic Cars",
     "summary": "Stuck trying to locate all of Wyman's classic cars and ruined parts in Grand Theft Auto 6? This comprehensive guide breaks down the exact locations for every Transgressor, Riata, Mamba GT, and Kit Car scattered across Leonida.",
@@ -454,6 +405,55 @@
     "url": "https://www.videogameschronicle.com/guide/gta-6-find-cars-wyman-mission-walkthrough",
     "image": "https://cdn.mos.cms.futurecdn.net/he79YK28p3viRdnY2Hduej-1920-80.jpg",
     "publishedAt": "2026-11-27T19:45:19.000Z"
+  },
+  {
+    "id": "e1e2450ecdbb4898",
+    "title": "Official Pokémon Winds and Waves Plushies Revealed Despite Long Radio Silence",
+    "summary": "Fans waiting for news on Pokémon Winds and Waves have received a surprise update with the announcement of official merchandise plushies. While actual gameplay details remain scarce nearly a year after the initial reveal, collectors can look forward to new physical items.",
+    "content": [
+      "It has been almost an entire year since Pokémon Winds and Waves was first officially announced to the gaming public. Since that initial reveal, details regarding the upcoming title have been remarkably sparse, leaving fans eager for any official updates from the developers.",
+      "Breaking the prolonged radio silence, a new wave of official merchandise has just been revealed. Specifically, new Pokémon Winds and Waves plushies are on the way, giving collectors something tangible to look forward to while they wait for more substantial game news.",
+      "Although the merchandise announcement keeps the franchise in the public eye, it highlights the ongoing drought of information regarding actual gameplay, features, and concrete release dates for the title itself.",
+      "As the community continues to scour for updates, the confirmation of official plushies serves as a minor consolation for eager fans who have been waiting patiently for nearly twelve months."
+    ],
+    "highlights": [
+      "Official Pokémon Winds and Waves plushies have been officially revealed.",
+      "The announcement comes nearly a year after the game's initial reveal.",
+      "Concrete details and gameplay updates for the title remain scarce."
+    ],
+    "socialPulse": {
+      "sentiment": "Mixed",
+      "viralPlatforms": [
+        "X / Twitter",
+        "Reddit"
+      ],
+      "summary": "Fans on social media are experiencing a mix of excitement over the new merchandise and frustration over the lack of gameplay news. While collectors are happy to see new plushies added to the lineup, many players voiced disappointment that the update focused on physical items rather than game trailers.",
+      "viewpoints": [
+        {
+          "stance": "Collector Excitement",
+          "detail": "Many merchandise collectors are thrilled to see new plushies being added to the official Pokémon lineup. They look forward to adding the new items to their shelves regardless of game news."
+        },
+        {
+          "stance": "Gameplay Frustration",
+          "detail": "A large portion of the community expressed mild annoyance that nearly a year of silence was broken only by a merchandise reveal. Fans are desperately hoping for actual gameplay trailers or release windows soon."
+        }
+      ]
+    },
+    "category": "Console",
+    "gameTitle": "Pokémon Winds and Waves",
+    "gameScale": "AAA",
+    "fanbaseScore": 10,
+    "isUpcoming": true,
+    "isRumor": false,
+    "releaseWindow": "Coming Soon",
+    "isControversy": false,
+    "controversyAngle": "",
+    "isTrending": true,
+    "importance": 5,
+    "source": "Insider Gaming",
+    "url": "https://insider-gaming.com/pokemon-winds-and-waves-plushies",
+    "image": "https://insider-gaming.com/wp-content/uploads/2026/11/IMG_9439.jpeg",
+    "publishedAt": "2026-11-27T21:28:52.000Z"
   },
   {
     "id": "733d83e59700c327",
@@ -556,6 +556,57 @@
     "url": "https://www.ign.com/articles/i-tried-to-get-six-stars-in-gta-6-with-just-one-bullet-and-broke-the-game",
     "image": "https://assets-prd.ignimgs.com/2026/11/27/one-bullet-blog-1795788586117.jpg",
     "publishedAt": "2026-11-27T16:00:00.000Z"
+  },
+  {
+    "id": "d9ad875c7db81d23",
+    "title": "GTA 6 Stealth Sandbox Proves Surprisingly Robust in 35-Hour Hands-On",
+    "summary": "An IGN opinion piece highlights the unexpected depth of Grand Theft Auto 6's stealth mechanics during illegal operations across Leonida. While the series is traditionally known for loud action, players can use silenced weapons, distractions, and environmental positioning to clear out compounds quietly.",
+    "content": [
+      "Grand Theft Auto is traditionally a boisterous, brash series full of loud characters and massive explosions, but Grand Theft Auto 6 continues that tradition while also offering a surprisingly robust stealth system. In a 35-hour hands-on roaming Leonida, writer Samuel Horti discovered that Rockstar has seemingly designed specific areas with sneaking and silencers in mind. These mechanics shine during illegal operations, which are lucrative robbery opportunities scattered around the map containing cash, jewelry, drugs, and unique vehicles.",
+      "Early attempts to shoot through these heavily guarded hideouts typically attracted GTA 6's menacing police force, cutting short heists and forcing players to flee across counties. Adopting a stealth approach transforms these scenarios, utilizing silencers, knife takedowns, and quiet chokeholds from behind. Players can also whistle from cover to draw foes over or throw bottles to distract them. Stealth detection features intuitive crouching mechanics, realistic sightlines, and a yellow warning arrow over enemies' heads before they fully spot the player.",
+      "The environment often rewards silent exploration, offering alternative entry points like sheet metal roofs at Janjak's Garage in Vice City or holes in the fence at Brooks Boatworks in Port Gellhorn. Mechanics like a focus mode slow down time to land simultaneous headshots, and high-vantage points allow players to tag visible hostiles through walls using the D-pad. While maintaining absolute silence in larger compounds for long periods remains a challenge, successfully clearing floor plans provides a valuable headstart before police eventually arrive.",
+      "These illegal operations function similarly to self-contained outpost diversions found in other open-world games, offering flexible approaches to earn cash and unique rewards. From hopping fences to systematically carving through buildings like the Sound4Sound Studio in north Vice City, stealth mechanics offer an entirely different pacing option for players. With dozens of these operations available across the map, the stealth sandbox adds genuine tactical variety to Rockstar's latest blockbuster."
+    ],
+    "highlights": [
+      "GTA 6 features a robust stealth system that shines during illegal operations dotted across Leonida.",
+      "Players can utilize silencers, environmental distractions, knife takedowns, and focus mode to clear out enemy compounds quietly.",
+      "Stealth mechanics provide a tactical advantage by letting players empty safes and escape before the police arrive.",
+      "The game offers dozens of flexible, self-contained robbery diversions that resemble open-world outpost clearing."
+    ],
+    "socialPulse": {
+      "sentiment": "Divided",
+      "viralPlatforms": [
+        "Reddit",
+        "X / Twitter",
+        "YouTube"
+      ],
+      "summary": "The community is currently split between enthusiasm for the game's emergent gameplay mechanics and discussions surrounding broader industry and platform concerns. While some players are intrigued by the unexpected depth of the stealth sandbox and open-world features, others debate the ethical implications of platform ports and developer practices.",
+      "viewpoints": [
+        {
+          "stance": "Impressed by Sandbox Depth",
+          "detail": "Many players are excited to see detailed systemic mechanics like stealth, distraction tools, and outpost-style operations integrated into the open-world design of Leonida."
+        },
+        {
+          "stance": "Skeptical of Industry Practices",
+          "detail": "Other community members express reservations regarding corporate crunch, union busting, and the technical performance of associated PC ports discussed in live threads."
+        }
+      ]
+    },
+    "category": "PC",
+    "gameTitle": "Grand Theft Auto 6",
+    "gameScale": "AAA",
+    "fanbaseScore": 10,
+    "isUpcoming": true,
+    "isRumor": false,
+    "releaseWindow": "Coming Soon",
+    "isControversy": false,
+    "controversyAngle": "",
+    "isTrending": true,
+    "importance": 9,
+    "source": "IGN",
+    "url": "https://www.ign.com/articles/on-top-of-everything-else-gta-6-is-a-solid-stealth-sandbox",
+    "image": "https://assets-prd.ignimgs.com/2026/11/26/gta-6-lucia-stealth-1795690930066.jpg?width=1280&format=jpg&auto=webp&quality=80",
+    "publishedAt": "2026-11-27T15:00:00.000Z"
   },
   {
     "id": "6f71d19dcbcaae2f",
@@ -863,6 +914,55 @@
     "url": "https://www.rockpapershotgun.com/this-isnt-a-sign-to-retreat-rockstars-historic-union-vote-has-failed-with-75-voting-against-but-the-organisers-are-going-to-keep-fighting",
     "image": "https://assetsio.gnwcdn.com/gta-6-art.jpg?width=690&quality=85&format=jpg&auto=webp",
     "publishedAt": "2026-11-26T16:39:40.000Z"
+  },
+  {
+    "id": "00a84af7ca2519cf",
+    "title": "GTA 6 Is A Tragedy Because You Cannot Sit Down And Eat Spaghetti",
+    "summary": "Grand Theft Auto VI features incredible handheld food mechanics and dynamic bite animations, but players cannot sit down for a relaxing meal or cook at home. Critics and community members note that this deliberate omission highlights the characters' perpetual lack of safety and rest.",
+    "content": [
+      "Everyone has been making much of how incredible the level of detail in Grand Theft Auto VI is, from dialogue and clothing to weather and radio programs. However, a single aspect falls short of expectations: the food. You cannot sit down and enjoy a slow, relaxing meal, order a plate of spaghetti to eat in an establishment, or cook at home.",
+      "In terms of handheld food, Grand Theft Auto VI does things beautifully. Players can hold a food and a drink in each hand simultaneously, watching items like empanadas disappear bite by bite, or apples leave visible bite marks down to the core. Jason and Lucia can also drink liquids and watch them recede in their containers, with unique models for burgers, tacos, croissants, and grilled fish.",
+      "Despite these impressive handheld mechanics, this is all the characters ever eat. By chapter 3, and confirmed by reviewers who have finished the game, the pair never evolves beyond eating on the go. Restaurants that look like proper sit-down establishments are locked, and open venues only serve a small rotation of handheld items and drinks, with cabinets at home remaining full of unused pots and pans.",
+      "While other games feature elaborate feasting scenes or discussions about food, Rockstar's omission in Grand Theft Auto VI appears deliberate rather than due to budget or time constraints. The game conveys that Jason and Lucia will never be safe, lacking the luxury of time and safety required to sit down in public and enjoy a meal together."
+    ],
+    "highlights": [
+      "GTA VI features incredible dynamic bite animations for handheld foods like apples, empanadas, and croissants.",
+      "Players cannot sit down at restaurants for a proper meal, order plates like spaghetti, or cook food at home.",
+      "The lack of sit-down dining and home cooking reflects the characters' constant state of being on the run and lacking safety."
+    ],
+    "socialPulse": {
+      "sentiment": "Mixed",
+      "viralPlatforms": [
+        "Reddit",
+        "X / Twitter"
+      ],
+      "summary": "Social media discussions focus heavily on the extreme level of detail in Grand Theft Auto VI while debating broader industry topics. Some users praise the game's immersive elements, while community threads also dive into unrelated debates regarding AI usage, union busting, and high game pricing.",
+      "viewpoints": [
+        {
+          "stance": "Immersive Detail Praise",
+          "detail": "Many players are amazed by the intricate animations of food consumption, such as seeing bite marks gradually form on apples and food items shrink in real-time. This level of environmental interaction continues to impress the fanbase across multiple platforms."
+        },
+        {
+          "stance": "Industry and Corporate Debate",
+          "detail": "Community threads have expanded into broader criticisms regarding studio practices and the use of modern tools in development. Players debate the ethics of industry standards alongside their gameplay experiences."
+        }
+      ]
+    },
+    "category": "Console",
+    "gameTitle": "Grand Theft Auto VI",
+    "gameScale": "AAA",
+    "fanbaseScore": 10,
+    "isUpcoming": false,
+    "isRumor": false,
+    "releaseWindow": "",
+    "isControversy": false,
+    "controversyAngle": "",
+    "isTrending": false,
+    "importance": 9,
+    "source": "Kotaku",
+    "url": "https://kotaku.com/gta-6-is-a-tragedy-because-you-cannot-sit-down-and-eat-spaghetti-2001000633",
+    "image": "https://kotaku.com/app/uploads/2026/11/food8-1280x720.jpg",
+    "publishedAt": "2026-11-26T19:00:19.000Z"
   },
   {
     "id": "62ac826e785f54d0",

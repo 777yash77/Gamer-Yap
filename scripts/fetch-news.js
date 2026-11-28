@@ -6,13 +6,16 @@ const Parser = require("rss-parser");
 const { GoogleGenerativeAI, SchemaType } = require("@google/generative-ai");
 
 const DATA_FILE = path.join(__dirname, "..", "data", "news.json");
+const ARCHIVE_FILE = path.join(__dirname, "..", "data", "archive.json");
 const MAX_TRENDING_AGE_MS = 24 * 60 * 60 * 1000; // Trending window: 24 hours
-const MAX_ALL_AGE_MS = 72 * 60 * 60 * 1000; // All-news retention window: 72 hours
+const MAX_ALL_AGE_MS = 72 * 60 * 60 * 1000; // Front-page active window: 72 hours
+const MAX_ARCHIVE_AGE_MS = 10 * 24 * 60 * 60 * 1000; // Full deletion window: 10 days
 const MIN_TARGET_ARTICLES = 30; // Bootstrap rapidly when below 30 baseline stories
-const MAX_STORED_ARTICLES = 60; // Maximum active stories before lowest-ranked eviction
+const MAX_STORED_ARTICLES = 60; // Maximum active front-page stories before moving to archive
+const MAX_ARCHIVE_ARTICLES = 1000; // Maximum archived SEO stories (<= 10 days)
 const BOOTSTRAP_NEW_PER_RUN = 10; // Fill quickly when < 30 stories exist
 const STEADY_NEW_PER_RUN = 2; // Steady addition every 30-minute run once >= 30
-const MAX_STEADY_NEW_PER_RUN = 5; // Allow extra replacements when 72h purge opens slots
+const MAX_STEADY_NEW_PER_RUN = 5; // Allow extra replacements when 72h rollover opens slots
 const CANDIDATE_POOL_SIZE = 16;
 const API_DELAY_MS = 4500; // 4.5s between Gemini calls (~13 RPM, safe under 15 RPM free limit)
 const VALID_CATEGORIES = ["PC", "Console", "Industry", "Reviews"];
@@ -1049,23 +1052,60 @@ function computePriorityScore(article, nowMs = Date.now()) {
   return signalScore / Math.pow(ageHours + 2.5, 1.05);
 }
 
-function readExistingArticles() {
+function readJsonArticlesFile(filePath, label) {
   try {
-    if (!fs.existsSync(DATA_FILE)) return [];
-    const raw = fs.readFileSync(DATA_FILE, "utf-8").trim();
+    if (!fs.existsSync(filePath)) return [];
+    const raw = fs.readFileSync(filePath, "utf-8").trim();
     if (!raw) return [];
     const parsed = JSON.parse(raw);
     return Array.isArray(parsed) ? parsed : [];
   } catch (err) {
-    console.warn("Warning: Could not parse existing data/news.json, starting fresh:", err.message);
+    console.warn(`Warning: Could not parse existing ${label}, starting fresh:`, err.message);
     return [];
   }
 }
 
-function writeArticles(articles) {
-  fs.mkdirSync(path.dirname(DATA_FILE), { recursive: true });
-  const capped = articles.slice(0, MAX_STORED_ARTICLES);
-  fs.writeFileSync(DATA_FILE, `${JSON.stringify(capped, null, 2)}\n`, "utf-8");
+function writeJsonArticlesFile(filePath, articles, maxItems) {
+  fs.mkdirSync(path.dirname(filePath), { recursive: true });
+  const capped = articles.slice(0, maxItems);
+  fs.writeFileSync(filePath, `${JSON.stringify(capped, null, 2)}\n`, "utf-8");
+}
+
+function buildArchiveList(frontArticles, candidateArchiveItems, nowMs) {
+  const frontIds = new Set(frontArticles.map((a) => a.id));
+  const frontUrls = new Set(
+    frontArticles.map((a) => normalizeUrl(a.url)).filter(Boolean)
+  );
+  const seenIds = new Set();
+  const seenArchiveUrls = new Set();
+  const valid = [];
+
+  for (const item of candidateArchiveItems) {
+    if (!item?.id || !item?.url) continue;
+    const normUrl = normalizeUrl(item.url);
+    if (
+      frontIds.has(item.id) ||
+      frontUrls.has(normUrl) ||
+      seenIds.has(item.id) ||
+      (normUrl && seenArchiveUrls.has(normUrl))
+    ) {
+      continue;
+    }
+    if (
+      !isWithinHours(item.publishedAt, MAX_ARCHIVE_AGE_MS, nowMs) ||
+      isNoiseItem(item.title) ||
+      !isUsableImageCandidate(item.image)
+    ) {
+      continue;
+    }
+    seenIds.add(item.id);
+    if (normUrl) seenArchiveUrls.add(normUrl);
+    valid.push({ ...item, isTrending: false });
+  }
+
+  return valid
+    .sort((a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime())
+    .slice(0, MAX_ARCHIVE_ARTICLES);
 }
 
 async function rewriteWithGemini(model, article) {
@@ -1237,11 +1277,27 @@ async function main() {
   }
 
   const nowMs = Date.now();
-  const existingArticles = readExistingArticles();
+  const existingArticles = readJsonArticlesFile(DATA_FILE, "data/news.json");
+  const existingArchive = readJsonArticlesFile(ARCHIVE_FILE, "data/archive.json");
 
   const within72h = existingArticles.filter(
     (a) => isWithinHours(a.publishedAt, MAX_ALL_AGE_MS, nowMs) && !isNoiseItem(a.title)
   );
+  const agedOutToArchive = existingArticles.filter(
+    (a) =>
+      !isWithinHours(a.publishedAt, MAX_ALL_AGE_MS, nowMs) &&
+      isWithinHours(a.publishedAt, MAX_ARCHIVE_AGE_MS, nowMs) &&
+      !isNoiseItem(a.title) &&
+      isUsableImageCandidate(a.image)
+  );
+  const retainedArchiveBase = existingArchive.filter(
+    (a) =>
+      isWithinHours(a.publishedAt, MAX_ARCHIVE_AGE_MS, nowMs) &&
+      !isNoiseItem(a.title) &&
+      isUsableImageCandidate(a.image)
+  );
+  const archiveExpiredCount = existingArchive.length - retainedArchiveBase.length;
+  const archiveChanged = agedOutToArchive.length > 0 || archiveExpiredCount > 0;
 
   // Fetch feeds, Steam trends, and community pulse first so repair & new matching share the live editorial pool
   const [feedResults, trendingGames, communityThreads] = await Promise.all([
@@ -1333,11 +1389,18 @@ async function main() {
 
   const purgedCount = existingArticles.length - retainedExisting.length;
   if (purgedCount > 0) {
-    console.log(`Purged ${purgedCount} expired (>72h) or invalid-image article(s) from data/news.json.`);
+    console.log(
+      `Rotated ${agedOutToArchive.length} >72h article(s) to 10d archive; removed ${Math.max(
+        0,
+        purgedCount - agedOutToArchive.length
+      )} invalid/expired entry(ies) from data/news.json.`
+    );
   }
 
   const seenUrls = new Set(
-    retainedExisting.map((article) => normalizeUrl(article.url)).filter(Boolean)
+    [...retainedExisting, ...agedOutToArchive, ...retainedArchiveBase]
+      .map((article) => normalizeUrl(article.url))
+      .filter(Boolean)
   );
 
   const neededForBaseline = Math.max(0, MIN_TARGET_ARTICLES - retainedExisting.length);
@@ -1345,14 +1408,15 @@ async function main() {
     retainedExisting.length < MIN_TARGET_ARTICLES
       ? Math.min(BOOTSTRAP_NEW_PER_RUN, Math.max(STEADY_NEW_PER_RUN, neededForBaseline))
       : Math.min(
-        MAX_STEADY_NEW_PER_RUN,
-        Math.max(STEADY_NEW_PER_RUN, purgedCount)
-      );
+          MAX_STEADY_NEW_PER_RUN,
+          Math.max(STEADY_NEW_PER_RUN, purgedCount)
+        );
   const candidatePoolLimit = Math.max(CANDIDATE_POOL_SIZE, targetNewArticles * 2);
 
   const trendingCount = retainedExisting.filter((a) => a.isTrending).length;
   console.log(
-    `Loaded ${retainedExisting.length} retained (<=72h) stories (${trendingCount} in <=24h Trending). Mode: ${retainedExisting.length < MIN_TARGET_ARTICLES ? "BOOTSTRAP" : "STEADY"
+    `Loaded ${retainedExisting.length} front (<=72h, ${trendingCount} Trending) + ${retainedArchiveBase.length} archived (<=10d). Mode: ${
+      retainedExisting.length < MIN_TARGET_ARTICLES ? "BOOTSTRAP" : "STEADY"
     } | Target new stories: ${targetNewArticles}.`
   );
 
@@ -1383,11 +1447,19 @@ async function main() {
   });
 
   if (unseenCandidates.length === 0) {
-    if (purgedCount > 0 || repairedImageCount > 0 || trendingChanged) {
+    if (purgedCount > 0 || repairedImageCount > 0 || trendingChanged || archiveChanged) {
       const sortedRetained = [...retainedExisting].sort(
         (a, b) => computePriorityScore(b, nowMs) - computePriorityScore(a, nowMs)
       );
-      writeArticles(sortedRetained);
+      const nextFront = sortedRetained.slice(0, MAX_STORED_ARTICLES);
+      const overflowFromFront = sortedRetained.slice(MAX_STORED_ARTICLES);
+      writeJsonArticlesFile(DATA_FILE, nextFront, MAX_STORED_ARTICLES);
+      const nextArchive = buildArchiveList(
+        nextFront,
+        [...overflowFromFront, ...agedOutToArchive, ...retainedArchiveBase],
+        nowMs
+      );
+      writeJsonArticlesFile(ARCHIVE_FILE, nextArchive, MAX_ARCHIVE_ARTICLES);
     }
     console.log("No new <=72h gaming news found across feeds.");
     process.exit(0);
@@ -1597,27 +1669,40 @@ async function main() {
     }
   }
 
-  if (rewrittenArticles.length === 0 && purgedCount === 0 && repairedImageCount === 0 && !trendingChanged) {
+  if (
+    rewrittenArticles.length === 0 &&
+    purgedCount === 0 &&
+    repairedImageCount === 0 &&
+    !trendingChanged &&
+    !archiveChanged
+  ) {
     if (rewriteErrors > 0) {
-      console.error("All Gemini attempts failed; leaving data/news.json unchanged.");
+      console.error("All Gemini attempts failed; leaving news & archive unchanged.");
       process.exit(1);
     }
-    console.log("No qualifying unique/verified-image articles added; leaving data/news.json unchanged.");
+    console.log("No qualifying unique/verified-image articles added; leaving data unchanged.");
     process.exit(0);
   }
 
-  // Merge, enforce 72h limit, rank by gravity priority score, and evict lowest-ranked beyond 60
+  // Merge active <=72h pool, keep top 60 on front page, move overflow & 72h-10d stories to archive
   const ranked = [...rewrittenArticles, ...retainedExisting]
     .filter((a) => isWithinHours(a.publishedAt, MAX_ALL_AGE_MS, nowMs))
     .sort((a, b) => computePriorityScore(b, nowMs) - computePriorityScore(a, nowMs));
 
   const combined = ranked.slice(0, MAX_STORED_ARTICLES);
-  const evictedCount = Math.max(0, ranked.length - combined.length);
+  const overflowFromFront = ranked.slice(MAX_STORED_ARTICLES);
+  const nextArchive = buildArchiveList(
+    combined,
+    [...overflowFromFront, ...agedOutToArchive, ...retainedArchiveBase],
+    nowMs
+  );
 
-  writeArticles(combined);
+  writeJsonArticlesFile(DATA_FILE, combined, MAX_STORED_ARTICLES);
+  writeJsonArticlesFile(ARCHIVE_FILE, nextArchive, MAX_ARCHIVE_ARTICLES);
+
   const newTrendingCount = combined.filter((a) => a.isTrending).length;
   console.log(
-    `Saved ${rewrittenArticles.length} new article(s) (evicted ${evictedCount} lowest-ranked). Total in All (<=72h): ${combined.length}/${MAX_STORED_ARTICLES} | In Trending (<=24h): ${newTrendingCount}.`
+    `Saved ${rewrittenArticles.length} new article(s) (archived ${overflowFromFront.length + agedOutToArchive.length}, purged >10d: ${archiveExpiredCount}). Front (<=72h): ${combined.length}/${MAX_STORED_ARTICLES} | Trending (<=24h): ${newTrendingCount} | Archive (<=10d): ${nextArchive.length}.`
   );
   process.exit(0);
 }

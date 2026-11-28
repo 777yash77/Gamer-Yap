@@ -1,8 +1,7 @@
 import NewsFeed from "@/components/NewsFeed";
-import newsData from "@/data/news.json";
-import type { NewsArticle } from "@/types/news";
+import { getFrontPageArticles } from "@/lib/news-store";
 
 export default function HomePage() {
-  const articles = (Array.isArray(newsData) ? newsData : []) as NewsArticle[];
+  const articles = getFrontPageArticles();
   return <NewsFeed articles={articles} />;
 }

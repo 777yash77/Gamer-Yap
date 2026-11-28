@@ -5,7 +5,7 @@ import { Suspense } from "react";
 import ArticleThumbnail from "@/components/ArticleThumbnail";
 import BookmarkButton from "@/components/BookmarkButton";
 import ShareButton from "@/components/ShareButton";
-import newsData from "@/data/news.json";
+import { getAllIndexedArticles, getFrontPageArticles } from "@/lib/news-store";
 import {
   ALL_GRAVITY,
   computeGravityScore,
@@ -38,7 +38,7 @@ const SENTIMENT_STYLES: Record<SocialPulse["sentiment"], string> = {
 };
 
 function getArticles(): NewsArticle[] {
-  return (Array.isArray(newsData) ? newsData : []) as NewsArticle[];
+  return getAllIndexedArticles();
 }
 
 function formatUtcTimestamp(isoString: string): string {
@@ -88,9 +88,23 @@ export async function generateMetadata({
     : undefined;
 
   return {
-    title: `${article.title} | Gamer Yap`,
+    title: article.title,
     description: article.summary,
+    keywords: [article.gameTitle, article.category, "gaming news", article.source].filter(
+      (v): v is string => Boolean(v)
+    ),
     alternates: { canonical: articleUrl },
+    robots: {
+      index: true,
+      follow: true,
+      googleBot: {
+        index: true,
+        follow: true,
+        "max-image-preview": "large",
+        "max-snippet": -1,
+        "max-video-preview": -1,
+      },
+    },
     openGraph: {
       type: "article",
       url: articleUrl,
@@ -116,6 +130,7 @@ async function ArticleContent({
 }) {
   const { id } = await params;
   const rawArticles = getArticles();
+  const frontPageIds = new Set(getFrontPageArticles().map((a) => a.id));
   const latestMs = getLatestPublishedMs(rawArticles);
   const orderedArticles = [...rawArticles].sort(
     (a, b) =>
@@ -129,6 +144,7 @@ async function ArticleContent({
   }
 
   const article = orderedArticles[currentIdx];
+  const isArchived = !frontPageIds.has(article.id);
   const prevStory = currentIdx > 0 ? orderedArticles[currentIdx - 1] : null;
   const nextStory =
     currentIdx < orderedArticles.length - 1
@@ -161,25 +177,63 @@ async function ArticleContent({
     .slice(0, 3);
 
   const siteUrl = getSiteUrl();
-  const jsonLd = {
-    "@context": "https://schema.org",
-    "@type": "NewsArticle",
-    headline: article.title,
-    description: article.summary,
-    image: article.image ? [article.image] : [],
-    datePublished: article.publishedAt,
-    dateModified: article.publishedAt,
-    mainEntityOfPage: `${siteUrl}/news/${article.id}`,
-    author: {
-      "@type": "Organization",
-      name: article.source,
+  const jsonLd = [
+    {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      headline: article.title,
+      description: article.summary,
+      image: article.image ? [article.image] : [],
+      datePublished: article.publishedAt,
+      dateModified: article.publishedAt,
+      articleSection: article.category,
+      keywords: [article.gameTitle, article.category, article.source]
+        .filter(Boolean)
+        .join(", "),
+      ...(article.gameTitle
+        ? {
+            about: {
+              "@type": "VideoGame",
+              name: article.gameTitle,
+            },
+          }
+        : {}),
+      mainEntityOfPage: `${siteUrl}/news/${article.id}`,
+      author: {
+        "@type": "Organization",
+        name: article.source,
+      },
+      publisher: {
+        "@type": "Organization",
+        name: "Gamer Yap",
+        url: siteUrl,
+      },
     },
-    publisher: {
-      "@type": "Organization",
-      name: "Gamer Yap",
-      url: siteUrl,
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      itemListElement: [
+        {
+          "@type": "ListItem",
+          position: 1,
+          name: "Home",
+          item: siteUrl,
+        },
+        {
+          "@type": "ListItem",
+          position: 2,
+          name: article.category,
+          item: `${siteUrl}/#more-dispatches`,
+        },
+        {
+          "@type": "ListItem",
+          position: 3,
+          name: article.title,
+          item: `${siteUrl}/news/${article.id}`,
+        },
+      ],
     },
-  };
+  ];
 
   return (
     <article className="py-8">
@@ -266,6 +320,11 @@ async function ArticleContent({
           <span className="font-mono text-xs font-semibold tracking-wider text-zinc-700 uppercase dark:text-zinc-300">
             Via {article.source}
           </span>
+          {isArchived && (
+            <span className="inline-flex items-center rounded border border-zinc-300 bg-zinc-100 px-2 py-0.5 font-mono text-[10px] font-semibold text-zinc-600 uppercase dark:border-white/[0.1] dark:bg-white/[0.04] dark:text-zinc-400">
+              Archive
+            </span>
+          )}
           <span className="text-zinc-400 dark:text-zinc-700">•</span>
           <time
             dateTime={article.publishedAt}
