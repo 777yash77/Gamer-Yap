@@ -1,5 +1,55 @@
 [
   {
+    "id": "42dfdbc90f5ef373",
+    "title": "GTA 6 PC Port Rumors Spark Intense Community Debate Online",
+    "summary": "A recent live community thread discussing an alleged GTA 6 PC port running at 24 FPS and using 10 GB of RAM has ignited heated debates across social media. Gamers are currently divided over performance concerns, resource usage, and ethical discussions surrounding industry practices.",
+    "content": [
+      "A recent community thread has emerged surrounding Grand Theft Auto 6, focusing heavily on an alleged PC port rumor that claims the game runs at 24 FPS and consumes 10 GB of RAM. While the original source material from Insider Gaming is a rudimentary cheat code guide placeholder, the surrounding community buzz has shifted toward technical performance and platform concerns.",
+      "The discussion quickly expanded into broader critiques of the gaming industry, touching upon studio practices, resource optimization, and the environmental impact of modern hardware demands. Commenters on the live thread expressed deep skepticism regarding how upcoming hardware-intensive titles will perform on standard PC setups.",
+      "Ethical concerns surrounding game development also took center stage in the community replies. Several users voiced strong opinions against corporate practices, union busting, and the heavy resource costs associated with modern AAA game development and optimization.",
+      "Other members of the community advocated for patience, suggesting that waiting for official releases rather than relying on early rumors or overhyped expectations is the best approach. Many noted that gamers can easily find alternative titles that are more reasonably priced while waiting for stable, verified platform releases."
+    ],
+    "highlights": [
+      "Community thread discusses an unverified GTA 6 PC port performance rumor.",
+      "Reported metrics claim a 24 FPS frame rate and 10 GB of RAM usage.",
+      "Discussions heavily critique industry studio practices and environmental impacts.",
+      "Gamers debate the value of waiting for official releases versus buying overpriced games."
+    ],
+    "socialPulse": {
+      "sentiment": "Heated",
+      "viralPlatforms": [
+        "Reddit",
+        "X / Twitter"
+      ],
+      "summary": "Social media users are heavily engaged in heated arguments regarding technical performance, optimization, and the ethics of modern AAA development. While some users focus strictly on hardware limitations and framerates, others use the thread to critique corporate studio behaviors and environmental concerns.",
+      "viewpoints": [
+        {
+          "stance": "Performance Skepticism",
+          "detail": "Players are deeply concerned that optimization issues will plague upcoming platform ports, resulting in unplayable frame rates and excessive RAM consumption. Many argue that high hardware requirements are becoming increasingly unreasonable for average consumers."
+        },
+        {
+          "stance": "Ethical Boycott & Caution",
+          "detail": "Community members are questioning the practices of major developers, highlighting issues like union busting and environmental costs. Some users urge fellow gamers to avoid overhyped releases and focus on affordable, well-optimized alternatives."
+        }
+      ]
+    },
+    "category": "PC",
+    "gameTitle": "Grand Theft Auto 6",
+    "gameScale": "AAA",
+    "fanbaseScore": 10,
+    "isUpcoming": true,
+    "isRumor": true,
+    "releaseWindow": "Rumor / TBA",
+    "isControversy": true,
+    "controversyAngle": "Port Performance Backlash",
+    "isTrending": true,
+    "importance": 7,
+    "source": "Insider Gaming",
+    "url": "https://insider-gaming.com/how-to-enter-cheats-in-gta-6",
+    "image": "https://cdn.mos.cms.futurecdn.net/pgTwJvucXFLqqu5Xn4TNQV-1920-80.jpg",
+    "publishedAt": "2026-11-27T21:50:16.000Z"
+  },
+  {
     "id": "ced032024bd1fb80",
     "title": "GTA 6 Stash Bag Money Glitch Surfaces as Players Discover New Duplication Exploit",
     "summary": "A brand new money glitch has been discovered for GTA 6 involving the duplication of stash bags, allowing players to pull off a trick to make millions in-game. Details of the exploit are quickly spreading across gaming forums and social channels.",
@@ -49,56 +99,6 @@
     "url": "https://insider-gaming.com/how-to-gta-6-money-glitch-stash-bag-duplication",
     "image": "https://insider-gaming.com/wp-content/uploads/2026/11/6480ca93-1849-4c7e-8a1e-dd324c23dca8-1024x576.png",
     "publishedAt": "2026-11-27T23:53:40.000Z"
-  },
-  {
-    "id": "42dfdbc90f5ef373",
-    "title": "GTA 6 PC Port Rumors Spark Intense Community Debate Online",
-    "summary": "A recent live community thread discussing an alleged GTA 6 PC port running at 24 FPS and using 10 GB of RAM has ignited heated debates across social media. Gamers are currently divided over performance concerns, resource usage, and ethical discussions surrounding industry practices.",
-    "content": [
-      "A recent community thread has emerged surrounding Grand Theft Auto 6, focusing heavily on an alleged PC port rumor that claims the game runs at 24 FPS and consumes 10 GB of RAM. While the original source material from Insider Gaming is a rudimentary cheat code guide placeholder, the surrounding community buzz has shifted toward technical performance and platform concerns.",
-      "The discussion quickly expanded into broader critiques of the gaming industry, touching upon studio practices, resource optimization, and the environmental impact of modern hardware demands. Commenters on the live thread expressed deep skepticism regarding how upcoming hardware-intensive titles will perform on standard PC setups.",
-      "Ethical concerns surrounding game development also took center stage in the community replies. Several users voiced strong opinions against corporate practices, union busting, and the heavy resource costs associated with modern AAA game development and optimization.",
-      "Other members of the community advocated for patience, suggesting that waiting for official releases rather than relying on early rumors or overhyped expectations is the best approach. Many noted that gamers can easily find alternative titles that are more reasonably priced while waiting for stable, verified platform releases."
-    ],
-    "highlights": [
-      "Community thread discusses an unverified GTA 6 PC port performance rumor.",
-      "Reported metrics claim a 24 FPS frame rate and 10 GB of RAM usage.",
-      "Discussions heavily critique industry studio practices and environmental impacts.",
-      "Gamers debate the value of waiting for official releases versus buying overpriced games."
-    ],
-    "socialPulse": {
-      "sentiment": "Heated",
-      "viralPlatforms": [
-        "Reddit",
-        "X / Twitter"
-      ],
-      "summary": "Social media users are heavily engaged in heated arguments regarding technical performance, optimization, and the ethics of modern AAA development. While some users focus strictly on hardware limitations and framerates, others use the thread to critique corporate studio behaviors and environmental concerns.",
-      "viewpoints": [
-        {
-          "stance": "Performance Skepticism",
-          "detail": "Players are deeply concerned that optimization issues will plague upcoming platform ports, resulting in unplayable frame rates and excessive RAM consumption. Many argue that high hardware requirements are becoming increasingly unreasonable for average consumers."
-        },
-        {
-          "stance": "Ethical Boycott & Caution",
-          "detail": "Community members are questioning the practices of major developers, highlighting issues like union busting and environmental costs. Some users urge fellow gamers to avoid overhyped releases and focus on affordable, well-optimized alternatives."
-        }
-      ]
-    },
-    "category": "PC",
-    "gameTitle": "Grand Theft Auto 6",
-    "gameScale": "AAA",
-    "fanbaseScore": 10,
-    "isUpcoming": true,
-    "isRumor": true,
-    "releaseWindow": "Rumor / TBA",
-    "isControversy": true,
-    "controversyAngle": "Port Performance Backlash",
-    "isTrending": true,
-    "importance": 7,
-    "source": "Insider Gaming",
-    "url": "https://insider-gaming.com/how-to-enter-cheats-in-gta-6",
-    "image": "https://cdn.mos.cms.futurecdn.net/pgTwJvucXFLqqu5Xn4TNQV-1920-80.jpg",
-    "publishedAt": "2026-11-27T21:50:16.000Z"
   },
   {
     "id": "9b56e02377795b06",
@@ -306,6 +306,57 @@
     "publishedAt": "2026-11-27T20:00:00.000Z"
   },
   {
+    "id": "733d83e59700c327",
+    "title": "GTA 6 Scores Staggering 99 on Metacritic Amid User Review Bombing Debate",
+    "summary": "Grand Theft Auto 6 has officially been out for a week, holding a massive 99 score on Metacritic alongside a 4.78 rating on the PlayStation Store based on hundreds of thousands of reviews. However, the blockbuster title has faced review bombing by frustrated users, once again igniting discussions regarding the legitimacy of user review scores.",
+    "content": [
+      "It has been a full week since the long-awaited release of Grand Theft Auto 6, inviting players to dive into Leonida and evaluate the massive open-world experience for themselves. The title remains the highest-rated game ever released, boasting over 160 reviews on Metacritic and maintaining a staggering 99 score that seems nearly impossible to equal or surpass.",
+      "Despite its critical acclaim, the launch has not been entirely smooth. GTA 6 has experienced user review bombing for a variety of reasons by frustrated users, sparking renewed conversations regarding the overall legitimacy and reliability of user-submitted reviews across digital platforms.",
+      "Countering the Metacritic review bombing, the game has proven exceptionally popular and highly rated on the PlayStation Store, where verified purchase requirements apply. With 389,000 ratings recorded, the game sits at a 4.78 average, demonstrating that 92 percent of players have awarded the title a full five-star rating.",
+      "Push Square editor Sammy awarded GTA 6 a rare 10 out of 10 in his PS5 review, hailing it as the greatest open-world game ever made. The review praised Rockstar for setting a new sandbox standard with a living, populated world where almost anything can happen at any time."
+    ],
+    "highlights": [
+      "GTA 6 maintains a staggering 99 score on Metacritic after more than 160 reviews.",
+      "The game achieved a 4.78 rating on the PlayStation Store from 389,000 verified player ratings.",
+      "User review bombing on aggregate sites has reignited debates over user review legitimacy.",
+      "Push Square's review dubbed the title the greatest open-world game ever made with a 10/10 score."
+    ],
+    "socialPulse": {
+      "sentiment": "Divided",
+      "viralPlatforms": [
+        "Reddit",
+        "X / Twitter",
+        "YouTube"
+      ],
+      "summary": "Community discussions are heavily divided as players weigh the massive critical success of GTA 6 against user review bombing and wider industry baggage. While many fans praise the game's open-world achievements and high quality, others express skepticism, citing studio practices or questioning whether the massive hype is fully justified.",
+      "viewpoints": [
+        {
+          "stance": "Overhyped and Overpriced",
+          "detail": "Some community members argue that players should wait years to see if the game holds up, especially given high pricing models and other gaming options available. Critics point out that consumer patience avoids getting caught up in immediate launch hype."
+        },
+        {
+          "stance": "Critical and Technical Marvel",
+          "detail": "Proponents celebrate the game as an unprecedented sandbox achievement with unmatched detail in its open-world design. Reviewers and fans emphasize that the living environment in Leonida justifies the highest possible praise."
+        }
+      ]
+    },
+    "category": "Reviews",
+    "gameTitle": "Grand Theft Auto 6",
+    "gameScale": "AAA",
+    "fanbaseScore": 10,
+    "isUpcoming": false,
+    "isRumor": false,
+    "releaseWindow": "",
+    "isControversy": true,
+    "controversyAngle": "Review Bombing",
+    "isTrending": true,
+    "importance": 10,
+    "source": "Push Square",
+    "url": "https://www.pushsquare.com/features/poll-what-review-score-would-you-give-gta-6",
+    "image": "https://cdn.mos.cms.futurecdn.net/qP2t3NgyYc4YTtxyNnMSoK-1920-80.jpg",
+    "publishedAt": "2026-11-27T17:00:00.000Z"
+  },
+  {
     "id": "7d38edd9ee5e6b11",
     "title": "Grand Theft Auto 6 Guide: Complete Walkthrough For Finding All Of Wyman's Classic Cars",
     "summary": "Stuck trying to locate all of Wyman's classic cars and ruined parts in Grand Theft Auto 6? This comprehensive guide breaks down the exact locations for every Transgressor, Riata, Mamba GT, and Kit Car scattered across Leonida.",
@@ -358,55 +409,53 @@
     "publishedAt": "2026-11-27T19:45:19.000Z"
   },
   {
-    "id": "733d83e59700c327",
-    "title": "GTA 6 Scores Staggering 99 on Metacritic Amid User Review Bombing Debate",
-    "summary": "Grand Theft Auto 6 has officially been out for a week, holding a massive 99 score on Metacritic alongside a 4.78 rating on the PlayStation Store based on hundreds of thousands of reviews. However, the blockbuster title has faced review bombing by frustrated users, once again igniting discussions regarding the legitimacy of user review scores.",
+    "id": "e1e2450ecdbb4898",
+    "title": "Official Pokémon Winds and Waves Plushies Revealed Despite Long Radio Silence",
+    "summary": "Fans waiting for news on Pokémon Winds and Waves have received a surprise update with the announcement of official merchandise plushies. While actual gameplay details remain scarce nearly a year after the initial reveal, collectors can look forward to new physical items.",
     "content": [
-      "It has been a full week since the long-awaited release of Grand Theft Auto 6, inviting players to dive into Leonida and evaluate the massive open-world experience for themselves. The title remains the highest-rated game ever released, boasting over 160 reviews on Metacritic and maintaining a staggering 99 score that seems nearly impossible to equal or surpass.",
-      "Despite its critical acclaim, the launch has not been entirely smooth. GTA 6 has experienced user review bombing for a variety of reasons by frustrated users, sparking renewed conversations regarding the overall legitimacy and reliability of user-submitted reviews across digital platforms.",
-      "Countering the Metacritic review bombing, the game has proven exceptionally popular and highly rated on the PlayStation Store, where verified purchase requirements apply. With 389,000 ratings recorded, the game sits at a 4.78 average, demonstrating that 92 percent of players have awarded the title a full five-star rating.",
-      "Push Square editor Sammy awarded GTA 6 a rare 10 out of 10 in his PS5 review, hailing it as the greatest open-world game ever made. The review praised Rockstar for setting a new sandbox standard with a living, populated world where almost anything can happen at any time."
+      "It has been almost an entire year since Pokémon Winds and Waves was first officially announced to the gaming public. Since that initial reveal, details regarding the upcoming title have been remarkably sparse, leaving fans eager for any official updates from the developers.",
+      "Breaking the prolonged radio silence, a new wave of official merchandise has just been revealed. Specifically, new Pokémon Winds and Waves plushies are on the way, giving collectors something tangible to look forward to while they wait for more substantial game news.",
+      "Although the merchandise announcement keeps the franchise in the public eye, it highlights the ongoing drought of information regarding actual gameplay, features, and concrete release dates for the title itself.",
+      "As the community continues to scour for updates, the confirmation of official plushies serves as a minor consolation for eager fans who have been waiting patiently for nearly twelve months."
     ],
     "highlights": [
-      "GTA 6 maintains a staggering 99 score on Metacritic after more than 160 reviews.",
-      "The game achieved a 4.78 rating on the PlayStation Store from 389,000 verified player ratings.",
-      "User review bombing on aggregate sites has reignited debates over user review legitimacy.",
-      "Push Square's review dubbed the title the greatest open-world game ever made with a 10/10 score."
+      "Official Pokémon Winds and Waves plushies have been officially revealed.",
+      "The announcement comes nearly a year after the game's initial reveal.",
+      "Concrete details and gameplay updates for the title remain scarce."
     ],
     "socialPulse": {
-      "sentiment": "Divided",
+      "sentiment": "Mixed",
       "viralPlatforms": [
-        "Reddit",
         "X / Twitter",
-        "YouTube"
+        "Reddit"
       ],
-      "summary": "Community discussions are heavily divided as players weigh the massive critical success of GTA 6 against user review bombing and wider industry baggage. While many fans praise the game's open-world achievements and high quality, others express skepticism, citing studio practices or questioning whether the massive hype is fully justified.",
+      "summary": "Fans on social media are experiencing a mix of excitement over the new merchandise and frustration over the lack of gameplay news. While collectors are happy to see new plushies added to the lineup, many players voiced disappointment that the update focused on physical items rather than game trailers.",
       "viewpoints": [
         {
-          "stance": "Overhyped and Overpriced",
-          "detail": "Some community members argue that players should wait years to see if the game holds up, especially given high pricing models and other gaming options available. Critics point out that consumer patience avoids getting caught up in immediate launch hype."
+          "stance": "Collector Excitement",
+          "detail": "Many merchandise collectors are thrilled to see new plushies being added to the official Pokémon lineup. They look forward to adding the new items to their shelves regardless of game news."
         },
         {
-          "stance": "Critical and Technical Marvel",
-          "detail": "Proponents celebrate the game as an unprecedented sandbox achievement with unmatched detail in its open-world design. Reviewers and fans emphasize that the living environment in Leonida justifies the highest possible praise."
+          "stance": "Gameplay Frustration",
+          "detail": "A large portion of the community expressed mild annoyance that nearly a year of silence was broken only by a merchandise reveal. Fans are desperately hoping for actual gameplay trailers or release windows soon."
         }
       ]
     },
-    "category": "Reviews",
-    "gameTitle": "Grand Theft Auto 6",
+    "category": "Console",
+    "gameTitle": "Pokémon Winds and Waves",
     "gameScale": "AAA",
     "fanbaseScore": 10,
-    "isUpcoming": false,
+    "isUpcoming": true,
     "isRumor": false,
-    "releaseWindow": "",
-    "isControversy": true,
-    "controversyAngle": "Review Bombing",
+    "releaseWindow": "Coming Soon",
+    "isControversy": false,
+    "controversyAngle": "",
     "isTrending": true,
-    "importance": 10,
-    "source": "Push Square",
-    "url": "https://www.pushsquare.com/features/poll-what-review-score-would-you-give-gta-6",
-    "image": "https://cdn.mos.cms.futurecdn.net/qP2t3NgyYc4YTtxyNnMSoK-1920-80.jpg",
-    "publishedAt": "2026-11-27T17:00:00.000Z"
+    "importance": 5,
+    "source": "Insider Gaming",
+    "url": "https://insider-gaming.com/pokemon-winds-and-waves-plushies",
+    "image": "https://insider-gaming.com/wp-content/uploads/2026/11/IMG_9439.jpeg",
+    "publishedAt": "2026-11-27T21:28:52.000Z"
   },
   {
     "id": "92abff66bd941005",
@@ -456,55 +505,6 @@
     "url": "https://www.ign.com/articles/yooka-laylee-and-the-impossible-lair-no-xbox-release",
     "image": "https://assets-prd.ignimgs.com/2026/11/27/6b0d6376bff30cb4e649a1581056b45e655a6609-1795815459268.jpg",
     "publishedAt": "2026-11-27T21:42:49.000Z"
-  },
-  {
-    "id": "e1e2450ecdbb4898",
-    "title": "Official Pokémon Winds and Waves Plushies Revealed Despite Long Radio Silence",
-    "summary": "Fans waiting for news on Pokémon Winds and Waves have received a surprise update with the announcement of official merchandise plushies. While actual gameplay details remain scarce nearly a year after the initial reveal, collectors can look forward to new physical items.",
-    "content": [
-      "It has been almost an entire year since Pokémon Winds and Waves was first officially announced to the gaming public. Since that initial reveal, details regarding the upcoming title have been remarkably sparse, leaving fans eager for any official updates from the developers.",
-      "Breaking the prolonged radio silence, a new wave of official merchandise has just been revealed. Specifically, new Pokémon Winds and Waves plushies are on the way, giving collectors something tangible to look forward to while they wait for more substantial game news.",
-      "Although the merchandise announcement keeps the franchise in the public eye, it highlights the ongoing drought of information regarding actual gameplay, features, and concrete release dates for the title itself.",
-      "As the community continues to scour for updates, the confirmation of official plushies serves as a minor consolation for eager fans who have been waiting patiently for nearly twelve months."
-    ],
-    "highlights": [
-      "Official Pokémon Winds and Waves plushies have been officially revealed.",
-      "The announcement comes nearly a year after the game's initial reveal.",
-      "Concrete details and gameplay updates for the title remain scarce."
-    ],
-    "socialPulse": {
-      "sentiment": "Mixed",
-      "viralPlatforms": [
-        "X / Twitter",
-        "Reddit"
-      ],
-      "summary": "Fans on social media are experiencing a mix of excitement over the new merchandise and frustration over the lack of gameplay news. While collectors are happy to see new plushies added to the lineup, many players voiced disappointment that the update focused on physical items rather than game trailers.",
-      "viewpoints": [
-        {
-          "stance": "Collector Excitement",
-          "detail": "Many merchandise collectors are thrilled to see new plushies being added to the official Pokémon lineup. They look forward to adding the new items to their shelves regardless of game news."
-        },
-        {
-          "stance": "Gameplay Frustration",
-          "detail": "A large portion of the community expressed mild annoyance that nearly a year of silence was broken only by a merchandise reveal. Fans are desperately hoping for actual gameplay trailers or release windows soon."
-        }
-      ]
-    },
-    "category": "Console",
-    "gameTitle": "Pokémon Winds and Waves",
-    "gameScale": "AAA",
-    "fanbaseScore": 10,
-    "isUpcoming": true,
-    "isRumor": false,
-    "releaseWindow": "Coming Soon",
-    "isControversy": false,
-    "controversyAngle": "",
-    "isTrending": true,
-    "importance": 5,
-    "source": "Insider Gaming",
-    "url": "https://insider-gaming.com/pokemon-winds-and-waves-plushies",
-    "image": "https://insider-gaming.com/wp-content/uploads/2026/11/IMG_9439.jpeg",
-    "publishedAt": "2026-11-27T21:28:52.000Z"
   },
   {
     "id": "ab300f6709453ee7",
@@ -1223,55 +1223,55 @@
     "publishedAt": "2026-11-26T15:32:20.000Z"
   },
   {
-    "id": "23e8002a98c119dc",
-    "title": "Path of Exile 2 Boss Slams 'Truly Terrible' Game Reveals and Calls Out Blizzard",
-    "summary": "Path of Exile co-game director Jonathan Rogers recently criticized standard industry livestream practices at a DevGAMM conference, taking a direct jab at Blizzard for withholding the juiciest details until the very end. Rogers argued that game announcements should cut straight to exciting gameplay and core features to maintain player interest.",
+    "id": "7715cc3b5f5e7c26",
+    "title": "Forza Horizon 6 Dev Admits Flaws Amid Custom Car Design Bans and Moderation Backlash",
+    "summary": "Playground Games has addressed growing community frustration over inconsistent moderation and bans related to custom car liveries and Itasha designs in Forza Horizon 6. The developer acknowledged that there is significant room for improvement, releasing detailed enforcement statistics and promising clearer rules moving forward.",
     "content": [
-      "Speaking at the DevGAMM FTW! games industry conference, Path of Exile co-game director Jonathan Rogers shared insights into how Grinding Gear Games handles its seasonal update schedules. Unlike many traditional game developers, GGG cuts straight to showing new gameplay features ahead of any preamble during its announcement livestreams, a strategy Rogers credits as a key driver behind the game's 13-year success.",
-      "According to Rogers, these announcement streams serve a dual purpose beyond mere marketing. They actively help dictate what features and content the development team should focus on with each update, ensuring that every new league is backed by genuinely exciting features that can successfully rally the player base.",
-      "During his presentation, Rogers did not shy away from critiquing broader industry trends, noting that he has witnessed numerous 'truly terrible livestreams for game announcements' before delivering a playful jab directly targeting Blizzard. While major studios often prefer a slower build-up featuring extensive introductions and detailed design breakdowns, Rogers believes holding the best reveals for the end wastes everyone's time.",
-      "Industry observers and journalists note that while traditional build-ups can sometimes drag on during deep-dive statistic reviews, hearing the direct thought process from developers can humanize studios for the audience. Nevertheless, Rogers' underlying message emphasizes that developers must accurately read the room and tailor their presentations to instantly capture community excitement rather than putting viewers to sleep."
+      "One of the standout features of Forza Horizon 6 is its extensive custom car design system, which allows players to share intricate user-generated content (UGC) like Itasha wraps depicting anime and gaming characters. However, as the community has embraced these creative tools, rising tensions have emerged over player bans and the removal of custom liveries due to vague content boundaries.",
+      "In response to community outcry, developer Playground Games has released transparency metrics detailing a recent one-month period where 12.5 million pieces of content were created. Out of 14,000 reported items, enforcement action was taken against a tiny fraction, resulting in 250 warnings, 90 suspensions, and 60 permanent bans primarily for severe violations involving full nudity or sexual content.",
+      "Playground emphasized that human moderators handle all final calls rather than automated AI systems, and that appeals are reviewed by a fresh set of eyes. Despite this human-driven process, the studio admitted that its policies can be difficult to navigate, particularly given the challenge of applying a global 'Everyone' rating standard to regional subcultures like Japanese Itasha art where cultural context varies greatly.",
+      "The studio also clarified that the code of conduct applies equally to private designs that might leak through the Drivatar system, or shared liveries that remain visible even after a creator unpublishes them. Moving forward, Playground Games has committed to delivering clearer guidelines, improved in-game messaging for content removals, and a more transparent appeals process to support the game's creative community."
     ],
     "highlights": [
-      "Path of Exile co-game director Jonathan Rogers criticized standard industry announcement streams at DevGAMM.",
-      "Rogers singled out Blizzard with a direct jab regarding lengthy and delayed game reveals.",
-      "Grinding Gear Games relies on cutting straight to gameplay to test whether a seasonal league concept is exciting enough to build.",
-      "Critics debate whether prolonged developer deep-dives humanize studio teams or simply drag on too long."
+      "Playground Games addresses player frustrations over custom livery bans and moderation inconsistency.",
+      "Out of 12.5 million creations in a month, only 250 warnings, 90 suspensions, and 60 permanent bans were issued.",
+      "The developer reassures fans that Itasha designs are fully welcome, provided they adhere to global E-rated standards.",
+      "Playground promises clearer rules, updated codes of conduct, and better in-game messaging for appeals."
     ],
     "socialPulse": {
-      "sentiment": "Mixed",
+      "sentiment": "Backlash",
       "viralPlatforms": [
         "X / Twitter",
         "Reddit",
-        "YouTube"
+        "Steam"
       ],
-      "summary": "Social media users are heavily debating the pacing of modern game developer livestreams, with many players agreeing that traditional update streams often include too much filler. Some community members appreciate the deep dives into stats and humanizing the developers behind the screens, while others strongly prefer Grinding Gear Games' fast-paced, gameplay-first approach.",
+      "summary": "Players have expressed heavy frustration over ambiguous moderation rules that have led to unexpected bans for innocent custom car designs and anime-inspired Itasha liveries. While some community members appreciate the studio's transparency and willingness to share enforcement data, others remain skeptical about the consistency of human moderators applying global E-rated standards.",
       "viewpoints": [
         {
-          "stance": "Cut to the Chase",
-          "detail": "Many players agree with Jonathan Rogers that prolonged introductions and delayed reveals waste time and drain excitement. Gamers want to see major gameplay features and new content immediately to decide if an update is worth returning for."
+          "stance": "Frustrated Creators",
+          "detail": "Many players who spend hours crafting intricate liveries feel unfairly penalized due to overly broad and unclear UGC guidelines. They argue that strict global age ratings stifle cultural expressions like Itasha designs that are completely harmless in context."
         },
         {
-          "stance": "Appreciate the Context",
-          "detail": "Other community members enjoy hearing developer thought processes and detailed statistical breakdowns. They feel this transparency reminds audiences that real humans are building the games and provides valuable insight into design decisions."
+          "stance": "Cautiously Optimistic",
+          "detail": "Some community members welcome Playground Games stepping forward with concrete enforcement numbers and a promise of better communication. They believe that clarifying rules and improving the appeal process is a strong step in the right direction."
         }
       ]
     },
-    "category": "Industry",
-    "gameTitle": "Path of Exile 2",
+    "category": "PC",
+    "gameTitle": "Forza Horizon 6",
     "gameScale": "AAA",
     "fanbaseScore": 9,
     "isUpcoming": false,
     "isRumor": false,
     "releaseWindow": "",
-    "isControversy": false,
-    "controversyAngle": "",
+    "isControversy": true,
+    "controversyAngle": "UGC Moderation Bans",
     "isTrending": false,
-    "importance": 6,
-    "source": "PC Gamer",
-    "url": "https://www.pcgamer.com/games/rpg/blizzard-im-looking-at-you-path-of-exile-2-boss-criticizes-truly-terrible-game-announcements-that-hold-the-juiciest-details-until-the-end",
-    "image": "https://cdn.mos.cms.futurecdn.net/HMRK6xpxefVxP2MDgUaKmG-1920-80.jpg",
-    "publishedAt": "2026-11-26T23:00:00.000Z"
+    "importance": 7,
+    "source": "PCGamesN",
+    "url": "https://www.pcgamesn.com/forza-horizon-6/custom-designs-ugc-bans",
+    "image": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/11/forza-horizon-6-ugc-regulations-itasha-and-custom-car-design-rules-playground-games.jpg",
+    "publishedAt": "2026-11-26T14:44:18.000Z"
   },
   {
     "id": "0888ae6c43571217",
@@ -1326,55 +1326,55 @@
     "publishedAt": "2026-11-26T19:20:50.000Z"
   },
   {
-    "id": "7715cc3b5f5e7c26",
-    "title": "Forza Horizon 6 Dev Admits Flaws Amid Custom Car Design Bans and Moderation Backlash",
-    "summary": "Playground Games has addressed growing community frustration over inconsistent moderation and bans related to custom car liveries and Itasha designs in Forza Horizon 6. The developer acknowledged that there is significant room for improvement, releasing detailed enforcement statistics and promising clearer rules moving forward.",
+    "id": "23e8002a98c119dc",
+    "title": "Path of Exile 2 Boss Slams 'Truly Terrible' Game Reveals and Calls Out Blizzard",
+    "summary": "Path of Exile co-game director Jonathan Rogers recently criticized standard industry livestream practices at a DevGAMM conference, taking a direct jab at Blizzard for withholding the juiciest details until the very end. Rogers argued that game announcements should cut straight to exciting gameplay and core features to maintain player interest.",
     "content": [
-      "One of the standout features of Forza Horizon 6 is its extensive custom car design system, which allows players to share intricate user-generated content (UGC) like Itasha wraps depicting anime and gaming characters. However, as the community has embraced these creative tools, rising tensions have emerged over player bans and the removal of custom liveries due to vague content boundaries.",
-      "In response to community outcry, developer Playground Games has released transparency metrics detailing a recent one-month period where 12.5 million pieces of content were created. Out of 14,000 reported items, enforcement action was taken against a tiny fraction, resulting in 250 warnings, 90 suspensions, and 60 permanent bans primarily for severe violations involving full nudity or sexual content.",
-      "Playground emphasized that human moderators handle all final calls rather than automated AI systems, and that appeals are reviewed by a fresh set of eyes. Despite this human-driven process, the studio admitted that its policies can be difficult to navigate, particularly given the challenge of applying a global 'Everyone' rating standard to regional subcultures like Japanese Itasha art where cultural context varies greatly.",
-      "The studio also clarified that the code of conduct applies equally to private designs that might leak through the Drivatar system, or shared liveries that remain visible even after a creator unpublishes them. Moving forward, Playground Games has committed to delivering clearer guidelines, improved in-game messaging for content removals, and a more transparent appeals process to support the game's creative community."
+      "Speaking at the DevGAMM FTW! games industry conference, Path of Exile co-game director Jonathan Rogers shared insights into how Grinding Gear Games handles its seasonal update schedules. Unlike many traditional game developers, GGG cuts straight to showing new gameplay features ahead of any preamble during its announcement livestreams, a strategy Rogers credits as a key driver behind the game's 13-year success.",
+      "According to Rogers, these announcement streams serve a dual purpose beyond mere marketing. They actively help dictate what features and content the development team should focus on with each update, ensuring that every new league is backed by genuinely exciting features that can successfully rally the player base.",
+      "During his presentation, Rogers did not shy away from critiquing broader industry trends, noting that he has witnessed numerous 'truly terrible livestreams for game announcements' before delivering a playful jab directly targeting Blizzard. While major studios often prefer a slower build-up featuring extensive introductions and detailed design breakdowns, Rogers believes holding the best reveals for the end wastes everyone's time.",
+      "Industry observers and journalists note that while traditional build-ups can sometimes drag on during deep-dive statistic reviews, hearing the direct thought process from developers can humanize studios for the audience. Nevertheless, Rogers' underlying message emphasizes that developers must accurately read the room and tailor their presentations to instantly capture community excitement rather than putting viewers to sleep."
     ],
     "highlights": [
-      "Playground Games addresses player frustrations over custom livery bans and moderation inconsistency.",
-      "Out of 12.5 million creations in a month, only 250 warnings, 90 suspensions, and 60 permanent bans were issued.",
-      "The developer reassures fans that Itasha designs are fully welcome, provided they adhere to global E-rated standards.",
-      "Playground promises clearer rules, updated codes of conduct, and better in-game messaging for appeals."
+      "Path of Exile co-game director Jonathan Rogers criticized standard industry announcement streams at DevGAMM.",
+      "Rogers singled out Blizzard with a direct jab regarding lengthy and delayed game reveals.",
+      "Grinding Gear Games relies on cutting straight to gameplay to test whether a seasonal league concept is exciting enough to build.",
+      "Critics debate whether prolonged developer deep-dives humanize studio teams or simply drag on too long."
     ],
     "socialPulse": {
-      "sentiment": "Backlash",
+      "sentiment": "Mixed",
       "viralPlatforms": [
         "X / Twitter",
         "Reddit",
-        "Steam"
+        "YouTube"
       ],
-      "summary": "Players have expressed heavy frustration over ambiguous moderation rules that have led to unexpected bans for innocent custom car designs and anime-inspired Itasha liveries. While some community members appreciate the studio's transparency and willingness to share enforcement data, others remain skeptical about the consistency of human moderators applying global E-rated standards.",
+      "summary": "Social media users are heavily debating the pacing of modern game developer livestreams, with many players agreeing that traditional update streams often include too much filler. Some community members appreciate the deep dives into stats and humanizing the developers behind the screens, while others strongly prefer Grinding Gear Games' fast-paced, gameplay-first approach.",
       "viewpoints": [
         {
-          "stance": "Frustrated Creators",
-          "detail": "Many players who spend hours crafting intricate liveries feel unfairly penalized due to overly broad and unclear UGC guidelines. They argue that strict global age ratings stifle cultural expressions like Itasha designs that are completely harmless in context."
+          "stance": "Cut to the Chase",
+          "detail": "Many players agree with Jonathan Rogers that prolonged introductions and delayed reveals waste time and drain excitement. Gamers want to see major gameplay features and new content immediately to decide if an update is worth returning for."
         },
         {
-          "stance": "Cautiously Optimistic",
-          "detail": "Some community members welcome Playground Games stepping forward with concrete enforcement numbers and a promise of better communication. They believe that clarifying rules and improving the appeal process is a strong step in the right direction."
+          "stance": "Appreciate the Context",
+          "detail": "Other community members enjoy hearing developer thought processes and detailed statistical breakdowns. They feel this transparency reminds audiences that real humans are building the games and provides valuable insight into design decisions."
         }
       ]
     },
-    "category": "PC",
-    "gameTitle": "Forza Horizon 6",
+    "category": "Industry",
+    "gameTitle": "Path of Exile 2",
     "gameScale": "AAA",
     "fanbaseScore": 9,
     "isUpcoming": false,
     "isRumor": false,
     "releaseWindow": "",
-    "isControversy": true,
-    "controversyAngle": "UGC Moderation Bans",
+    "isControversy": false,
+    "controversyAngle": "",
     "isTrending": false,
-    "importance": 7,
-    "source": "PCGamesN",
-    "url": "https://www.pcgamesn.com/forza-horizon-6/custom-designs-ugc-bans",
-    "image": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/11/forza-horizon-6-ugc-regulations-itasha-and-custom-car-design-rules-playground-games.jpg",
-    "publishedAt": "2026-11-26T14:44:18.000Z"
+    "importance": 6,
+    "source": "PC Gamer",
+    "url": "https://www.pcgamer.com/games/rpg/blizzard-im-looking-at-you-path-of-exile-2-boss-criticizes-truly-terrible-game-announcements-that-hold-the-juiciest-details-until-the-end",
+    "image": "https://cdn.mos.cms.futurecdn.net/HMRK6xpxefVxP2MDgUaKmG-1920-80.jpg",
+    "publishedAt": "2026-11-26T23:00:00.000Z"
   },
   {
     "id": "b76559ff35e32bd1",
@@ -1480,56 +1480,55 @@
     "publishedAt": "2026-11-26T11:15:00.000Z"
   },
   {
-    "id": "5b0087d0b388ffdc",
-    "title": "Warhammer 40,000: Space Marine 2 Decimation Update Drops Weekly Clash, Vanguard Rework, and More",
-    "summary": "The latest Decimation update for Warhammer 40,000: Space Marine 2 introduces the new Weekly Clash PvP mode, a fresh Chaos Siege sector challenge, and a substantial rework for the Vanguard class. Players can also unlock new heroic weapons and armor pieces while benefiting from various quality-of-life adjustments.",
+    "id": "fb0f7aad6d93ed3f",
+    "title": "Modder Uses AI to Build Unofficial The Last of Us Part 2 Multiplayer Mod",
+    "summary": "An independent modder has launched a brand-new, open-source multiplayer mod called Twelve Weeks for The Last of Us Part 2 Remastered on PC, utilizing generative AI for much of its development. The release arrives on the heels of Sony issuing a cease-and-desist letter to a previous multiplayer mod project, sparking fresh questions about copyright enforcement and whether this new version can evade legal action.",
     "content": [
-      "Warhammer 40,000: Space Marine 2 has received its latest patch, officially dubbed the Decimation update, bringing a host of fresh content and gameplay tweaks to the popular shooter. Developer Saber Interactive aims to shake up the multiplayer experience with structured community additions and tactical improvements across both PvE and PvP modes.",
-      "The highlight of the update is the new Weekly Clash mode designed for competitive players in Eternal War. According to the official Steam blog post, this mode introduces unique rules such as single-class restrictions, single-weapon loadouts, and near-unlimited grenades, with developers promising even more modifiers in future rotations.",
-      "For cooperative players, the update introduces a new Chaos Siege sector building upon last month's addition, delivering renewed challenges between waves 11 and 15. The armoury is also expanding with six new heroic weapons, including the omnissian axe, plasma incinerator, and heavy bolter, alongside four new heroic helmets for customisation.",
-      "Furthermore, the Vanguard class has received a comprehensive rework. Players can now utilize new ways to deploy the Grapnel Launcher, featuring attack cancellations, close-quarter kicks, and a brand-new Revenge mechanic designed to make the class feel even more brutal on the battlefield.",
-      "General tweaks round out the patch, including adjusted ammo and equipment pickup locations across all PvP maps, improved spawn position swap logic, and a new level 25 or Prestige requirement for Absolute Siege and Absolute Stratagems modes. Additionally, the patch addresses technical performance with improved loading times and general connectivity."
+      "Fans of The Last of Us have long mourned the cancellation of Naughty Dog's standalone Factions multiplayer project, which was scrapped as the studio shifted its focus toward other titles like Intergalactic: The Heretic Prophet. The original combat mechanics and mobility introduced in The Last of Us Part 2 left players yearning for an official online experience, prompting community members to take matters into their own hands. While Naughty Dog has hinted at a potential third installment in the franchise and HBO continues production on its hit television series, official multiplayer support remains entirely absent from the package.",
+      "Earlier in the year, a prominent fan project led by creator Speclizer made significant waves before receiving a swift cease-and-desist letter from Sony Interactive Entertainment, ultimately halting its release. Learning from that experience, a new mod titled Twelve Weeks has now been launched specifically for The Last of Us Part 2 Remastered on PC. The project introduces tactical 4v4 team-based combat featuring fan-favorite modes like Supply Raid and Interrogation, alongside new weapons, gadgetry such as molotovs, and brutal execution animations pitting the WLF against the Seraphites.",
+      "Notably, the creator of Twelve Weeks, known as Kellie, has openly admitted to relying heavily on generative AI tools during development. Claude code was reportedly utilized for the majority of the programming and writing of in-game lore dumps, while assets and art were created using Blender. To distance the project from copyright infringement, the GitHub repository features a stern disclaimer stating that the mod is entirely unofficial, non-affiliated, and requires users to supply their own legitimately purchased copy of the game on Steam.",
+      "Whether Sony will step in to shut down Twelve Weeks remains the central question among fans following the release on Nexus Mods. Addressing the community directly, the creator argued that the previous Factions mod likely drew Sony's ire because it was paywalled behind early access tiers, whereas Twelve Weeks is entirely free and open-source. The creator maintains that because the full source code has already been distributed broadly to the public, there is little Sony can do to permanently erase it, even if a takedown notice is eventually issued."
     ],
     "highlights": [
-      "Weekly Clash PvP mode introduces rotating modifiers like single-class restrictions and unlimited grenades.",
-      "New Chaos Siege sector brings fresh challenges between waves 11 and 15.",
-      "Vanguard class receives a major rework featuring new Grapnel Launcher mechanics and a Revenge feature.",
-      "Six new heroic weapons and four new heroic helmets added to the armoury."
+      "A new PC mod named Twelve Weeks brings unofficial 4v4 multiplayer to The Last of Us Part 2 Remastered.",
+      "The creator used generative AI tools like Claude code for development and lore writing, with art crafted in Blender.",
+      "The mod features reworked maps, Supply Raid and Interrogation modes, new weapons, and brutal executions.",
+      "The developer claims the open-source and free nature of the project provides protection against complete suppression."
     ],
     "socialPulse": {
-      "sentiment": "Hyped",
+      "sentiment": "Heated",
       "viralPlatforms": [
-        "Steam",
+        "X / Twitter",
         "Reddit",
-        "X / Twitter"
+        "YouTube"
       ],
-      "summary": "Fans are reacting enthusiastically to the fresh content drop, particularly praising the creative modifiers in Weekly Clash and the much-needed Vanguard class buffs. Many players are diving straight into the new Chaos Siege waves to test out the newly added heroic weapons and armor pieces. Overall sentiment is overwhelmingly positive as the community appreciates the active post-launch support and regular updates from the developers.",
+      "summary": "The community is engaged in intense discussions regarding the legality of fan projects, the reliance on generative AI for software development, and Sony's strict enforcement of copyright. While many players are eager to finally experience multiplayer action reminiscent of the original Factions mode, others are skeptical about the longevity of open-source projects hosted on public repositories. Commenters frequently debate whether Sony's hesitation to release official PC versions or standalone multiplayer modes actively invites these high-risk fan creations.",
       "viewpoints": [
         {
-          "stance": "PvP Enthusiast",
-          "detail": "Competitive players love the Weekly Clash mode because restricted rule sets force teams to adapt and try completely different tactical loadouts. The addition of crazy modifiers like unlimited grenades brings a refreshing chaotic energy to Eternal War matches."
+          "stance": "Excited for Fan Innovation",
+          "detail": "Supporters argue that since Sony and Naughty Dog officially cancelled the standalone multiplayer project, passionate fans have every right to build their own experiences. They praise the open-source nature of Twelve Weeks as a way to preserve community-driven multiplayer concepts regardless of corporate crackdowns."
         },
         {
-          "stance": "Vanguard Main",
-          "detail": "Class mains are celebrating the Vanguard rework, noting that the new attack cancellations and close-quarter kicks make high-intensity melee engagements feel much smoother. The introduction of the Revenge mechanic adds a satisfying layer of retribution against aggressive enemies."
+          "stance": "Skeptical of AI and Platform Risks",
+          "detail": "Critics and observers point out the predictable pattern of developers using vulnerable platforms like GitHub and Discord, which inevitably leads to quick takedowns and project terminations. Additionally, some express reservations regarding the heavy use of generative AI tools in coding and writing lore elements."
         }
       ]
     },
     "category": "PC",
-    "gameTitle": "Warhammer 40,000: Space Marine 2",
+    "gameTitle": "The Last of Us Part 2",
     "gameScale": "AAA",
-    "fanbaseScore": 9,
+    "fanbaseScore": 10,
     "isUpcoming": false,
     "isRumor": false,
     "releaseWindow": "",
-    "isControversy": false,
-    "controversyAngle": "",
+    "isControversy": true,
+    "controversyAngle": "Copyright Takedown Risk",
     "isTrending": false,
     "importance": 7,
-    "source": "Rock Paper Shotgun",
-    "url": "https://www.rockpapershotgun.com/warhammer-40000-space-marine-2s-latest-updates-introduces-a-weekly-clash-mode-that-shakes-up-pvp-with-some-constricting-modifiers",
-    "image": "https://assetsio.gnwcdn.com/warhammer-40k-space-marine-2-decimation.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "publishedAt": "2026-11-26T17:58:30.000Z"
+    "source": "IGN",
+    "url": "https://www.ign.com/articles/new-multiplayer-mod-for-the-last-of-us-part-2",
+    "image": "https://assets-prd.ignimgs.com/2026/06/22/the-last-of-us-part-2-multiplayer-1782160463542.png",
+    "publishedAt": "2026-11-26T11:00:06.000Z"
   },
   {
     "id": "ff94c0fa575837cf",
@@ -1584,55 +1583,106 @@
     "publishedAt": "2026-11-26T16:00:00.000Z"
   },
   {
-    "id": "fb0f7aad6d93ed3f",
-    "title": "Modder Uses AI to Build Unofficial The Last of Us Part 2 Multiplayer Mod",
-    "summary": "An independent modder has launched a brand-new, open-source multiplayer mod called Twelve Weeks for The Last of Us Part 2 Remastered on PC, utilizing generative AI for much of its development. The release arrives on the heels of Sony issuing a cease-and-desist letter to a previous multiplayer mod project, sparking fresh questions about copyright enforcement and whether this new version can evade legal action.",
+    "id": "5b0087d0b388ffdc",
+    "title": "Warhammer 40,000: Space Marine 2 Decimation Update Drops Weekly Clash, Vanguard Rework, and More",
+    "summary": "The latest Decimation update for Warhammer 40,000: Space Marine 2 introduces the new Weekly Clash PvP mode, a fresh Chaos Siege sector challenge, and a substantial rework for the Vanguard class. Players can also unlock new heroic weapons and armor pieces while benefiting from various quality-of-life adjustments.",
     "content": [
-      "Fans of The Last of Us have long mourned the cancellation of Naughty Dog's standalone Factions multiplayer project, which was scrapped as the studio shifted its focus toward other titles like Intergalactic: The Heretic Prophet. The original combat mechanics and mobility introduced in The Last of Us Part 2 left players yearning for an official online experience, prompting community members to take matters into their own hands. While Naughty Dog has hinted at a potential third installment in the franchise and HBO continues production on its hit television series, official multiplayer support remains entirely absent from the package.",
-      "Earlier in the year, a prominent fan project led by creator Speclizer made significant waves before receiving a swift cease-and-desist letter from Sony Interactive Entertainment, ultimately halting its release. Learning from that experience, a new mod titled Twelve Weeks has now been launched specifically for The Last of Us Part 2 Remastered on PC. The project introduces tactical 4v4 team-based combat featuring fan-favorite modes like Supply Raid and Interrogation, alongside new weapons, gadgetry such as molotovs, and brutal execution animations pitting the WLF against the Seraphites.",
-      "Notably, the creator of Twelve Weeks, known as Kellie, has openly admitted to relying heavily on generative AI tools during development. Claude code was reportedly utilized for the majority of the programming and writing of in-game lore dumps, while assets and art were created using Blender. To distance the project from copyright infringement, the GitHub repository features a stern disclaimer stating that the mod is entirely unofficial, non-affiliated, and requires users to supply their own legitimately purchased copy of the game on Steam.",
-      "Whether Sony will step in to shut down Twelve Weeks remains the central question among fans following the release on Nexus Mods. Addressing the community directly, the creator argued that the previous Factions mod likely drew Sony's ire because it was paywalled behind early access tiers, whereas Twelve Weeks is entirely free and open-source. The creator maintains that because the full source code has already been distributed broadly to the public, there is little Sony can do to permanently erase it, even if a takedown notice is eventually issued."
+      "Warhammer 40,000: Space Marine 2 has received its latest patch, officially dubbed the Decimation update, bringing a host of fresh content and gameplay tweaks to the popular shooter. Developer Saber Interactive aims to shake up the multiplayer experience with structured community additions and tactical improvements across both PvE and PvP modes.",
+      "The highlight of the update is the new Weekly Clash mode designed for competitive players in Eternal War. According to the official Steam blog post, this mode introduces unique rules such as single-class restrictions, single-weapon loadouts, and near-unlimited grenades, with developers promising even more modifiers in future rotations.",
+      "For cooperative players, the update introduces a new Chaos Siege sector building upon last month's addition, delivering renewed challenges between waves 11 and 15. The armoury is also expanding with six new heroic weapons, including the omnissian axe, plasma incinerator, and heavy bolter, alongside four new heroic helmets for customisation.",
+      "Furthermore, the Vanguard class has received a comprehensive rework. Players can now utilize new ways to deploy the Grapnel Launcher, featuring attack cancellations, close-quarter kicks, and a brand-new Revenge mechanic designed to make the class feel even more brutal on the battlefield.",
+      "General tweaks round out the patch, including adjusted ammo and equipment pickup locations across all PvP maps, improved spawn position swap logic, and a new level 25 or Prestige requirement for Absolute Siege and Absolute Stratagems modes. Additionally, the patch addresses technical performance with improved loading times and general connectivity."
     ],
     "highlights": [
-      "A new PC mod named Twelve Weeks brings unofficial 4v4 multiplayer to The Last of Us Part 2 Remastered.",
-      "The creator used generative AI tools like Claude code for development and lore writing, with art crafted in Blender.",
-      "The mod features reworked maps, Supply Raid and Interrogation modes, new weapons, and brutal executions.",
-      "The developer claims the open-source and free nature of the project provides protection against complete suppression."
+      "Weekly Clash PvP mode introduces rotating modifiers like single-class restrictions and unlimited grenades.",
+      "New Chaos Siege sector brings fresh challenges between waves 11 and 15.",
+      "Vanguard class receives a major rework featuring new Grapnel Launcher mechanics and a Revenge feature.",
+      "Six new heroic weapons and four new heroic helmets added to the armoury."
     ],
     "socialPulse": {
-      "sentiment": "Heated",
+      "sentiment": "Hyped",
+      "viralPlatforms": [
+        "Steam",
+        "Reddit",
+        "X / Twitter"
+      ],
+      "summary": "Fans are reacting enthusiastically to the fresh content drop, particularly praising the creative modifiers in Weekly Clash and the much-needed Vanguard class buffs. Many players are diving straight into the new Chaos Siege waves to test out the newly added heroic weapons and armor pieces. Overall sentiment is overwhelmingly positive as the community appreciates the active post-launch support and regular updates from the developers.",
+      "viewpoints": [
+        {
+          "stance": "PvP Enthusiast",
+          "detail": "Competitive players love the Weekly Clash mode because restricted rule sets force teams to adapt and try completely different tactical loadouts. The addition of crazy modifiers like unlimited grenades brings a refreshing chaotic energy to Eternal War matches."
+        },
+        {
+          "stance": "Vanguard Main",
+          "detail": "Class mains are celebrating the Vanguard rework, noting that the new attack cancellations and close-quarter kicks make high-intensity melee engagements feel much smoother. The introduction of the Revenge mechanic adds a satisfying layer of retribution against aggressive enemies."
+        }
+      ]
+    },
+    "category": "PC",
+    "gameTitle": "Warhammer 40,000: Space Marine 2",
+    "gameScale": "AAA",
+    "fanbaseScore": 9,
+    "isUpcoming": false,
+    "isRumor": false,
+    "releaseWindow": "",
+    "isControversy": false,
+    "controversyAngle": "",
+    "isTrending": false,
+    "importance": 7,
+    "source": "Rock Paper Shotgun",
+    "url": "https://www.rockpapershotgun.com/warhammer-40000-space-marine-2s-latest-updates-introduces-a-weekly-clash-mode-that-shakes-up-pvp-with-some-constricting-modifiers",
+    "image": "https://assetsio.gnwcdn.com/warhammer-40k-space-marine-2-decimation.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "publishedAt": "2026-11-26T17:58:30.000Z"
+  },
+  {
+    "id": "bff955a2d9ba465f",
+    "title": "PowerWash Simulator Devs Review GTA 6's Boat Washing Activity",
+    "summary": "Eurogamer asked the developers behind PowerWash Simulator 2 to critique the powerwashing minigame featured in Grand Theft Auto 6's Chapter 1. The FuturLab team shared humorous and detailed feedback, praising the satisfying sounds and visuals while docking points for missing protective gear, soap, and the iconic completion \"ding.\"",
+    "content": [
+      "During the Chapter 1 Down to Earth mission in Grand Theft Auto 6, protagonist Jason takes a nozzle to clean Brian's boat. Though the powerwashing activity is a brief, one-off gag in Rockstar's massive open-world game, it caught the attention of the experts at FuturLab, the studio behind PowerWash Simulator 2. When asked to evaluate Jason's technique, a large portion of the FuturLab development team eagerly joined in to provide professional critiques.",
+      "The team generally commended Rockstar's attention to detail regarding the audiovisual feedback of a clean surface. Lead game designer Nick McCarthy praised the sounds and feel of the shiny flat surface, but lamented the absence of the genre's signature completion noise, giving it a \"0/10\" rating for lacking 200 percent more layers of muck and a proper \"ding.\" Senior programmer Will Dyball echoed the sentiment, noting that while the visuals and feel were satisfying, it missed the crucial audio cue.",
+      "Several developers pointed out rookie operational mistakes in Jason's method. 3D artist Eilidh Norris and programmer Jordan Lewis both criticized the lack of soap and failure to upgrade washers or purchase proper nozzles, with Lewis noting Jason made the job harder than necessary. Safety concerns were also raised by 3D artist Rory Peace and data principal Russell Young, who both expressed alarm at Jason's lack of protective overalls and proper personal protective equipment.",
+      "On the other hand, game designer Sam Jenkins expressed delight that the art of powerwashing is gaining mainstream representation, though they felt the dirt on the boat was too scarce. Suggestions for improvement ranged from leaving the boat in a flooded warehouse for 30 years to adding crushed fruit festival remnants and squid ink. Senior QA tester Paul Comse offered a positive verdict, joking that they love unwinding from powerwashing in real life by powerwashing in GTA, ultimately rating Jason's efforts a \"7.8/10, too much water.\""
+    ],
+    "highlights": [
+      "FuturLab developers humorously critiqued Jason's boat-washing technique in GTA 6.",
+      "Team members praised the satisfying visual and audio design but lamented the missing completion \"ding.\"",
+      "Developers pointed out rookie mistakes like lacking soap, PPE, and proper nozzle upgrades."
+    ],
+    "socialPulse": {
+      "sentiment": "Hyped",
       "viralPlatforms": [
         "X / Twitter",
         "Reddit",
         "YouTube"
       ],
-      "summary": "The community is engaged in intense discussions regarding the legality of fan projects, the reliance on generative AI for software development, and Sony's strict enforcement of copyright. While many players are eager to finally experience multiplayer action reminiscent of the original Factions mode, others are skeptical about the longevity of open-source projects hosted on public repositories. Commenters frequently debate whether Sony's hesitation to release official PC versions or standalone multiplayer modes actively invites these high-risk fan creations.",
+      "summary": "Players online are enthusiastically reacting to the unexpected crossover critique between Rockstar and FuturLab. Fans find the developers' meticulous breakdown of Jason's virtual powerwashing safety gear and technique hilarious, further fueling excitement for the game's release details.",
       "viewpoints": [
         {
-          "stance": "Excited for Fan Innovation",
-          "detail": "Supporters argue that since Sony and Naughty Dog officially cancelled the standalone multiplayer project, passionate fans have every right to build their own experiences. They praise the open-source nature of Twelve Weeks as a way to preserve community-driven multiplayer concepts regardless of corporate crackdowns."
+          "stance": "Appreciative of the Crossover",
+          "detail": "Fans love seeing an indie-adjacent studio like FuturLab humorously engage with a massive AAA blockbuster like GTA 6. It highlights the fun, unexpected corners of game development culture."
         },
         {
-          "stance": "Skeptical of AI and Platform Risks",
-          "detail": "Critics and observers point out the predictable pattern of developers using vulnerable platforms like GitHub and Discord, which inevitably leads to quick takedowns and project terminations. Additionally, some express reservations regarding the heavy use of generative AI tools in coding and writing lore elements."
+          "stance": "Demanding Proper Mechanics",
+          "detail": "Some community members jokingly leaned into the developer feedback, agreeing that a true powerwashing minigame needs proper soap, nozzles, and safety equipment to be taken seriously."
         }
       ]
     },
-    "category": "PC",
-    "gameTitle": "The Last of Us Part 2",
+    "category": "Console",
+    "gameTitle": "Grand Theft Auto 6",
     "gameScale": "AAA",
     "fanbaseScore": 10,
-    "isUpcoming": false,
+    "isUpcoming": true,
     "isRumor": false,
-    "releaseWindow": "",
-    "isControversy": true,
-    "controversyAngle": "Copyright Takedown Risk",
+    "releaseWindow": "Fall 2025",
+    "isControversy": false,
+    "controversyAngle": "",
     "isTrending": false,
-    "importance": 7,
-    "source": "IGN",
-    "url": "https://www.ign.com/articles/new-multiplayer-mod-for-the-last-of-us-part-2",
-    "image": "https://assets-prd.ignimgs.com/2026/06/22/the-last-of-us-part-2-multiplayer-1782160463542.png",
-    "publishedAt": "2026-11-26T11:00:06.000Z"
+    "importance": 6,
+    "source": "Eurogamer",
+    "url": "https://www.eurogamer.net/gta-6-powerwashing-powerwash-simultor-futurlab",
+    "image": "https://assetsio.gnwcdn.com/gta-powerwash-header-2.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "publishedAt": "2026-11-26T17:07:50.000Z"
   },
   {
     "id": "87119c7504399245",
@@ -1685,6 +1735,56 @@
     "url": "https://kotaku.com/team-ninja-ai-qa-difficulty-nioh-wo-long-koei-temco-capcom-2001000539",
     "image": "https://kotaku.com/app/uploads/2026/11/Wo-Long-Danfu-1280x720.jpg",
     "publishedAt": "2026-11-26T11:30:49.000Z"
+  },
+  {
+    "id": "e49351508ff3ffc4",
+    "title": "GTA 6 Survey Reveals High Praise, Accidental Cat Punches, and Bizarre After-Effects",
+    "summary": "A recent survey of over 300 Grand Theft Auto 6 players reveals glowing praise for its narrative and world alongside some hilarious and bizarre player statistics. While 30 percent of respondents felt inspired to buy flowers for a loved one, a tragic nine percent accidentally punched a virtual cat.",
+    "content": [
+      "A new survey conducted by Games User Research director Steve Bromley has shed light on how players are experiencing Grand Theft Auto 6. Polling 303 players across the UK and US who had logged at least two hours of playtime, the study provides an informed look at fan sentiment.",
+      "Overall, the polled players gave the blockbuster title an impressive 8.4 out of 10. Breaking down the praise, 42 percent loved the narrative and the central relationship between Jason and Lucia, 38 percent appreciated the lifelike world, and 35 percent enjoyed the sheer freedom to explore and engage in various activities.",
+      "On the flip side, some criticisms emerged from the data. 28 percent of respondents disliked the slow pacing and long cutscenes, 19 percent struggled with car thefts and losing wanted levels, and 18 percent expressed frustration regarding the game's technical performance.",
+      "The survey also uncovered several humorous findings, such as 41 percent wanting to improve their real-life habits, with 30 percent specifically looking to buy flowers for a loved one. However, the virtual feline population suffered, as nine percent of players accidentally punched a cat while trying to pet it, while 61 percent had a similar unfortunate mishap with human NPCs."
+    ],
+    "highlights": [
+      "Polled players gave Grand Theft Auto 6 a strong average rating of 8.4 out of 10.",
+      "42 percent of respondents praised the game's narrative and the dynamic between Jason and Lucia.",
+      "Technical performance and slow pacing drew criticism from 18 and 28 percent of players respectively.",
+      "Nine percent of players confessed to accidentally punching a cat while trying to pet it in-game."
+    ],
+    "socialPulse": {
+      "sentiment": "Mixed",
+      "viralPlatforms": [
+        "X / Twitter",
+        "Reddit"
+      ],
+      "summary": "Social media users are heavily discussing the quirky survey statistics, sharing amusement over the accidental cat-punching statistic while debating the game's pacing and technical performance. Many players find the wholesome desire to buy flowers hilarious, contrasting sharply with the game's chaotic open-world nature.",
+      "viewpoints": [
+        {
+          "stance": "Amused by Real-Life Impact",
+          "detail": "Many social media users are cracking jokes about the 30 percent of players wanting to buy flowers after playing a crime simulator. It highlights how immersive open-world details can unexpectedly soften player moods."
+        },
+        {
+          "stance": "Concerned for Virtual Cats",
+          "detail": "Animal lovers on platforms like Reddit and X are jokingly expressing horror over the nine percent of players who accidentally punched a cat. The awkward control layouts that led to these feline accidents have become a widespread meme."
+        }
+      ]
+    },
+    "category": "Console",
+    "gameTitle": "Grand Theft Auto 6",
+    "gameScale": "AAA",
+    "fanbaseScore": 10,
+    "isUpcoming": false,
+    "isRumor": false,
+    "releaseWindow": "",
+    "isControversy": false,
+    "controversyAngle": "",
+    "isTrending": false,
+    "importance": 7,
+    "source": "Eurogamer",
+    "url": "https://www.eurogamer.net/gta-6-30-percent-buy-flowers-punch-cats",
+    "image": "https://assetsio.gnwcdn.com/cat-gta-6.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "publishedAt": "2026-11-26T14:09:10.000Z"
   },
   {
     "id": "c3d8cd82e78707bd",
@@ -1940,58 +2040,6 @@
     "publishedAt": "2026-11-25T17:59:00.000Z"
   },
   {
-    "id": "d10f9b53074a563c",
-    "title": "Aeternum Refuses to Delay Metroidvania Again as Team Cherry Announces New 'Cherry Time' Showcase",
-    "summary": "Aeternum Game Studios has announced it will not delay its upcoming metroidvania Aeterna Lucis a second time, despite Team Cherry scheduling a major 'Cherry Time' presentation just days before its launch. The studio previously delayed the game by a year to avoid Hollow Knight: Silksong in 2025, but players have waited too long for the new release.",
-    "content": [
-      "In August 2025, Aeternum Game Studios announced that Aeterna Lucis, the sequel to the well-liked 2021 metroidvania Aeterna Noctis, would be delayed from its planned launch that September to sometime in 2026. The reason was monumental: Team Cherry surprised everyone by announcing that the Hollow Knight: Silksong launch was imminent, prompting Aeternum and many other developers to get out of the way of the blockbuster.",
-      "Now, history is repeating itself. Team Cherry announced that Cherry Time is coming on November 27, featuring exciting announcements and an update on Hollow Knight: Silksong - Sea of Sorrow, the expansion announced in December 2025. While some fans hope for a definitive release date, Aeternum has declared that this time it is standing firm in its release schedule.",
-      "In an 'Official Statement: Part 2' message directed at Team Cherry, Aeternum acknowledged the painful timing. Although stepping aside a year ago was one of the best decisions they ever made—allowing them to polish the game and enjoy Silksong as fans—they refuse to make fans wait any longer for the Queen of Light. Aeterna Lucis is locked in to launch on Steam on December 3.",
-      "While some might view the studio's public message as opportunistic marketing to leverage the sudden Silksong hype cycle, it highlights a very real competitive risk. Because Aeterna Lucis and Hollow Knight: Silksong share the exact same fantasy metroidvania genre, a major drop from Team Cherry could cut deeply into Aeternum's player base right at launch.",
-      "Aeterna Lucis is scheduled to launch on Steam on December 3, while Team Cherry's broadcast will kick off at 10 am ET on November 27. Despite the apparent frustration and potential spotlight-stealing, Aeternum is taking the clash in stride with a humorous plea to the developers."
-    ],
-    "highlights": [
-      "Aeternum Game Studios refuses to delay Aeterna Lucis a second time despite a competing Team Cherry event.",
-      "Team Cherry announced a 'Cherry Time' showcase for November 27 featuring updates on the Silksong - Sea of Sorrow expansion.",
-      "Aeterna Lucis launches on Steam on December 3, just days after the Team Cherry broadcast.",
-      "Both games are fantasy metroidvanias, creating intense genre competition and potential audience crossover."
-    ],
-    "socialPulse": {
-      "sentiment": "Mixed",
-      "viralPlatforms": [
-        "X / Twitter",
-        "Reddit",
-        "YouTube"
-      ],
-      "summary": "Gamers on social media are torn between expressing sympathy for Aeternum's hilariously unfortunate timing and hyping up whatever Team Cherry is about to reveal. Some fans praise Aeternum for sticking to its guns and respecting players' wait times, while others worry the metroidvania spotlight will be completely swallowed by Silksong news.",
-      "viewpoints": [
-        {
-          "stance": "Sympathetic to Aeternum",
-          "detail": "Many players believe the universe has a cruel sense of humor toward Aeternum and praise the studio for bravely holding its ground. Fans note that waiting an extra year was enough sacrifice and agree it is time to finally release the game."
-        },
-        {
-          "stance": "Excited for Silksong News",
-          "detail": "On the other side, dedicated Hollow Knight fans are completely focused on the upcoming Cherry Time broadcast and potential Sea of Sorrow updates. They argue that Team Cherry operates on its own timeline and cannot pause announcements for other developers."
-        }
-      ]
-    },
-    "category": "PC",
-    "gameTitle": "Hollow Knight: Silksong",
-    "gameScale": "Indie",
-    "fanbaseScore": 10,
-    "isUpcoming": true,
-    "isRumor": false,
-    "releaseWindow": "Dec 3, 2026",
-    "isControversy": false,
-    "controversyAngle": "",
-    "isTrending": false,
-    "importance": 7,
-    "source": "PC Gamer",
-    "url": "https://www.pcgamer.com/games/action/dev-team-who-delayed-their-game-a-year-to-avoid-silksong-says-they-wont-do-it-again-for-whatever-team-cherry-announces-tomorrow-this-time-were-staying-put",
-    "image": "https://cdn.mos.cms.futurecdn.net/SK9qm2fZ6UsQLxkoi24YSG-1920-80.jpg",
-    "publishedAt": "2026-11-26T18:31:22.000Z"
-  },
-  {
     "id": "9a07cb2f9a5d14e8",
     "title": "GTA 6 Modders Try Vibe-Coding a PC Port with AI, But It’s Going Disastrously",
     "summary": "PC modders are attempting to create an unofficial GTA 6 PC port using leaked console builds and generative AI, but the project is struggling immensely. Amidst legal pressures from Take-Two Interactive and chaotic development streams, the community remains deeply divided on the methods being used.",
@@ -2094,43 +2142,44 @@
     "publishedAt": "2026-11-25T16:05:50.000Z"
   },
   {
-    "id": "82920a4d6424e046",
-    "title": "Aeterna Lucis Dev Braces For Impact As Silksong Announces Fresh Showcase",
-    "summary": "After delaying Aeterna Lucis to December 2026 specifically to escape Hollow Knight: Silksong's launch window, indie developer Aeternum Game Studios is now facing a new collision course. Team Cherry has announced an upcoming 'Cherry Time' special presentation featuring updates on the Sea of Sorrow DLC, threatening to overshadow indie releases yet again.",
+    "id": "d10f9b53074a563c",
+    "title": "Aeternum Refuses to Delay Metroidvania Again as Team Cherry Announces New 'Cherry Time' Showcase",
+    "summary": "Aeternum Game Studios has announced it will not delay its upcoming metroidvania Aeterna Lucis a second time, despite Team Cherry scheduling a major 'Cherry Time' presentation just days before its launch. The studio previously delayed the game by a year to avoid Hollow Knight: Silksong in 2025, but players have waited too long for the new release.",
     "content": [
-      "The gaming universe seemingly has a cruel sense of humor when it comes to scheduling around Team Cherry's elusive masterpieces. Last year, a multitude of independent developers hastily pushed back their launch schedules to avoid the massive blast radius of Hollow Knight: Silksong. Among them was Aeternum Game Studios, which made the calculated decision to delay its upcoming metroidvania title, Aeterna Lucis, all the way to December 3rd, 2026, to ensure it occupied a safe distance from whatever the powerhouse indie developer was cooking up.",
-      "However, that carefully laid plan appears to be facing a new hurdle. Yesterday, Team Cherry abruptly announced an upcoming 'Cherry Time' special presentation slated for November 27th. The broadcast promises fresh news, official studio announcements, and a long-awaited update on the hotly anticipated Sea of Sorrow DLC, instantly commanding the attention of the entire gaming community and suffocating the oxygen out of the news cycle for concurrent indie titles.",
-      "The sudden timing of the presentation has sent a wave of bittersweet amusement and dread through indie development circles and player communities alike, popularized by spaces like Steam Hype. Developers who thought they successfully navigated the Silksong minefield by choosing a distant release date are now realizing that Team Cherry's ongoing content pipeline and promotional events can disrupt release schedules at literally any given moment.",
-      "While Aeterna Lucis still holds its firm December 2026 release date, the looming presence of the 'Cherry Time' showcase highlights the immense gravitational pull that Team Cherry exerts over the entire metroidvania genre. Whether the Sea of Sorrow DLC will launch immediately or simply occupy the headlines for weeks to come remains to be seen, but smaller studios are once again forced to watch and adapt to the unpredictable behemoth of the indie scene."
+      "In August 2025, Aeternum Game Studios announced that Aeterna Lucis, the sequel to the well-liked 2021 metroidvania Aeterna Noctis, would be delayed from its planned launch that September to sometime in 2026. The reason was monumental: Team Cherry surprised everyone by announcing that the Hollow Knight: Silksong launch was imminent, prompting Aeternum and many other developers to get out of the way of the blockbuster.",
+      "Now, history is repeating itself. Team Cherry announced that Cherry Time is coming on November 27, featuring exciting announcements and an update on Hollow Knight: Silksong - Sea of Sorrow, the expansion announced in December 2025. While some fans hope for a definitive release date, Aeternum has declared that this time it is standing firm in its release schedule.",
+      "In an 'Official Statement: Part 2' message directed at Team Cherry, Aeternum acknowledged the painful timing. Although stepping aside a year ago was one of the best decisions they ever made—allowing them to polish the game and enjoy Silksong as fans—they refuse to make fans wait any longer for the Queen of Light. Aeterna Lucis is locked in to launch on Steam on December 3.",
+      "While some might view the studio's public message as opportunistic marketing to leverage the sudden Silksong hype cycle, it highlights a very real competitive risk. Because Aeterna Lucis and Hollow Knight: Silksong share the exact same fantasy metroidvania genre, a major drop from Team Cherry could cut deeply into Aeternum's player base right at launch.",
+      "Aeterna Lucis is scheduled to launch on Steam on December 3, while Team Cherry's broadcast will kick off at 10 am ET on November 27. Despite the apparent frustration and potential spotlight-stealing, Aeternum is taking the clash in stride with a humorous plea to the developers."
     ],
     "highlights": [
-      "Aeterna Lucis previously delayed its release to December 3rd, 2026, to avoid colliding with Hollow Knight: Silksong.",
-      "Team Cherry has unexpectedly announced a 'Cherry Time' special presentation for November 27th.",
-      "The showcase will feature studio updates and news on the highly anticipated Sea of Sorrow DLC.",
-      "Indie developers are once again bracing for potential marketing and attention overlap with Team Cherry's massive fanbase."
+      "Aeternum Game Studios refuses to delay Aeterna Lucis a second time despite a competing Team Cherry event.",
+      "Team Cherry announced a 'Cherry Time' showcase for November 27 featuring updates on the Silksong - Sea of Sorrow expansion.",
+      "Aeterna Lucis launches on Steam on December 3, just days after the Team Cherry broadcast.",
+      "Both games are fantasy metroidvanias, creating intense genre competition and potential audience crossover."
     ],
     "socialPulse": {
       "sentiment": "Mixed",
       "viralPlatforms": [
-        "Steam",
         "X / Twitter",
-        "Reddit"
+        "Reddit",
+        "YouTube"
       ],
-      "summary": "Gamers on social media are heavily amused by the comedic timing of Team Cherry's announcement, joking that the universe actively conspires against any indie game trying to breathe. At the same time, fans of Hollow Knight are wildly hyped for the Sea of Sorrow DLC news, while some community members express genuine sympathy for developers like Aeternum Game Studios who keep getting caught in the crossfire.",
+      "summary": "Gamers on social media are torn between expressing sympathy for Aeternum's hilariously unfortunate timing and hyping up whatever Team Cherry is about to reveal. Some fans praise Aeternum for sticking to its guns and respecting players' wait times, while others worry the metroidvania spotlight will be completely swallowed by Silksong news.",
       "viewpoints": [
         {
-          "stance": "Pure Hype for Team Cherry",
-          "detail": "Many fans couldn't care less about scheduling conflicts, expressing absolute elation that 'Cherry Time' is finally bringing concrete updates and DLC news. For this side of the community, any day with official Team Cherry communication is an immediate win."
+          "stance": "Sympathetic to Aeternum",
+          "detail": "Many players believe the universe has a cruel sense of humor toward Aeternum and praise the studio for bravely holding its ground. Fans note that waiting an extra year was enough sacrifice and agree it is time to finally release the game."
         },
         {
-          "stance": "Sympathy for Rival Indies",
-          "detail": "Other players pointed out how genuinely unlucky Aeternum Game Studios is, having delayed their game by years only to land squarely in the path of a major DLC blowout. Commenters noted that competing for oxygen against Silksong-related content is practically impossible for smaller teams."
+          "stance": "Excited for Silksong News",
+          "detail": "On the other side, dedicated Hollow Knight fans are completely focused on the upcoming Cherry Time broadcast and potential Sea of Sorrow updates. They argue that Team Cherry operates on its own timeline and cannot pause announcements for other developers."
         }
       ]
     },
-    "category": "Industry",
+    "category": "PC",
     "gameTitle": "Hollow Knight: Silksong",
-    "gameScale": "AA",
+    "gameScale": "Indie",
     "fanbaseScore": 10,
     "isUpcoming": true,
     "isRumor": false,
@@ -2138,11 +2187,11 @@
     "isControversy": false,
     "controversyAngle": "",
     "isTrending": false,
-    "importance": 6,
-    "source": "Nintendo Life",
-    "url": "https://www.nintendolife.com/news/2026/11/here-we-go-again-after-delaying-for-silksong-indie-dev-braces-for-a-sea-of-sorrow-clash",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030300/26950369fe4b03c2268620eb9815c8a246aa0b06/ss_26950369fe4b03c2268620eb9815c8a246aa0b06.1920x1080.jpg?t=1776125736",
-    "publishedAt": "2026-11-26T12:45:00.000Z"
+    "importance": 7,
+    "source": "PC Gamer",
+    "url": "https://www.pcgamer.com/games/action/dev-team-who-delayed-their-game-a-year-to-avoid-silksong-says-they-wont-do-it-again-for-whatever-team-cherry-announces-tomorrow-this-time-were-staying-put",
+    "image": "https://cdn.mos.cms.futurecdn.net/SK9qm2fZ6UsQLxkoi24YSG-1920-80.jpg",
+    "publishedAt": "2026-11-26T18:31:22.000Z"
   },
   {
     "id": "b8c6187274659fc6",
@@ -2197,6 +2246,57 @@
     "publishedAt": "2026-11-25T10:38:50.000Z"
   },
   {
+    "id": "82920a4d6424e046",
+    "title": "Aeterna Lucis Dev Braces For Impact As Silksong Announces Fresh Showcase",
+    "summary": "After delaying Aeterna Lucis to December 2026 specifically to escape Hollow Knight: Silksong's launch window, indie developer Aeternum Game Studios is now facing a new collision course. Team Cherry has announced an upcoming 'Cherry Time' special presentation featuring updates on the Sea of Sorrow DLC, threatening to overshadow indie releases yet again.",
+    "content": [
+      "The gaming universe seemingly has a cruel sense of humor when it comes to scheduling around Team Cherry's elusive masterpieces. Last year, a multitude of independent developers hastily pushed back their launch schedules to avoid the massive blast radius of Hollow Knight: Silksong. Among them was Aeternum Game Studios, which made the calculated decision to delay its upcoming metroidvania title, Aeterna Lucis, all the way to December 3rd, 2026, to ensure it occupied a safe distance from whatever the powerhouse indie developer was cooking up.",
+      "However, that carefully laid plan appears to be facing a new hurdle. Yesterday, Team Cherry abruptly announced an upcoming 'Cherry Time' special presentation slated for November 27th. The broadcast promises fresh news, official studio announcements, and a long-awaited update on the hotly anticipated Sea of Sorrow DLC, instantly commanding the attention of the entire gaming community and suffocating the oxygen out of the news cycle for concurrent indie titles.",
+      "The sudden timing of the presentation has sent a wave of bittersweet amusement and dread through indie development circles and player communities alike, popularized by spaces like Steam Hype. Developers who thought they successfully navigated the Silksong minefield by choosing a distant release date are now realizing that Team Cherry's ongoing content pipeline and promotional events can disrupt release schedules at literally any given moment.",
+      "While Aeterna Lucis still holds its firm December 2026 release date, the looming presence of the 'Cherry Time' showcase highlights the immense gravitational pull that Team Cherry exerts over the entire metroidvania genre. Whether the Sea of Sorrow DLC will launch immediately or simply occupy the headlines for weeks to come remains to be seen, but smaller studios are once again forced to watch and adapt to the unpredictable behemoth of the indie scene."
+    ],
+    "highlights": [
+      "Aeterna Lucis previously delayed its release to December 3rd, 2026, to avoid colliding with Hollow Knight: Silksong.",
+      "Team Cherry has unexpectedly announced a 'Cherry Time' special presentation for November 27th.",
+      "The showcase will feature studio updates and news on the highly anticipated Sea of Sorrow DLC.",
+      "Indie developers are once again bracing for potential marketing and attention overlap with Team Cherry's massive fanbase."
+    ],
+    "socialPulse": {
+      "sentiment": "Mixed",
+      "viralPlatforms": [
+        "Steam",
+        "X / Twitter",
+        "Reddit"
+      ],
+      "summary": "Gamers on social media are heavily amused by the comedic timing of Team Cherry's announcement, joking that the universe actively conspires against any indie game trying to breathe. At the same time, fans of Hollow Knight are wildly hyped for the Sea of Sorrow DLC news, while some community members express genuine sympathy for developers like Aeternum Game Studios who keep getting caught in the crossfire.",
+      "viewpoints": [
+        {
+          "stance": "Pure Hype for Team Cherry",
+          "detail": "Many fans couldn't care less about scheduling conflicts, expressing absolute elation that 'Cherry Time' is finally bringing concrete updates and DLC news. For this side of the community, any day with official Team Cherry communication is an immediate win."
+        },
+        {
+          "stance": "Sympathy for Rival Indies",
+          "detail": "Other players pointed out how genuinely unlucky Aeternum Game Studios is, having delayed their game by years only to land squarely in the path of a major DLC blowout. Commenters noted that competing for oxygen against Silksong-related content is practically impossible for smaller teams."
+        }
+      ]
+    },
+    "category": "Industry",
+    "gameTitle": "Hollow Knight: Silksong",
+    "gameScale": "AA",
+    "fanbaseScore": 10,
+    "isUpcoming": true,
+    "isRumor": false,
+    "releaseWindow": "Dec 3, 2026",
+    "isControversy": false,
+    "controversyAngle": "",
+    "isTrending": false,
+    "importance": 6,
+    "source": "Nintendo Life",
+    "url": "https://www.nintendolife.com/news/2026/11/here-we-go-again-after-delaying-for-silksong-indie-dev-braces-for-a-sea-of-sorrow-clash",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030300/26950369fe4b03c2268620eb9815c8a246aa0b06/ss_26950369fe4b03c2268620eb9815c8a246aa0b06.1920x1080.jpg?t=1776125736",
+    "publishedAt": "2026-11-26T12:45:00.000Z"
+  },
+  {
     "id": "e2c43226f318ed7b",
     "title": "How The Witcher 3 Forced Playground Games to Rethink the Upcoming Fable Reboot",
     "summary": "Playground Games reveals that the upcoming Fable reboot had to look far beyond Lionhead's original trilogy due to modern benchmarks like The Witcher 3. Studio founder Ralph Fulton explained that open-world action RPG expectations changed dramatically over the last decade, requiring the team to blend classic British wit with modern systemic design.",
@@ -2249,56 +2349,6 @@
     "publishedAt": "2026-11-25T19:57:10.000Z"
   },
   {
-    "id": "d23df75e19084542",
-    "title": "HARK THE GHOUL Launches January 21, 2027 Across All Major Platforms",
-    "summary": "Dungeon crawler Hark the Ghoul has officially locked in a release date of January 21, 2027. The game is scheduled to launch simultaneously across PlayStation 5, Xbox Series, Switch 2, Switch, and PC.",
-    "content": [
-      "Dungeon crawler Hark the Ghoul has officially received a confirmed release date, bringing excitement to fans of the genre. Developer and publisher details point toward a massive multiplatform rollout scheduled for early 2027.",
-      "The title will be coming to a wide array of current and next-generation platforms. Specifically, players will be able to experience Hark the Ghoul on PlayStation 5, Xbox Series X/S, PC, Nintendo Switch, and the upcoming successor console tentatively referred to as the Switch 2.",
-      "This broad hardware support ensures that almost the entire console and PC gaming ecosystem will have access to the dungeon crawler on day one. Cross-generation and next-generation releases highlight the developer's ambition to reach players wherever they play.",
-      "With the release date set for January 21, 2027, fans now have a concrete timeline to look forward to. More gameplay details and platform-specific features are expected to be revealed as the launch window approaches."
-    ],
-    "highlights": [
-      "Hark the Ghoul launches on January 21, 2027.",
-      "Releasing across PlayStation 5, Xbox Series, PC, Switch, and Switch 2.",
-      "Positioned as a multiplatform dungeon crawler experience."
-    ],
-    "socialPulse": {
-      "sentiment": "Hyped",
-      "viralPlatforms": [
-        "X / Twitter",
-        "Reddit",
-        "YouTube"
-      ],
-      "summary": "The announcement of a wide multiplatform release date for Hark the Ghoul has generated significant excitement across online gaming communities. Fans are particularly thrilled about the inclusion of the Switch 2 alongside current-generation hardware.",
-      "viewpoints": [
-        {
-          "stance": "Excited for Switch 2 Support",
-          "detail": "Many players are thrilled to see the upcoming Nintendo successor included in the day-one lineup. It signals strong confidence in the new hardware's capabilities."
-        },
-        {
-          "stance": "Broad Platform Access",
-          "detail": "Gamers appreciate that the developers are not locking the title to a single ecosystem. Simultaneous releases across PC and all major consoles are seen as a major win."
-        }
-      ]
-    },
-    "category": "Console",
-    "gameTitle": "Hark the Ghoul",
-    "gameScale": "AA",
-    "fanbaseScore": 6,
-    "isUpcoming": true,
-    "isRumor": false,
-    "releaseWindow": "Jan 21, 2027",
-    "isControversy": false,
-    "controversyAngle": "",
-    "isTrending": false,
-    "importance": 6,
-    "source": "Gematsu",
-    "url": "https://www.gematsu.com/2026/11/hark-the-ghoul-launches-january-21-2027-for-ps5-xbox-series-switch-2-switch-and-pc",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3058660/5b0e4283073fca82f3cfbd6b7990416663dcf7bd/ss_5b0e4283073fca82f3cfbd6b7990416663dcf7bd.1920x1080.jpg?t=1795726221",
-    "publishedAt": "2026-11-26T15:50:27.000Z"
-  },
-  {
     "id": "972ac98d85ae0ca3",
     "title": "Diablo 4 is Making Its Most Nostalgic Season Permanently Playable",
     "summary": "Blizzard has announced that due to overwhelming community demand, much of Diablo 4's nostalgic Season 15, Hell's Legacy, will carry forward permanently ahead of Season 16. Players can look forward to keeping classic boss encounters, legacy unique items, and even the secret cow island when the next update arrives.",
@@ -2348,6 +2398,56 @@
     "url": "https://www.gamespot.com/articles/diablo-4s-most-nostalgic-season-is-becoming-mostly-permanent",
     "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Diablo-4-Hells-Legacy-Season-Becoming-Permanent.jpg?w=1200",
     "publishedAt": "2026-11-25T18:29:11.000Z"
+  },
+  {
+    "id": "d23df75e19084542",
+    "title": "HARK THE GHOUL Launches January 21, 2027 Across All Major Platforms",
+    "summary": "Dungeon crawler Hark the Ghoul has officially locked in a release date of January 21, 2027. The game is scheduled to launch simultaneously across PlayStation 5, Xbox Series, Switch 2, Switch, and PC.",
+    "content": [
+      "Dungeon crawler Hark the Ghoul has officially received a confirmed release date, bringing excitement to fans of the genre. Developer and publisher details point toward a massive multiplatform rollout scheduled for early 2027.",
+      "The title will be coming to a wide array of current and next-generation platforms. Specifically, players will be able to experience Hark the Ghoul on PlayStation 5, Xbox Series X/S, PC, Nintendo Switch, and the upcoming successor console tentatively referred to as the Switch 2.",
+      "This broad hardware support ensures that almost the entire console and PC gaming ecosystem will have access to the dungeon crawler on day one. Cross-generation and next-generation releases highlight the developer's ambition to reach players wherever they play.",
+      "With the release date set for January 21, 2027, fans now have a concrete timeline to look forward to. More gameplay details and platform-specific features are expected to be revealed as the launch window approaches."
+    ],
+    "highlights": [
+      "Hark the Ghoul launches on January 21, 2027.",
+      "Releasing across PlayStation 5, Xbox Series, PC, Switch, and Switch 2.",
+      "Positioned as a multiplatform dungeon crawler experience."
+    ],
+    "socialPulse": {
+      "sentiment": "Hyped",
+      "viralPlatforms": [
+        "X / Twitter",
+        "Reddit",
+        "YouTube"
+      ],
+      "summary": "The announcement of a wide multiplatform release date for Hark the Ghoul has generated significant excitement across online gaming communities. Fans are particularly thrilled about the inclusion of the Switch 2 alongside current-generation hardware.",
+      "viewpoints": [
+        {
+          "stance": "Excited for Switch 2 Support",
+          "detail": "Many players are thrilled to see the upcoming Nintendo successor included in the day-one lineup. It signals strong confidence in the new hardware's capabilities."
+        },
+        {
+          "stance": "Broad Platform Access",
+          "detail": "Gamers appreciate that the developers are not locking the title to a single ecosystem. Simultaneous releases across PC and all major consoles are seen as a major win."
+        }
+      ]
+    },
+    "category": "Console",
+    "gameTitle": "Hark the Ghoul",
+    "gameScale": "AA",
+    "fanbaseScore": 6,
+    "isUpcoming": true,
+    "isRumor": false,
+    "releaseWindow": "Jan 21, 2027",
+    "isControversy": false,
+    "controversyAngle": "",
+    "isTrending": false,
+    "importance": 6,
+    "source": "Gematsu",
+    "url": "https://www.gematsu.com/2026/11/hark-the-ghoul-launches-january-21-2027-for-ps5-xbox-series-switch-2-switch-and-pc",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3058660/5b0e4283073fca82f3cfbd6b7990416663dcf7bd/ss_5b0e4283073fca82f3cfbd6b7990416663dcf7bd.1920x1080.jpg?t=1795726221",
+    "publishedAt": "2026-11-26T15:50:27.000Z"
   },
   {
     "id": "d529c02e67cb8bca",
