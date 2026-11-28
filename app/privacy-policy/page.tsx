@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { getSiteUrl } from "@/lib/site";
+import { CONTACT_EMAIL, getSiteUrl } from "@/lib/site";
 
 const siteUrl = getSiteUrl();
 
@@ -93,10 +93,10 @@ export default function PrivacyPolicyPage() {
           <p className="mt-2">
             For any privacy questions, contact{" "}
             <a
-              href="mailto:ywanth224@gmail.com"
+              href={`mailto:${CONTACT_EMAIL}`}
               className="font-semibold underline decoration-[#e11d3a] underline-offset-4 dark:decoration-[#ff2e4c]"
             >
-              ywanth224@gmail.com
+              {CONTACT_EMAIL}
             </a>
             .
           </p>
