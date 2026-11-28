@@ -1,1 +1,104 @@
-[]
+[
+  {
+    "id": "e4fff56798a6a668",
+    "title": "Capcom's Exoprimal Faces the Extinction: PS5 Game to Be Delisted",
+    "summary": "Capcom has announced that its multiplayer dinosaur shooter Exoprimal will be delisted in March 2027, with servers shutting down entirely later that year in September. The official end of service announcement was published directly on the Exoprimal website, expressing gratitude to the player base while apologizing for the sudden news.",
+    "content": [
+      "Capcom has officially confirmed that its cooperative multiplayer title Exoprimal is heading toward a complete shutdown. According to an end-of-service announcement posted on the official website, the game will be delisted from digital storefronts in March 2027.",
+      "Following the upcoming delisting, Capcom plans to completely pull the plug on the game's servers in September 2027. This effectively ends the online-focused experience for all players who have engaged with the dinosaur-slaying action since its launch.",
+      "In the official announcement, the development and publishing team expressed deep gratitude to their community. The statement read: 'We cannot thank you enough for the love and support you have shown over the years, and we sincerely apologize for the gravity of this announcement.'",
+      "The decision marks a significant closure for the multiplayer project, which relied entirely on online connectivity and teamwork to battle hordes of prehistoric beasts. Players now have a limited multi-year window to enjoy the game before it disappears from storefronts and active service permanently."
+    ],
+    "highlights": [
+      "Capcom is officially delisting Exoprimal in March 2027.",
+      "Game servers will permanently shut down in September 2027.",
+      "An official end-of-service statement was published on the game's website.",
+      "Developers expressed sincere apologies and gratitude to the loyal player base."
+    ],
+    "socialPulse": {
+      "sentiment": "Mixed",
+      "viralPlatforms": [
+        "X / Twitter",
+        "Reddit",
+        "YouTube"
+      ],
+      "summary": "Fans on social media are expressing a mix of sadness over the closure and frustration regarding the fragile nature of live-service multiplayer games. While some acknowledge the game's niche appeal and dwindling player base, others criticize the industry trend of rendering purchased games completely unplayable.",
+      "viewpoints": [
+        {
+          "stance": "Understandable Reality",
+          "detail": "Some community members acknowledge that lower player counts made a server shutdown inevitable for an exclusively online multiplayer game. They appreciate that Capcom gave a long advance notice rather than pulling the plug overnight."
+        },
+        {
+          "stance": "Live-Service Frustration",
+          "detail": "Other players voice deep disappointment over losing access to a title they financially supported. They point out how disappointing it is that games built entirely around online features become completely unusable once publishers pull server support."
+        }
+      ]
+    },
+    "category": "Console",
+    "gameTitle": "Exoprimal",
+    "gameScale": "AAA",
+    "fanbaseScore": 6,
+    "isUpcoming": true,
+    "isRumor": false,
+    "releaseWindow": "Sept 2027",
+    "isControversy": false,
+    "controversyAngle": "",
+    "isTrending": false,
+    "importance": 5,
+    "source": "Push Square",
+    "url": "https://www.pushsquare.com/news/2026/11/another-big-ps5-game-will-be-delisted-in-the-coming-months",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286320/ss_dcba3dc9938cd9a284aa0449a1e69c8d7f5dbf0a.1920x1080.jpg?t=1795568630",
+    "publishedAt": "2026-11-25T10:00:00.000Z"
+  },
+  {
+    "id": "ab77b91738807404",
+    "title": "Digital Foundry: Xbox Series X Outperforms Base PS5 in GTA 6 Performance Analysis",
+    "summary": "Recent technical analysis from Digital Foundry indicates that Grand Theft Auto 6 maintains a more stable 30fps frame-rate on the Xbox Series X compared to the base PlayStation 5. While the PS5 Pro claims the overall crown, the findings highlight a historical trend of Microsoft consoles handling Rockstar's massive open worlds with greater consistency.",
+    "content": [
+      "A comprehensive performance analysis by the tech experts at Digital Foundry has revealed that the Xbox Series X is reportedly the best non-Pro console to experience Grand Theft Auto 6, offering a more stable frame-rate than the base PlayStation 5. While both current-generation base consoles target a 30fps frame-rate, heavy workload sequences featuring dense crowds and high-speed vehicle traversal expose distinct performance variations.",
+      "According to the report, the base PS5 experiences substantially more frequent frame-rate dips during intensive sequences, dropping down into the mid-to-high 20fps range. In contrast, the Xbox Series X manages these demanding sections with greater consistency and benefits heavily from its native support for 120Hz Variable Refresh Rate, which further smooths out minor performance variations.",
+      "Unsurprisingly, the PlayStation 5 Pro delivers the definitive console experience thanks to a lack of competing mid-generation upgrades from Microsoft, utilizing its PSSR upscaler to deliver sharp 4K visuals from a 1440p base. However, the superior performance of the standard Xbox Series X over the base PS5 echoes historical trends, reminiscent of Red Dead Redemption 2's launch in 2018 where the Xbox One X similarly provided the most stable 30fps experience.",
+      "Despite Rockstar's historically close marketing alignment with PlayStation, these hardware comparisons raise fresh questions about the technical optimization of the upcoming open-world epic. With no 60fps or 40fps performance modes confirmed even for the PS5 Pro, players are left wondering what PC specifications will eventually be required, even as community modders already prepare to tackle a future PC port."
+    ],
+    "highlights": [
+      "Xbox Series X demonstrates a more stable 30fps frame-rate than the base PS5 during dense crowd and fast-driving sequences.",
+      "The PlayStation 5 Pro leads all consoles with superior stability and 4K upscaling via PSSR, though it lacks 60fps or 40fps modes.",
+      "Xbox Series X benefits from 120Hz Variable Refresh Rate support to help smooth out minor frame-rate dips.",
+      "The performance gap echoes Red Dead Redemption 2's launch in 2018, where Microsoft's hardware similarly offered the most stable base experience."
+    ],
+    "socialPulse": {
+      "sentiment": "Mixed",
+      "viralPlatforms": [
+        "X / Twitter",
+        "Reddit",
+        "YouTube"
+      ],
+      "summary": "Gamers across social media are actively debating the technical limitations of current-generation hardware regarding GTA 6's locked 30fps target. While Xbox fans are celebrating the hardware validation, PlayStation users and general players are expressing frustration over the lack of a 60fps mode across all standard consoles, including the expensive PS5 Pro.",
+      "viewpoints": [
+        {
+          "stance": "Hardware Vindication",
+          "detail": "Xbox owners are feeling validated by the Digital Foundry report, highlighting that Microsoft's console delivers a smoother baseline experience than the standard PS5. Fans are pointing to the inclusion of VRR and better raw frame stability as a quiet win for the Series X."
+        },
+        {
+          "stance": "Framerate Frustration",
+          "detail": "Many players across the community are expressing disappointment that a massive release like GTA 6 remains locked at 30fps even on high-end hardware like the PS5 Pro. Critics argue that paying mid-generation upgrade prices should guarantee higher performance thresholds."
+        }
+      ]
+    },
+    "category": "Console",
+    "gameTitle": "Grand Theft Auto 6",
+    "gameScale": "AAA",
+    "fanbaseScore": 10,
+    "isUpcoming": true,
+    "isRumor": false,
+    "releaseWindow": "TBA",
+    "isControversy": false,
+    "controversyAngle": "",
+    "isTrending": false,
+    "importance": 9,
+    "source": "Eurogamer",
+    "url": "https://www.eurogamer.net/grand-theft-auto-6-frame-rate-xbox-series-x-ps5",
+    "image": "https://assetsio.gnwcdn.com/GTA_6_Mission_List_4.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "publishedAt": "2026-11-25T09:15:10.000Z"
+  }
+]

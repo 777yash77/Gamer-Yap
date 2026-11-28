@@ -255,57 +255,6 @@
     "publishedAt": "2026-11-27T20:02:54.000Z"
   },
   {
-    "id": "26b2236e32a8dd4e",
-    "title": "Warframe's Massive Tau Update Arrives This December",
-    "summary": "Digital Extremes has officially announced that Warframe's highly anticipated Tau update will launch on Wednesday, December 9. Featuring an entirely new star system, a noir-inspired planetary setting, new game modes, and fresh narrative content, developers describe it as the biggest swing yet for the shape of the game.",
-    "content": [
-      "Warframe's long-awaited Tau update finally has a confirmed release date, arriving on Wednesday, December 9. Creative Director Rebecca Ford describes the addition of the game's first new star system as 'the biggest swing we could do for the shape of the game,' noting that it represents just the start of Tau's evolution.",
-      "The update introduces two main regions to explore: Fornax, a Sentient, noir-inspired primary planet, alongside its moon, Perita. Players will experience a two-hour quest, new additions like Kullervo Prime, a new Syndicate called The Fornax Informer, and a chill walking simulator mode featuring a dog.",
-      "Fornax features three hub areas—Lastbloom Lounge, Elder Rustgarden, and Manifold 90-BF—offering a fully connected experience. Players can navigate between zones using flying cars or enjoy a low-stakes Night Walk to gather resources while accompanied by a Sentient pooch named Laika.",
-      "The update brings six game modes, including Survival, Exterminate, Racket, and Mayhem, alongside a remixed version of the Spy mission tailored to the detective theme of the new Chimera Frame, Brysko. Steel Path mode also returns, pitting players against the Hokra Brothers instead of Acolytes."
-    ],
-    "highlights": [
-      "Tau update launches on Wednesday, December 9.",
-      "Introduces Warframe's first-ever new star system.",
-      "Features a noir-inspired setting with three unique hub areas and new game modes.",
-      "Includes the new Chimera Frame Brysko and romance elements at Lastbloom Lounge."
-    ],
-    "socialPulse": {
-      "sentiment": "Hyped",
-      "viralPlatforms": [
-        "X / Twitter",
-        "Reddit",
-        "Discord"
-      ],
-      "summary": "Players across social media are expressing immense excitement over the noir aesthetic, the scale of the second solar system, and unique additions like the virtual card game Portau and romanceable characters. The community is buzzing with anticipation, comparing the ambitious scope of the update to a full sequel.",
-      "viewpoints": [
-        {
-          "stance": "Excited for the Noir Aesthetic",
-          "detail": "Many fans are thrilled by the shift toward a gritty, detective-themed atmosphere complete with flying cars and lounge singers. They feel this creative direction breathes fresh life into the long-running live-service game."
-        },
-        {
-          "stance": "Awe at the Scale",
-          "detail": "Community members are amazed that Digital Extremes is adding an entire second star system instead of making a standalone sequel. They praise the studio for continuously taking massive risks and expanding the game's boundaries."
-        }
-      ]
-    },
-    "category": "PC",
-    "gameTitle": "Warframe",
-    "gameScale": "AAA",
-    "fanbaseScore": 9,
-    "isUpcoming": true,
-    "isRumor": false,
-    "releaseWindow": "December 9",
-    "isControversy": false,
-    "controversyAngle": "",
-    "isTrending": true,
-    "importance": 9,
-    "source": "PCGamesN",
-    "url": "https://www.pcgamesn.com/warframe/tau-release-date",
-    "image": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/11/warframe-tau-releate-date-update-fornax-perita-new-modes-brysko.jpg",
-    "publishedAt": "2026-11-27T20:00:00.000Z"
-  },
-  {
     "id": "733d83e59700c327",
     "title": "GTA 6 Scores Staggering 99 on Metacritic Amid User Review Bombing Debate",
     "summary": "Grand Theft Auto 6 has officially been out for a week, holding a massive 99 score on Metacritic alongside a 4.78 rating on the PlayStation Store based on hundreds of thousands of reviews. However, the blockbuster title has faced review bombing by frustrated users, once again igniting discussions regarding the legitimacy of user review scores.",
@@ -355,6 +304,57 @@
     "url": "https://www.pushsquare.com/features/poll-what-review-score-would-you-give-gta-6",
     "image": "https://cdn.mos.cms.futurecdn.net/qP2t3NgyYc4YTtxyNnMSoK-1920-80.jpg",
     "publishedAt": "2026-11-27T17:00:00.000Z"
+  },
+  {
+    "id": "26b2236e32a8dd4e",
+    "title": "Warframe's Massive Tau Update Arrives This December",
+    "summary": "Digital Extremes has officially announced that Warframe's highly anticipated Tau update will launch on Wednesday, December 9. Featuring an entirely new star system, a noir-inspired planetary setting, new game modes, and fresh narrative content, developers describe it as the biggest swing yet for the shape of the game.",
+    "content": [
+      "Warframe's long-awaited Tau update finally has a confirmed release date, arriving on Wednesday, December 9. Creative Director Rebecca Ford describes the addition of the game's first new star system as 'the biggest swing we could do for the shape of the game,' noting that it represents just the start of Tau's evolution.",
+      "The update introduces two main regions to explore: Fornax, a Sentient, noir-inspired primary planet, alongside its moon, Perita. Players will experience a two-hour quest, new additions like Kullervo Prime, a new Syndicate called The Fornax Informer, and a chill walking simulator mode featuring a dog.",
+      "Fornax features three hub areas—Lastbloom Lounge, Elder Rustgarden, and Manifold 90-BF—offering a fully connected experience. Players can navigate between zones using flying cars or enjoy a low-stakes Night Walk to gather resources while accompanied by a Sentient pooch named Laika.",
+      "The update brings six game modes, including Survival, Exterminate, Racket, and Mayhem, alongside a remixed version of the Spy mission tailored to the detective theme of the new Chimera Frame, Brysko. Steel Path mode also returns, pitting players against the Hokra Brothers instead of Acolytes."
+    ],
+    "highlights": [
+      "Tau update launches on Wednesday, December 9.",
+      "Introduces Warframe's first-ever new star system.",
+      "Features a noir-inspired setting with three unique hub areas and new game modes.",
+      "Includes the new Chimera Frame Brysko and romance elements at Lastbloom Lounge."
+    ],
+    "socialPulse": {
+      "sentiment": "Hyped",
+      "viralPlatforms": [
+        "X / Twitter",
+        "Reddit",
+        "Discord"
+      ],
+      "summary": "Players across social media are expressing immense excitement over the noir aesthetic, the scale of the second solar system, and unique additions like the virtual card game Portau and romanceable characters. The community is buzzing with anticipation, comparing the ambitious scope of the update to a full sequel.",
+      "viewpoints": [
+        {
+          "stance": "Excited for the Noir Aesthetic",
+          "detail": "Many fans are thrilled by the shift toward a gritty, detective-themed atmosphere complete with flying cars and lounge singers. They feel this creative direction breathes fresh life into the long-running live-service game."
+        },
+        {
+          "stance": "Awe at the Scale",
+          "detail": "Community members are amazed that Digital Extremes is adding an entire second star system instead of making a standalone sequel. They praise the studio for continuously taking massive risks and expanding the game's boundaries."
+        }
+      ]
+    },
+    "category": "PC",
+    "gameTitle": "Warframe",
+    "gameScale": "AAA",
+    "fanbaseScore": 9,
+    "isUpcoming": true,
+    "isRumor": false,
+    "releaseWindow": "December 9",
+    "isControversy": false,
+    "controversyAngle": "",
+    "isTrending": true,
+    "importance": 9,
+    "source": "PCGamesN",
+    "url": "https://www.pcgamesn.com/warframe/tau-release-date",
+    "image": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/11/warframe-tau-releate-date-update-fornax-perita-new-modes-brysko.jpg",
+    "publishedAt": "2026-11-27T20:00:00.000Z"
   },
   {
     "id": "7d38edd9ee5e6b11",
@@ -1326,57 +1326,6 @@
     "publishedAt": "2026-11-26T19:20:50.000Z"
   },
   {
-    "id": "23e8002a98c119dc",
-    "title": "Path of Exile 2 Boss Slams 'Truly Terrible' Game Reveals and Calls Out Blizzard",
-    "summary": "Path of Exile co-game director Jonathan Rogers recently criticized standard industry livestream practices at a DevGAMM conference, taking a direct jab at Blizzard for withholding the juiciest details until the very end. Rogers argued that game announcements should cut straight to exciting gameplay and core features to maintain player interest.",
-    "content": [
-      "Speaking at the DevGAMM FTW! games industry conference, Path of Exile co-game director Jonathan Rogers shared insights into how Grinding Gear Games handles its seasonal update schedules. Unlike many traditional game developers, GGG cuts straight to showing new gameplay features ahead of any preamble during its announcement livestreams, a strategy Rogers credits as a key driver behind the game's 13-year success.",
-      "According to Rogers, these announcement streams serve a dual purpose beyond mere marketing. They actively help dictate what features and content the development team should focus on with each update, ensuring that every new league is backed by genuinely exciting features that can successfully rally the player base.",
-      "During his presentation, Rogers did not shy away from critiquing broader industry trends, noting that he has witnessed numerous 'truly terrible livestreams for game announcements' before delivering a playful jab directly targeting Blizzard. While major studios often prefer a slower build-up featuring extensive introductions and detailed design breakdowns, Rogers believes holding the best reveals for the end wastes everyone's time.",
-      "Industry observers and journalists note that while traditional build-ups can sometimes drag on during deep-dive statistic reviews, hearing the direct thought process from developers can humanize studios for the audience. Nevertheless, Rogers' underlying message emphasizes that developers must accurately read the room and tailor their presentations to instantly capture community excitement rather than putting viewers to sleep."
-    ],
-    "highlights": [
-      "Path of Exile co-game director Jonathan Rogers criticized standard industry announcement streams at DevGAMM.",
-      "Rogers singled out Blizzard with a direct jab regarding lengthy and delayed game reveals.",
-      "Grinding Gear Games relies on cutting straight to gameplay to test whether a seasonal league concept is exciting enough to build.",
-      "Critics debate whether prolonged developer deep-dives humanize studio teams or simply drag on too long."
-    ],
-    "socialPulse": {
-      "sentiment": "Mixed",
-      "viralPlatforms": [
-        "X / Twitter",
-        "Reddit",
-        "YouTube"
-      ],
-      "summary": "Social media users are heavily debating the pacing of modern game developer livestreams, with many players agreeing that traditional update streams often include too much filler. Some community members appreciate the deep dives into stats and humanizing the developers behind the screens, while others strongly prefer Grinding Gear Games' fast-paced, gameplay-first approach.",
-      "viewpoints": [
-        {
-          "stance": "Cut to the Chase",
-          "detail": "Many players agree with Jonathan Rogers that prolonged introductions and delayed reveals waste time and drain excitement. Gamers want to see major gameplay features and new content immediately to decide if an update is worth returning for."
-        },
-        {
-          "stance": "Appreciate the Context",
-          "detail": "Other community members enjoy hearing developer thought processes and detailed statistical breakdowns. They feel this transparency reminds audiences that real humans are building the games and provides valuable insight into design decisions."
-        }
-      ]
-    },
-    "category": "Industry",
-    "gameTitle": "Path of Exile 2",
-    "gameScale": "AAA",
-    "fanbaseScore": 9,
-    "isUpcoming": false,
-    "isRumor": false,
-    "releaseWindow": "",
-    "isControversy": false,
-    "controversyAngle": "",
-    "isTrending": false,
-    "importance": 6,
-    "source": "PC Gamer",
-    "url": "https://www.pcgamer.com/games/rpg/blizzard-im-looking-at-you-path-of-exile-2-boss-criticizes-truly-terrible-game-announcements-that-hold-the-juiciest-details-until-the-end",
-    "image": "https://cdn.mos.cms.futurecdn.net/HMRK6xpxefVxP2MDgUaKmG-1920-80.jpg",
-    "publishedAt": "2026-11-26T23:00:00.000Z"
-  },
-  {
     "id": "b76559ff35e32bd1",
     "title": "Ubisoft Reportedly Pressures Devs to Use Generative-AI or Justify Refusal in Pitches",
     "summary": "According to a new report, Ubisoft is deeply pushing generative-AI into its development process by requiring teams pitching new projects to either incorporate the tech or provide detailed justifications for why they are not using it. Anonymous sources reveal that employees feel cornered by leadership's top-down mandate, which management claims will help small agile teams iterate and move faster.",
@@ -1427,6 +1376,57 @@
     "url": "https://www.eurogamer.net/ubisoft-reportedly-goes-all-in-on-company-wide-generative-ai-use-and-if-developers-dont-want-to-use-it-they-have-to-explain-why-in-detail",
     "image": "https://assetsio.gnwcdn.com/Screenshot-2025-01-27-152746.png?width=690&quality=85&format=jpg&auto=webp",
     "publishedAt": "2026-11-26T12:15:40.000Z"
+  },
+  {
+    "id": "23e8002a98c119dc",
+    "title": "Path of Exile 2 Boss Slams 'Truly Terrible' Game Reveals and Calls Out Blizzard",
+    "summary": "Path of Exile co-game director Jonathan Rogers recently criticized standard industry livestream practices at a DevGAMM conference, taking a direct jab at Blizzard for withholding the juiciest details until the very end. Rogers argued that game announcements should cut straight to exciting gameplay and core features to maintain player interest.",
+    "content": [
+      "Speaking at the DevGAMM FTW! games industry conference, Path of Exile co-game director Jonathan Rogers shared insights into how Grinding Gear Games handles its seasonal update schedules. Unlike many traditional game developers, GGG cuts straight to showing new gameplay features ahead of any preamble during its announcement livestreams, a strategy Rogers credits as a key driver behind the game's 13-year success.",
+      "According to Rogers, these announcement streams serve a dual purpose beyond mere marketing. They actively help dictate what features and content the development team should focus on with each update, ensuring that every new league is backed by genuinely exciting features that can successfully rally the player base.",
+      "During his presentation, Rogers did not shy away from critiquing broader industry trends, noting that he has witnessed numerous 'truly terrible livestreams for game announcements' before delivering a playful jab directly targeting Blizzard. While major studios often prefer a slower build-up featuring extensive introductions and detailed design breakdowns, Rogers believes holding the best reveals for the end wastes everyone's time.",
+      "Industry observers and journalists note that while traditional build-ups can sometimes drag on during deep-dive statistic reviews, hearing the direct thought process from developers can humanize studios for the audience. Nevertheless, Rogers' underlying message emphasizes that developers must accurately read the room and tailor their presentations to instantly capture community excitement rather than putting viewers to sleep."
+    ],
+    "highlights": [
+      "Path of Exile co-game director Jonathan Rogers criticized standard industry announcement streams at DevGAMM.",
+      "Rogers singled out Blizzard with a direct jab regarding lengthy and delayed game reveals.",
+      "Grinding Gear Games relies on cutting straight to gameplay to test whether a seasonal league concept is exciting enough to build.",
+      "Critics debate whether prolonged developer deep-dives humanize studio teams or simply drag on too long."
+    ],
+    "socialPulse": {
+      "sentiment": "Mixed",
+      "viralPlatforms": [
+        "X / Twitter",
+        "Reddit",
+        "YouTube"
+      ],
+      "summary": "Social media users are heavily debating the pacing of modern game developer livestreams, with many players agreeing that traditional update streams often include too much filler. Some community members appreciate the deep dives into stats and humanizing the developers behind the screens, while others strongly prefer Grinding Gear Games' fast-paced, gameplay-first approach.",
+      "viewpoints": [
+        {
+          "stance": "Cut to the Chase",
+          "detail": "Many players agree with Jonathan Rogers that prolonged introductions and delayed reveals waste time and drain excitement. Gamers want to see major gameplay features and new content immediately to decide if an update is worth returning for."
+        },
+        {
+          "stance": "Appreciate the Context",
+          "detail": "Other community members enjoy hearing developer thought processes and detailed statistical breakdowns. They feel this transparency reminds audiences that real humans are building the games and provides valuable insight into design decisions."
+        }
+      ]
+    },
+    "category": "Industry",
+    "gameTitle": "Path of Exile 2",
+    "gameScale": "AAA",
+    "fanbaseScore": 9,
+    "isUpcoming": false,
+    "isRumor": false,
+    "releaseWindow": "",
+    "isControversy": false,
+    "controversyAngle": "",
+    "isTrending": false,
+    "importance": 6,
+    "source": "PC Gamer",
+    "url": "https://www.pcgamer.com/games/rpg/blizzard-im-looking-at-you-path-of-exile-2-boss-criticizes-truly-terrible-game-announcements-that-hold-the-juiciest-details-until-the-end",
+    "image": "https://cdn.mos.cms.futurecdn.net/HMRK6xpxefVxP2MDgUaKmG-1920-80.jpg",
+    "publishedAt": "2026-11-26T23:00:00.000Z"
   },
   {
     "id": "746a5699fd68e7a6",
@@ -1989,6 +1989,57 @@
     "publishedAt": "2026-11-26T17:30:00.000Z"
   },
   {
+    "id": "2e14e647e9293c0d",
+    "title": "How disabling GTA 6's Criminal Profile pings completely changes the game's immersive roleplay",
+    "summary": "Rockstar's highly anticipated blockbuster Grand Theft Auto 6 introduces a controversial 'Criminal Profile' mechanic that tracks player actions across five distinct brackets. While some players find the constant status updates and moral tracking invasive or immersion-breaking, others praise how it shapes the survival-focused journeys of Jason and Lucia.",
+    "content": [
+      "Grand Theft Auto 6 introduces a deeply detailed simulation of modern life, featuring mundane daily routines like morning workouts, feeding pets, and eating breakfast. This intricate level of immersion extends to player choices through the new Criminal Profile mechanic, which works similarly to the Honor System in Red Dead Redemption 2. The system tracks behaviour across five levels ranging from professional to irredeemable, permanently locking players into severe consequences if they hit the absolute worst bracket.",
+      "The game separately tracks the criminal profiles of both protagonists, Jason and Lucia. Players do not have to play as absolute saints to succeed, but the game heavily penalizes indiscriminate violence, torture, and mass civilian casualties by doling out negative profile points. Conversely, utilizing stealth, executing clean getaways, or incapacitating enemies without lethal force grants professional status points, encouraging players to think tactically about how they handle dangerous encounters.",
+      "The mechanic has sparked intense online discourse and debate within the community, with some players arguing that constant UI pings and moral restrictions are immersion-ruining or systematically inhibiting. Critics feel that attaching quantifiable mechanical systems and status debuffs to every action pushes players toward frustration. However, many fans appreciate the role-playing depth it adds, allowing them to frame Jason and Lucia as survival-driven criminals rather than mindless, chaotic rampage machines like Trevor Philips.",
+      "Rockstar writer Michael Wiafe explained in preview materials that the main characters are intentionally designed as complex, reprehensible individuals whose moral makeups are never completely cut-and-dry. The Criminal Profile is intended to reflect how these characters respond to the situations forced upon them by the developers and the world of Leonida. Ultimately, players who dislike the constant UI tracking can disable elements of these notifications to tailor the open-world experience more closely to their personal playstyles."
+    ],
+    "highlights": [
+      "GTA 6 features a brand new Criminal Profile system with five distinct moral brackets.",
+      "Jason and Lucia are tracked separately based on whether players use stealth, non-lethal force, or mass violence.",
+      "Reaching the 'irredeemable' bracket triggers severe and permanent gameplay consequences.",
+      "The mechanic has sparked community debate over invasive UI elements versus deep role-playing immersion."
+    ],
+    "socialPulse": {
+      "sentiment": "Divided",
+      "viralPlatforms": [
+        "X / Twitter",
+        "Reddit",
+        "YouTube"
+      ],
+      "summary": "Players across social media are heavily divided over the new Criminal Profile mechanic and invasive UI elements. While some fans praise the added depth, realism, and consequences for chaotic rampages, others argue that constant status tracking ruins the traditional sandbox freedom expected from a Grand Theft Auto game.",
+      "viewpoints": [
+        {
+          "stance": "Immersive Roleplay Enhancement",
+          "detail": "Supporters argue that tracking criminal behavior makes choices matter more and grounds the story of Jason and Lucia in realistic survival stakes. It encourages players to think tactically instead of mindlessly slaughtering civilian NPCs without consequence."
+        },
+        {
+          "stance": "Invasive UI Critiques",
+          "detail": "Detractors feel that constant status pings and moral scoring interfere with the chaotic sandbox freedom that defined past entries in the franchise. Some players find the artificial limitations frustrating and anxiety-inducing during routine gameplay."
+        }
+      ]
+    },
+    "category": "Console",
+    "gameTitle": "Grand Theft Auto 6",
+    "gameScale": "AAA",
+    "fanbaseScore": 10,
+    "isUpcoming": true,
+    "isRumor": false,
+    "releaseWindow": "Fall 2025",
+    "isControversy": true,
+    "controversyAngle": "Criminal Profile Mechanic",
+    "isTrending": false,
+    "importance": 10,
+    "source": "Eurogamer",
+    "url": "https://www.eurogamer.net/im-having-a-much-better-time-in-gta-6-now-ive-disabled-its-pesky-criminal-profile-pings",
+    "image": "https://assetsio.gnwcdn.com/gta-lucia-psycho.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "publishedAt": "2026-11-25T14:06:00.000Z"
+  },
+  {
     "id": "16cd4c33011b7681",
     "title": "EA Sports FC 27 Uses Generative AI to Resurrect Late Commentator John Motson",
     "summary": "EA Sports FC 27 is utilizing generative AI to digitally recreate the voice of veteran football commentator John Motson, who passed away in 2023. While Motson's family gave permission for the project, the move has ignited significant debate regarding the ethics of posthumous AI voice cloning.",
@@ -2349,6 +2400,58 @@
     "publishedAt": "2026-11-25T19:57:10.000Z"
   },
   {
+    "id": "1df90336be77b0b1",
+    "title": "Master Rockstar's Open World: Secret Controls and Hidden Mechanics in Grand Theft Auto 6",
+    "summary": "Rockstar's blockbuster features a complex control scheme, hiding several useful mechanics and secret commands that are never explicitly explained. From quick-getaway vehicle exits to using DualSense adaptive triggers for speed limits, these hidden tips expand how players interact with the open world.",
+    "content": [
+      "Grand Theft Auto 6 features a complicated control scheme that allows players to interact with the world in diverse ways. While Rockstar does a solid job introducing almost all of the title's core mechanics, several useful features and commands are never mentioned at all, making a dedicated guide essential for mastering the open world.",
+      "Among the hidden commands is the ability to double tap Triangle to exit your car while the engine is still running for swift getaways, or holding Triangle with a partner to quickly hop into the back seat. Players can also hide from pursuing police whose identity is known but whose car isn't by parking discreetly and holding Circle, or rest and lean on surfaces by standing close and holding the same button.",
+      "Combat and navigation also benefit from hidden inputs, such as holding L2 and pressing R1 to flip someone the bird on foot, or tapping Left and Right while driving to turn on indicators to signal other motorists. Drivers can double-tap Left to quickly toggle the radio on and off, press Square while driving or biking to attack with a car door or kick nearby enemies, and use DualSense adaptive triggers on PS5 to feel the speed limit at the first point of resistance.",
+      "Additional advanced features include toggling stationary first-person mode by holding L2 and pressing R3 to zoom in on objects, managing vehicle options like headlights and windows through the command menu, and dropping anchors in boats for diving. Players can even coordinate multi-car getaways by using the command menu to instruct AI partners to drive and follow in separate vehicles.",
+      "These hidden controls provide deep utility for players looking to master Rockstar's latest open-world landscape. With countless interactions baked into the default control scheme, exploring these unmentioned options changes how players navigate missions and encounters."
+    ],
+    "highlights": [
+      "Double tap Triangle to exit vehicles while the engine stays running for quick getaways.",
+      "Hold Circle in a discreet location to hide from pursuing police if they do not recognize your vehicle.",
+      "Use DualSense adaptive triggers on PS5 to feel the speed limit at the first point of resistance.",
+      "Control indicators, vehicle doors, and partner getaway cars using specialized hidden button combinations."
+    ],
+    "socialPulse": {
+      "sentiment": "Mixed",
+      "viralPlatforms": [
+        "X / Twitter",
+        "Reddit",
+        "YouTube"
+      ],
+      "summary": "Community discussions surrounding recent GTA 6 news and port rumors have sparked heated debates regarding studio practices, AI usage, and pricing. While some players eagerly dissect gameplay guides and hidden controls, others express frustration over environmental concerns, industry union-busting history, and steep game pricing.",
+      "viewpoints": [
+        {
+          "stance": "Gameplay Enthusiasts",
+          "detail": "Many players appreciate discovering deep, hidden mechanical layers and secret controls that enhance open-world immersion. They enjoy sharing detailed tips regarding vehicle management, stealth mechanics, and controller features."
+        },
+        {
+          "stance": "Skeptical Community",
+          "detail": "Other users voice strong ethical concerns regarding corporate practices, AI generation, and hundred-dollar pricing models. These community members advocate for consumer patience, environmental awareness, and caution toward overhyped releases."
+        }
+      ]
+    },
+    "category": "Console",
+    "gameTitle": "Grand Theft Auto 6",
+    "gameScale": "AAA",
+    "fanbaseScore": 10,
+    "isUpcoming": false,
+    "isRumor": false,
+    "releaseWindow": "",
+    "isControversy": false,
+    "controversyAngle": "",
+    "isTrending": false,
+    "importance": 7,
+    "source": "Push Square",
+    "url": "https://www.pushsquare.com/guides/gta-6-secret-controls-the-game-doesnt-tell-you",
+    "image": "https://cdn.mos.cms.futurecdn.net/cSMhCzgd23bambkhDRa2C3-1920-80.jpg",
+    "publishedAt": "2026-11-25T22:00:00.000Z"
+  },
+  {
     "id": "972ac98d85ae0ca3",
     "title": "Diablo 4 is Making Its Most Nostalgic Season Permanently Playable",
     "summary": "Blizzard has announced that due to overwhelming community demand, much of Diablo 4's nostalgic Season 15, Hell's Legacy, will carry forward permanently ahead of Season 16. Players can look forward to keeping classic boss encounters, legacy unique items, and even the secret cow island when the next update arrives.",
@@ -2604,57 +2707,6 @@
     "publishedAt": "2026-11-25T11:00:00.000Z"
   },
   {
-    "id": "ab77b91738807404",
-    "title": "Digital Foundry: Xbox Series X Outperforms Base PS5 in GTA 6 Performance Analysis",
-    "summary": "Recent technical analysis from Digital Foundry indicates that Grand Theft Auto 6 maintains a more stable 30fps frame-rate on the Xbox Series X compared to the base PlayStation 5. While the PS5 Pro claims the overall crown, the findings highlight a historical trend of Microsoft consoles handling Rockstar's massive open worlds with greater consistency.",
-    "content": [
-      "A comprehensive performance analysis by the tech experts at Digital Foundry has revealed that the Xbox Series X is reportedly the best non-Pro console to experience Grand Theft Auto 6, offering a more stable frame-rate than the base PlayStation 5. While both current-generation base consoles target a 30fps frame-rate, heavy workload sequences featuring dense crowds and high-speed vehicle traversal expose distinct performance variations.",
-      "According to the report, the base PS5 experiences substantially more frequent frame-rate dips during intensive sequences, dropping down into the mid-to-high 20fps range. In contrast, the Xbox Series X manages these demanding sections with greater consistency and benefits heavily from its native support for 120Hz Variable Refresh Rate, which further smooths out minor performance variations.",
-      "Unsurprisingly, the PlayStation 5 Pro delivers the definitive console experience thanks to a lack of competing mid-generation upgrades from Microsoft, utilizing its PSSR upscaler to deliver sharp 4K visuals from a 1440p base. However, the superior performance of the standard Xbox Series X over the base PS5 echoes historical trends, reminiscent of Red Dead Redemption 2's launch in 2018 where the Xbox One X similarly provided the most stable 30fps experience.",
-      "Despite Rockstar's historically close marketing alignment with PlayStation, these hardware comparisons raise fresh questions about the technical optimization of the upcoming open-world epic. With no 60fps or 40fps performance modes confirmed even for the PS5 Pro, players are left wondering what PC specifications will eventually be required, even as community modders already prepare to tackle a future PC port."
-    ],
-    "highlights": [
-      "Xbox Series X demonstrates a more stable 30fps frame-rate than the base PS5 during dense crowd and fast-driving sequences.",
-      "The PlayStation 5 Pro leads all consoles with superior stability and 4K upscaling via PSSR, though it lacks 60fps or 40fps modes.",
-      "Xbox Series X benefits from 120Hz Variable Refresh Rate support to help smooth out minor frame-rate dips.",
-      "The performance gap echoes Red Dead Redemption 2's launch in 2018, where Microsoft's hardware similarly offered the most stable base experience."
-    ],
-    "socialPulse": {
-      "sentiment": "Mixed",
-      "viralPlatforms": [
-        "X / Twitter",
-        "Reddit",
-        "YouTube"
-      ],
-      "summary": "Gamers across social media are actively debating the technical limitations of current-generation hardware regarding GTA 6's locked 30fps target. While Xbox fans are celebrating the hardware validation, PlayStation users and general players are expressing frustration over the lack of a 60fps mode across all standard consoles, including the expensive PS5 Pro.",
-      "viewpoints": [
-        {
-          "stance": "Hardware Vindication",
-          "detail": "Xbox owners are feeling validated by the Digital Foundry report, highlighting that Microsoft's console delivers a smoother baseline experience than the standard PS5. Fans are pointing to the inclusion of VRR and better raw frame stability as a quiet win for the Series X."
-        },
-        {
-          "stance": "Framerate Frustration",
-          "detail": "Many players across the community are expressing disappointment that a massive release like GTA 6 remains locked at 30fps even on high-end hardware like the PS5 Pro. Critics argue that paying mid-generation upgrade prices should guarantee higher performance thresholds."
-        }
-      ]
-    },
-    "category": "Console",
-    "gameTitle": "Grand Theft Auto 6",
-    "gameScale": "AAA",
-    "fanbaseScore": 10,
-    "isUpcoming": true,
-    "isRumor": false,
-    "releaseWindow": "TBA",
-    "isControversy": false,
-    "controversyAngle": "",
-    "isTrending": false,
-    "importance": 9,
-    "source": "Eurogamer",
-    "url": "https://www.eurogamer.net/grand-theft-auto-6-frame-rate-xbox-series-x-ps5",
-    "image": "https://assetsio.gnwcdn.com/GTA_6_Mission_List_4.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "publishedAt": "2026-11-25T09:15:10.000Z"
-  },
-  {
     "id": "cdfd4246352ea09e",
     "title": "Team Cherry Announces 'Cherry Time' Showcase for Hollow Knight: Silksong's Sea of Sorrows DLC",
     "summary": "Team Cherry has scheduled a 'Cherry Time Special Presentation' for November 27 to showcase new details on the nautically-themed Sea of Sorrows DLC for Hollow Knight: Silksong. Alongside the DLC update, the studio has teased additional exciting announcements and potential reveals about upcoming free content packs found in recent physical editions.",
@@ -2758,57 +2810,6 @@
     "url": "https://www.gamespot.com/articles/another-live-service-game-is-going-extinct-and-this-one-has-dinosaurs",
     "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Exoprimal.jpg?w=1200",
     "publishedAt": "2026-11-25T17:57:42.000Z"
-  },
-  {
-    "id": "e4fff56798a6a668",
-    "title": "Capcom's Exoprimal Faces the Extinction: PS5 Game to Be Delisted",
-    "summary": "Capcom has announced that its multiplayer dinosaur shooter Exoprimal will be delisted in March 2027, with servers shutting down entirely later that year in September. The official end of service announcement was published directly on the Exoprimal website, expressing gratitude to the player base while apologizing for the sudden news.",
-    "content": [
-      "Capcom has officially confirmed that its cooperative multiplayer title Exoprimal is heading toward a complete shutdown. According to an end-of-service announcement posted on the official website, the game will be delisted from digital storefronts in March 2027.",
-      "Following the upcoming delisting, Capcom plans to completely pull the plug on the game's servers in September 2027. This effectively ends the online-focused experience for all players who have engaged with the dinosaur-slaying action since its launch.",
-      "In the official announcement, the development and publishing team expressed deep gratitude to their community. The statement read: 'We cannot thank you enough for the love and support you have shown over the years, and we sincerely apologize for the gravity of this announcement.'",
-      "The decision marks a significant closure for the multiplayer project, which relied entirely on online connectivity and teamwork to battle hordes of prehistoric beasts. Players now have a limited multi-year window to enjoy the game before it disappears from storefronts and active service permanently."
-    ],
-    "highlights": [
-      "Capcom is officially delisting Exoprimal in March 2027.",
-      "Game servers will permanently shut down in September 2027.",
-      "An official end-of-service statement was published on the game's website.",
-      "Developers expressed sincere apologies and gratitude to the loyal player base."
-    ],
-    "socialPulse": {
-      "sentiment": "Mixed",
-      "viralPlatforms": [
-        "X / Twitter",
-        "Reddit",
-        "YouTube"
-      ],
-      "summary": "Fans on social media are expressing a mix of sadness over the closure and frustration regarding the fragile nature of live-service multiplayer games. While some acknowledge the game's niche appeal and dwindling player base, others criticize the industry trend of rendering purchased games completely unplayable.",
-      "viewpoints": [
-        {
-          "stance": "Understandable Reality",
-          "detail": "Some community members acknowledge that lower player counts made a server shutdown inevitable for an exclusively online multiplayer game. They appreciate that Capcom gave a long advance notice rather than pulling the plug overnight."
-        },
-        {
-          "stance": "Live-Service Frustration",
-          "detail": "Other players voice deep disappointment over losing access to a title they financially supported. They point out how disappointing it is that games built entirely around online features become completely unusable once publishers pull server support."
-        }
-      ]
-    },
-    "category": "Console",
-    "gameTitle": "Exoprimal",
-    "gameScale": "AAA",
-    "fanbaseScore": 6,
-    "isUpcoming": true,
-    "isRumor": false,
-    "releaseWindow": "Sept 2027",
-    "isControversy": false,
-    "controversyAngle": "",
-    "isTrending": false,
-    "importance": 5,
-    "source": "Push Square",
-    "url": "https://www.pushsquare.com/news/2026/11/another-big-ps5-game-will-be-delisted-in-the-coming-months",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286320/ss_dcba3dc9938cd9a284aa0449a1e69c8d7f5dbf0a.1920x1080.jpg?t=1795568630",
-    "publishedAt": "2026-11-25T10:00:00.000Z"
   },
   {
     "id": "e0bde88f9a24dfee",
