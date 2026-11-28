@@ -1,5 +1,264 @@
 [
   {
+    "id": "cdfd4246352ea09e",
+    "title": "Team Cherry Announces 'Cherry Time' Showcase for Hollow Knight: Silksong's Sea of Sorrows DLC",
+    "summary": "Team Cherry has scheduled a 'Cherry Time Special Presentation' for November 27 to showcase new details on the nautically-themed Sea of Sorrows DLC for Hollow Knight: Silksong. Alongside the DLC update, the studio has teased additional exciting announcements and potential reveals about upcoming free content packs found in recent physical editions.",
+    "content": [
+      "Hollow Knight: Silksong developer Team Cherry has announced it will host a 'Cherry Time Special Presentation' on 27th November, bringing more information to light about the game's first big DLC offering, Sea of Sorrows. We know that the free update will be nautically-themed - hence the eponymous 'sea' - and will feature new bosses, areas and so on, but other than that, information about what's coming is vague.",
+      "It seems that's not all; as well as more information about the mysterious update to the hit Metroidvania game, the studio has also announced 'a bunch' of other 'exciting announcements.' The Cherry Time Special Presentation will kick off at 7am PT / 10am ET / 3pm GMT / 4pm CEST for fans wanting to tune into the broadcast.",
+      "Recently, and more than a year after its initial release, physical versions of Hollow Knight: Silksong finally began arriving on players' doorsteps. Whilst these editions contained mostly expected information, there was an unforeseen mention of 'free content packs' that would be arriving alongside the Sea of Sorrow DLC, leaving fans wondering if we will hear more about these during the showcase.",
+      "The physical edition's booklet stated that the world of Hollow Knight: Silksong will expand with free content packs featuring new friends, new abilities, and new ferocious foes. While Team Cherry has repeatedly confirmed plans for post-launch support, details beyond the upcoming DLC remain largely unknown until now.",
+      "Additionally, Sea of Sorrow's original release window was a vague 2026, prompting speculation on whether the update might even shadowdrop as part of the stream. Stranger things have happened, especially in the world of Hollow Knight, and fans do not have too long to wait to find out."
+    ],
+    "highlights": [
+      "Team Cherry announces a 'Cherry Time Special Presentation' for November 27.",
+      "Showcase will provide deeper looks at the nautically-themed Sea of Sorrows DLC.",
+      "Physical editions recently teased additional 'free content packs' coming to the game.",
+      "Fans speculate on a potential release date update or shadowdrop during the stream."
+    ],
+    "socialPulse": {
+      "sentiment": "Hyped",
+      "viralPlatforms": [
+        "X / Twitter",
+        "Reddit",
+        "Discord",
+        "YouTube"
+      ],
+      "summary": "The community is currently experiencing massive excitement and frantic speculation following Team Cherry's unexpected showcase announcement. Fans are dissecting every single word from the physical edition booklets regarding 'free content packs' and debating whether the Sea of Sorrows DLC will finally get a concrete release date or a surprise shadowdrop.",
+      "viewpoints": [
+        {
+          "stance": "Shadowdrop Believers",
+          "detail": "Many optimistic fans believe that Team Cherry's secretive marketing style and the timing of the showcase could point to an immediate shadowdrop of the DLC. They argue that the studio loves surprising players and keeping community momentum at an all-time high."
+        },
+        {
+          "stance": "Cautious Realists",
+          "detail": "Other community members advise tempering expectations, noting that Team Cherry has historically taken their time with development and may only provide a broad update. They believe the presentation will focus primarily on trailers and a tentative 2026 window rather than an immediate release."
+        }
+      ]
+    },
+    "category": "Console",
+    "gameTitle": "Hollow Knight: Silksong",
+    "gameScale": "AA",
+    "fanbaseScore": 10,
+    "isUpcoming": true,
+    "isRumor": false,
+    "releaseWindow": "2026",
+    "isControversy": false,
+    "controversyAngle": "",
+    "isTrending": false,
+    "importance": 8,
+    "source": "Eurogamer",
+    "url": "https://www.eurogamer.net/hollow-knight-silksong-dlc-livestream-sea-of-sorrows-update",
+    "image": "https://assetsio.gnwcdn.com/cherry-time.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "publishedAt": "2026-11-25T15:32:40.000Z"
+  },
+  {
+    "id": "302ef46d6c50b9d9",
+    "title": "Hollow Knight: Silksong Sea of Sorrow Expansion Details Dropping Friday",
+    "summary": "Team Cherry has officially announced a special presentation to reveal the first major details for Hollow Knight: Silksong's upcoming Sea of Sorrow expansion. The stream is scheduled for November 27 and will be completely free for all players.",
+    "content": [
+      "Hollow Knight: Silksong was such a highly anticipated sequel that it became a running meme throughout the industry, so naturally, as soon as it was released, fans immediately started looking forward to the next big milestone: the promised Sea of Sorrow expansion. Team Cherry has now broken the silence by announcing a special presentation to unveil more details, and players won't have to wait very long to see what is coming next.",
+      "The studio has scheduled a Cherry Time Special Presentation for November 27 at 7 AM PT, 10 AM ET, 3 PM GMT, and 2 AM AET on Saturday. The presentation promises a series of exciting announcements alongside a comprehensive update specifically focused on the Hollow Knight: Silksong Sea of Sorrow content.",
+      "Sea of Sorrow will serve as the very first major expansion for Hollow Knight: Silksong, and Team Cherry has confirmed that it will be entirely free for all players. As the aquatic title clearly suggests, the expansion will introduce a brand-new water-themed environment packed with fresh areas to explore and specialized new tools to navigate them.",
+      "The base game launched to overwhelming critical acclaim, securing a stellar 90 Metacritic average and earning recognition as one of GameSpot's Best Games of 2025. With the first major content drop now on the horizon, the community is eager to see how Team Cherry expands upon the beloved sequel's massive success."
+    ],
+    "highlights": [
+      "Team Cherry announces a Cherry Time Special Presentation for November 27.",
+      "The stream will showcase the first details for the Sea of Sorrow expansion.",
+      "Sea of Sorrow will be completely free for all players and features an aquatic theme.",
+      "Hollow Knight: Silksong previously launched to critical acclaim with a 90 Metacritic average."
+    ],
+    "socialPulse": {
+      "sentiment": "Hyped",
+      "viralPlatforms": [
+        "X / Twitter",
+        "Reddit",
+        "YouTube",
+        "Discord"
+      ],
+      "summary": "Fans on social media are overwhelmingly excited and relieved to finally get concrete news regarding the first major expansion for Silksong. Many are discussing what new aquatic mechanics and tools Team Cherry might introduce, while others are joking about finally taking off their long-worn clown makeup now that the wait for updates is over.",
+      "viewpoints": [
+        {
+          "stance": "Excited for Free Content",
+          "detail": "Many players are praising Team Cherry for keeping their promise to deliver the Sea of Sorrow expansion completely free of charge. The community appreciates the studio's dedication to supporting the game with substantial new content without extra monetization."
+        },
+        {
+          "stance": "Speculating on Aquatic Mechanics",
+          "detail": "Fans are intensely debating how the water-themed exploration and new tools will alter traversal and combat. Community theorycrafters are scouring the announcement details for any hidden hints about upcoming boss fights and uncharted biomes."
+        }
+      ]
+    },
+    "category": "PC",
+    "gameTitle": "Hollow Knight: Silksong",
+    "gameScale": "AA",
+    "fanbaseScore": 10,
+    "isUpcoming": true,
+    "isRumor": false,
+    "releaseWindow": "Coming Soon",
+    "isControversy": false,
+    "controversyAngle": "",
+    "isTrending": false,
+    "importance": 8,
+    "source": "GameSpot",
+    "url": "https://www.gamespot.com/articles/hollow-knight-silksongs-first-expansion-details-coming-friday-heres-how-to-watch",
+    "image": "https://www.gamespot.com/wp-content/uploads/original/1752/17528202/4665483-12.silksong.jpg?w=1200",
+    "publishedAt": "2026-11-25T15:27:27.000Z"
+  },
+  {
+    "id": "9a07cb2f9a5d14e8",
+    "title": "GTA 6 Modders Try Vibe-Coding a PC Port with AI, But It’s Going Disastrously",
+    "summary": "PC modders are attempting to create an unofficial GTA 6 PC port using leaked console builds and generative AI, but the project is struggling immensely. Amidst legal pressures from Take-Two Interactive and chaotic development streams, the community remains deeply divided on the methods being used.",
+    "content": [
+      "PC modders have been racing to get Grand Theft Auto 6 playable on PC following the leak of the game's complete Xbox build, but the results so far have been far from promising. Publisher Take-Two Interactive and developer Rockstar Games have not been sitting idle, as one of the leads behind the Project Leonida Discord group claimed in now-deleted social media posts that they were stepping away from the mammoth task. Project Leonida has since been taken down, though it is not the only group trying to get the game running outside of PS5 and Xbox Series X|S.",
+      "None of these groups have succeeded in creating a stable port, and as Twitter user Chasm detailed online, relying heavily on generative AI tools has proven counterproductive. Development streams have been full of enthusiasts leveraging AI with chaotic prompts of wishful thinking, demanding that algorithms write complex game engine code instantly. Even with an army of enthusiasts throwing prompts and cash at the problem, a working copied version of GTA 6 remains wildly out of reach.",
+      "Take-Two CEO Strauss Zelnick previously commented in March that the idea of using AI and simply pushing a button to make a hit game was laughable. Drawing parallels to the music industry's flood of AI-generated tracks, Zelnick noted that while automated programs can generate a functional output, it lacks any real staying power or artistic depth. He compared the current wave of generative media to novelty items rather than viable entertainment products.",
+      "Whatever progress is managed within the rogue GTA 6 PC port scene, industry observers note that it is unlikely to last long before Take-Two's legal team pounces. The publisher has never shied away from aggressively protecting its intellectual property, making swift takedown notices for any future GTA 6-related projects an absolute certainty. Meanwhile, the game continues to make waves globally, following its massive status as the biggest launch in PlayStation history."
+    ],
+    "highlights": [
+      "Modders are attempting to build an unofficial GTA 6 PC port using leaked Xbox builds and generative AI.",
+      "Key modding hubs like the Project Leonida Discord group have been taken down amid developer departures.",
+      "Take-Two CEO Strauss Zelnick previously dismissed the viability of AI-driven game development as laughable.",
+      "Aggressive legal action and copyright takedowns from Take-Two are widely expected for any rogue port projects."
+    ],
+    "socialPulse": {
+      "sentiment": "Divided",
+      "viralPlatforms": [
+        "Reddit",
+        "X / Twitter",
+        "YouTube"
+      ],
+      "summary": "Social media users are heavily debating the ethics and technical feasibility of using AI to reverse-engineer a AAA game. While some view it as a humorous or subversive attempt to bypass corporate restrictions, others criticize the environmental and ethical implications of generative AI and union-busting publishers.",
+      "viewpoints": [
+        {
+          "stance": "Pro-AI Subversion",
+          "detail": "Some community members argue that using generative tools to crack corporate monopolies is an acceptable form of tech-driven piracy. They find amusement in the chaotic attempts to bypass official release windows."
+        },
+        {
+          "stance": "Environmental and Ethical Skepticism",
+          "detail": "Other users reject the port attempts entirely, citing environmental concerns over generative AI and criticizing the original developers' labor practices. They prefer to wait patiently for an official release or skip the title altogether."
+        }
+      ]
+    },
+    "category": "PC",
+    "gameTitle": "Grand Theft Auto 6",
+    "gameScale": "AAA",
+    "fanbaseScore": 10,
+    "isUpcoming": true,
+    "isRumor": false,
+    "releaseWindow": "Fall 2025",
+    "isControversy": true,
+    "controversyAngle": "AI Port Backlash",
+    "isTrending": false,
+    "importance": 8,
+    "source": "GameSpot",
+    "url": "https://www.gamespot.com/articles/gta-6-modders-are-trying-to-vibe-code-a-pc-port-and-its-not-going-well",
+    "image": "https://cdn.mos.cms.futurecdn.net/3DrBjzAVG2ardmUJ5SjaQn-1920-80.jpg",
+    "publishedAt": "2026-11-25T14:23:37.000Z"
+  },
+  {
+    "id": "c15f6135b57baf3b",
+    "title": "CD Projekt Red Aims for a GTA 6-Sized Leap in Quality With The Witcher 4",
+    "summary": "CD Projekt Red revealed during a Q3 earnings call that it is looking to Rockstar Games' GTA 6 as inspiration for a massive quality leap in The Witcher 4. The studio is targeting a 2028 release window, with over 500 developers currently working on the project and a marketing agreement signed with PlayStation.",
+    "content": [
+      "There has been a massive gap between new entries in The Witcher series, and for The Witcher 4, developer CD Projekt Red aims to make it the GTA 6 of the franchise, bringing a noticeable leap in quality. In its Q3 earnings call, the studio stated it has been inspired by the technological and gameplay advancements Rockstar Games has made with GTA 6 compared to 2013's GTA 5, hoping players will feel that same evolution when diving into The Witcher 4.",
+      "CDPR joint-CEO Michał Nowakowski noted that while the studios take different approaches, the company expects a comparable jump between The Witcher 3 and The Witcher 4. Pointing out that 11 years will have passed, Nowakowski emphasized that the upcoming title is being built to look significantly better and improve upon pretty much every possible facet of the game.",
+      "When The Witcher 3: The Wild Hunt debuted in 2015, it raised the bar for open-world adventures with narratively dense side-quests that influenced countless titles like the modern Assassin's Creed trilogy, Horizon Zero Dawn, and Ghost of Tsushima. With GTA 6 raising the bar even higher through emergent, player-driven open-world systems, CDPR hopes to build on its predecessor's strengths while adding more nuance to its gameplay mechanics.",
+      "Additionally, CDPR mentioned that it is trying to make The Witcher 4 more appealing to mainstream audiences, focusing on breaking out to mass-market awareness in future marketing campaigns, though specific details were not shared. Currently, over 500 staff members are working on the game, which has a targeted release window of 2028 alongside a marketing agreement signed with PlayStation.",
+      "Alongside development on The Witcher 4, CDPR is also working on Cyberpunk 2. However, following the showcase of GTA 6, the game's creative director jokingly suggested canceling the project given the exceptionally high standards set by Rockstar Games for modern open-world titles."
+    ],
+    "highlights": [
+      "CD Projekt Red aims for The Witcher 4 to represent a massive generational leap comparable to the evolution seen in GTA 6.",
+      "Over 500 developers are currently working on the project, which is targeting a 2028 release window.",
+      "CDPR has signed a marketing agreement with PlayStation for the upcoming RPG.",
+      "The studio also plans to push for broader mainstream awareness with future marketing campaigns."
+    ],
+    "socialPulse": {
+      "sentiment": "Mixed",
+      "viralPlatforms": [
+        "X / Twitter",
+        "Reddit",
+        "YouTube"
+      ],
+      "summary": "Gamers on social media are having mixed conversations regarding CDPR's ambitions for The Witcher 4, comparing its high targets directly against the massive expectations surrounding Rockstar's upcoming releases. While some fans are excited about the potential leap in open-world fidelity and storytelling, others express skepticism about overhyped AAA blockbusters and corporate trends.",
+      "viewpoints": [
+        {
+          "stance": "Cautiously Optimistic",
+          "detail": "Some fans believe that CDPR's long development cycle and massive team of over 500 developers could genuinely deliver a groundbreaking open-world RPG that evolves past The Witcher 3. They argue that aiming for a GTA 6 level of polish sets a great ambition for the studio's next flagship fantasy title."
+        },
+        {
+          "stance": "Skeptical of AAA Hype",
+          "detail": "Other members of the community feel that comparing upcoming games to massive industry titans like GTA 6 often leads to overhype and unrealistic expectations. They prefer to wait and see actual gameplay rather than trusting lofty statements made during investor earnings calls."
+        }
+      ]
+    },
+    "category": "Industry",
+    "gameTitle": "The Witcher 4",
+    "gameScale": "AAA",
+    "fanbaseScore": 10,
+    "isUpcoming": true,
+    "isRumor": false,
+    "releaseWindow": "2028",
+    "isControversy": false,
+    "controversyAngle": "",
+    "isTrending": false,
+    "importance": 9,
+    "source": "GameSpot",
+    "url": "https://www.gamespot.com/articles/the-witcher-4-wants-to-be-the-gta-6-of-the-witcher-franchise",
+    "image": "https://www.gamespot.com/wp-content/uploads/2026/11/The-Witcher-4.jpg?w=1200",
+    "publishedAt": "2026-11-25T14:15:08.000Z"
+  },
+  {
+    "id": "2e14e647e9293c0d",
+    "title": "How disabling GTA 6's Criminal Profile pings completely changes the game's immersive roleplay",
+    "summary": "Rockstar's highly anticipated blockbuster Grand Theft Auto 6 introduces a controversial 'Criminal Profile' mechanic that tracks player actions across five distinct brackets. While some players find the constant status updates and moral tracking invasive or immersion-breaking, others praise how it shapes the survival-focused journeys of Jason and Lucia.",
+    "content": [
+      "Grand Theft Auto 6 introduces a deeply detailed simulation of modern life, featuring mundane daily routines like morning workouts, feeding pets, and eating breakfast. This intricate level of immersion extends to player choices through the new Criminal Profile mechanic, which works similarly to the Honor System in Red Dead Redemption 2. The system tracks behaviour across five levels ranging from professional to irredeemable, permanently locking players into severe consequences if they hit the absolute worst bracket.",
+      "The game separately tracks the criminal profiles of both protagonists, Jason and Lucia. Players do not have to play as absolute saints to succeed, but the game heavily penalizes indiscriminate violence, torture, and mass civilian casualties by doling out negative profile points. Conversely, utilizing stealth, executing clean getaways, or incapacitating enemies without lethal force grants professional status points, encouraging players to think tactically about how they handle dangerous encounters.",
+      "The mechanic has sparked intense online discourse and debate within the community, with some players arguing that constant UI pings and moral restrictions are immersion-ruining or systematically inhibiting. Critics feel that attaching quantifiable mechanical systems and status debuffs to every action pushes players toward frustration. However, many fans appreciate the role-playing depth it adds, allowing them to frame Jason and Lucia as survival-driven criminals rather than mindless, chaotic rampage machines like Trevor Philips.",
+      "Rockstar writer Michael Wiafe explained in preview materials that the main characters are intentionally designed as complex, reprehensible individuals whose moral makeups are never completely cut-and-dry. The Criminal Profile is intended to reflect how these characters respond to the situations forced upon them by the developers and the world of Leonida. Ultimately, players who dislike the constant UI tracking can disable elements of these notifications to tailor the open-world experience more closely to their personal playstyles."
+    ],
+    "highlights": [
+      "GTA 6 features a brand new Criminal Profile system with five distinct moral brackets.",
+      "Jason and Lucia are tracked separately based on whether players use stealth, non-lethal force, or mass violence.",
+      "Reaching the 'irredeemable' bracket triggers severe and permanent gameplay consequences.",
+      "The mechanic has sparked community debate over invasive UI elements versus deep role-playing immersion."
+    ],
+    "socialPulse": {
+      "sentiment": "Divided",
+      "viralPlatforms": [
+        "X / Twitter",
+        "Reddit",
+        "YouTube"
+      ],
+      "summary": "Players across social media are heavily divided over the new Criminal Profile mechanic and invasive UI elements. While some fans praise the added depth, realism, and consequences for chaotic rampages, others argue that constant status tracking ruins the traditional sandbox freedom expected from a Grand Theft Auto game.",
+      "viewpoints": [
+        {
+          "stance": "Immersive Roleplay Enhancement",
+          "detail": "Supporters argue that tracking criminal behavior makes choices matter more and grounds the story of Jason and Lucia in realistic survival stakes. It encourages players to think tactically instead of mindlessly slaughtering civilian NPCs without consequence."
+        },
+        {
+          "stance": "Invasive UI Critiques",
+          "detail": "Detractors feel that constant status pings and moral scoring interfere with the chaotic sandbox freedom that defined past entries in the franchise. Some players find the artificial limitations frustrating and anxiety-inducing during routine gameplay."
+        }
+      ]
+    },
+    "category": "Console",
+    "gameTitle": "Grand Theft Auto 6",
+    "gameScale": "AAA",
+    "fanbaseScore": 10,
+    "isUpcoming": true,
+    "isRumor": false,
+    "releaseWindow": "Fall 2025",
+    "isControversy": true,
+    "controversyAngle": "Criminal Profile Mechanic",
+    "isTrending": false,
+    "importance": 10,
+    "source": "Eurogamer",
+    "url": "https://www.eurogamer.net/im-having-a-much-better-time-in-gta-6-now-ive-disabled-its-pesky-criminal-profile-pings",
+    "image": "https://assetsio.gnwcdn.com/gta-lucia-psycho.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "publishedAt": "2026-11-25T14:06:00.000Z"
+  },
+  {
     "id": "e9010d45f1cfeee1",
     "title": "CD Projekt Red Expects GTA 5 to GTA 6-Like Leap in The Witcher 4",
     "summary": "CD Projekt Red believes it can achieve a massive generational upgrade with The Witcher 4, comparing its ambition to the massive leap Rockstar Games is making from GTA 5 to GTA 6. The studio is eyeing the mature world-building and immersive content standards set by Rockstar's upcoming blockbuster.",
