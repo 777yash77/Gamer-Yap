@@ -49,6 +49,57 @@
     "publishedAt": "2026-11-27T21:42:49.000Z"
   },
   {
+    "id": "26b2236e32a8dd4e",
+    "title": "Warframe's Massive Tau Update Arrives This December",
+    "summary": "Digital Extremes has officially announced that Warframe's highly anticipated Tau update will launch on Wednesday, December 9. Featuring an entirely new star system, a noir-inspired planetary setting, new game modes, and fresh narrative content, developers describe it as the biggest swing yet for the shape of the game.",
+    "content": [
+      "Warframe's long-awaited Tau update finally has a confirmed release date, arriving on Wednesday, December 9. Creative Director Rebecca Ford describes the addition of the game's first new star system as 'the biggest swing we could do for the shape of the game,' noting that it represents just the start of Tau's evolution.",
+      "The update introduces two main regions to explore: Fornax, a Sentient, noir-inspired primary planet, alongside its moon, Perita. Players will experience a two-hour quest, new additions like Kullervo Prime, a new Syndicate called The Fornax Informer, and a chill walking simulator mode featuring a dog.",
+      "Fornax features three hub areas—Lastbloom Lounge, Elder Rustgarden, and Manifold 90-BF—offering a fully connected experience. Players can navigate between zones using flying cars or enjoy a low-stakes Night Walk to gather resources while accompanied by a Sentient pooch named Laika.",
+      "The update brings six game modes, including Survival, Exterminate, Racket, and Mayhem, alongside a remixed version of the Spy mission tailored to the detective theme of the new Chimera Frame, Brysko. Steel Path mode also returns, pitting players against the Hokra Brothers instead of Acolytes."
+    ],
+    "highlights": [
+      "Tau update launches on Wednesday, December 9.",
+      "Introduces Warframe's first-ever new star system.",
+      "Features a noir-inspired setting with three unique hub areas and new game modes.",
+      "Includes the new Chimera Frame Brysko and romance elements at Lastbloom Lounge."
+    ],
+    "socialPulse": {
+      "sentiment": "Hyped",
+      "viralPlatforms": [
+        "X / Twitter",
+        "Reddit",
+        "Discord"
+      ],
+      "summary": "Players across social media are expressing immense excitement over the noir aesthetic, the scale of the second solar system, and unique additions like the virtual card game Portau and romanceable characters. The community is buzzing with anticipation, comparing the ambitious scope of the update to a full sequel.",
+      "viewpoints": [
+        {
+          "stance": "Excited for the Noir Aesthetic",
+          "detail": "Many fans are thrilled by the shift toward a gritty, detective-themed atmosphere complete with flying cars and lounge singers. They feel this creative direction breathes fresh life into the long-running live-service game."
+        },
+        {
+          "stance": "Awe at the Scale",
+          "detail": "Community members are amazed that Digital Extremes is adding an entire second star system instead of making a standalone sequel. They praise the studio for continuously taking massive risks and expanding the game's boundaries."
+        }
+      ]
+    },
+    "category": "PC",
+    "gameTitle": "Warframe",
+    "gameScale": "AAA",
+    "fanbaseScore": 9,
+    "isUpcoming": true,
+    "isRumor": false,
+    "releaseWindow": "December 9",
+    "isControversy": false,
+    "controversyAngle": "",
+    "isTrending": true,
+    "importance": 9,
+    "source": "PCGamesN",
+    "url": "https://www.pcgamesn.com/warframe/tau-release-date",
+    "image": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/11/warframe-tau-releate-date-update-fornax-perita-new-modes-brysko.jpg",
+    "publishedAt": "2026-11-27T20:00:00.000Z"
+  },
+  {
     "id": "6f71d19dcbcaae2f",
     "title": "The Simpsons Hit & Run Remake Rumoured Cancelled After Studio Layoffs",
     "summary": "Fresh hints from a developer suggest that a long-awaited remake of The Simpsons: Hit & Run may have been scrapped amidst a wave of industry cancellations. Fans are reeling after earlier comments from creator Matt Groening suggested the classic game was finally making a return.",
@@ -149,6 +200,58 @@
     "url": "https://www.pcgamesn.com/warhammer-40k-dawn-of-war-4/painter-demo-out-now",
     "image": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/11/warhammer-40k-dawn-of-war-painter-demo-out-now-model-builder-detailed-customization.jpg",
     "publishedAt": "2026-11-27T13:14:25.000Z"
+  },
+  {
+    "id": "2bbfeafb2adb31d5",
+    "title": "Fatshark Unleashes Powerful New Mod Tools For Warhammer: Vermintide 2, But Axes Official Versus Servers",
+    "summary": "Fatshark has released a powerful new public version of its internal Stingray developer tools for Warhammer: Vermintide 2, unlocking custom levels, models, and animations. However, the update comes with compromises, including putting a planned weapon pack on hold, shutting down dedicated Versus servers, and introducing an offline progression system for the Modded Realm.",
+    "content": [
+      "Fatshark has released powerful new modding tools for its co-op rat-whacker Warhammer: Vermintide 2, providing players with a public-facing incarnation of the internal Stingray developer tools used by the studio. While the game previously featured a Software Development Kit and a Modding Framework, these older frameworks were largely restricted to code-related adjustments, making the creation of custom assets extremely difficult or impossible.",
+      "The newly released Mod Tools are available to all owners of the game directly through their Steam library under 'Modding Tools' and 'Modding Tools content'. These advanced tools empower modders to edit and create custom levels, models, textures, particles, and animations, though Fatshark acknowledges it will take time for the community to cook up exciting new creations.",
+      "To bring this toolkit to fruition, Fatshark admitted it had to make a few compromises. A previously teased weapon pack and a new level have been put on indefinite hold with no active development, though the studio insists it still wants to return to them eventually. Additionally, the studio announced it is shutting down dedicated Versus servers, transitioning Versus play entirely to community-hosted custom games and the lobby browser alongside the upcoming Gifts of the Wolf Father update in early December.",
+      "To revitalize the game's modded scene, Fatshark is introducing a Modded-only offline progression system. Historically, the modding community was split between the Official Realm—restricted to sanctioned quality-of-life mods—and the Modded Realm, which suffered from a lack of active players due to disabled progression. The new offline system will allow players to earn loot and experience while experimenting with wild custom setups, addressing a major historical pain point.",
+      "The rollout coincides with the Gifts of the Wolf Father update arriving in early December, which will also rework talent balances, update weapon icons, and improve the visibility of rune glows from a distance. Meanwhile, Fatshark admits it no longer has the capacity to keep up with mod approvals for the Official Realm, leaving the future of that side of the ecosystem uncertain."
+    ],
+    "highlights": [
+      "Fatshark has released public Stingray developer tools for Warhammer: Vermintide 2, enabling custom levels, animations, and models.",
+      "A previously announced weapon pack and level have been put on hold to make room for the toolkit.",
+      "Dedicated Versus servers are shutting down in favor of community-hosted custom games.",
+      "A new offline progression system is being added to the Modded Realm to let players earn loot and XP while using heavy mods."
+    ],
+    "socialPulse": {
+      "sentiment": "Mixed",
+      "viralPlatforms": [
+        "Steam",
+        "Reddit",
+        "X / Twitter"
+      ],
+      "summary": "Players are ecstatic about the massive potential unlocked by the new Stingray modding tools and the long-awaited offline progression for the Modded Realm. However, a significant portion of the community is frustrated by the shelving of the promised weapon pack and the shuttering of dedicated Versus servers.",
+      "viewpoints": [
+        {
+          "stance": "Modding Enthusiasts Thrilled",
+          "detail": "Many players are celebrating the release of official developer tools, noting it will give Warhammer: Vermintide 2 an incredible second wind through custom campaigns and community content. The addition of offline progression in the Modded Realm is also being praised as a massive win for sandbox freedom."
+        },
+        {
+          "stance": "Frustrated Over Cut Content and Servers",
+          "detail": "Some community members are disappointed that Fatshark put the upcoming weapon pack and level on hold to finish the tools. Others are worried about the closure of dedicated Versus servers, viewing it as a downgrade for competitive co-op matchmaking."
+        }
+      ]
+    },
+    "category": "PC",
+    "gameTitle": "Warhammer: Vermintide 2",
+    "gameScale": "AA",
+    "fanbaseScore": 7,
+    "isUpcoming": false,
+    "isRumor": false,
+    "releaseWindow": "",
+    "isControversy": false,
+    "controversyAngle": "",
+    "isTrending": true,
+    "importance": 6,
+    "source": "Rock Paper Shotgun",
+    "url": "https://www.rockpapershotgun.com/a-new-era-for-vermintide-2-modding-dawneth-as-fatshark-release-powerful-new-tools-for-custom-levels-models-and-animations",
+    "image": "https://assetsio.gnwcdn.com/vermintide-2.png?width=690&quality=85&format=jpg&auto=webp",
+    "publishedAt": "2026-11-27T12:52:30.000Z"
   },
   {
     "id": "1711d5197b9529b9",
