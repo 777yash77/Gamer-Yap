@@ -377,7 +377,7 @@ async function verifyImageUrl(url) {
     );
 
     if (res.status === 416) {
-      await res.body?.cancel().catch(() => {});
+      await res.body?.cancel().catch(() => { });
       const { Range: _unused, ...noRangeHeaders } = imageHeaders;
       void _unused;
       res = await fetchResponseWithTimeout(
@@ -395,7 +395,7 @@ async function verifyImageUrl(url) {
     const totalBytes = totalMatch
       ? Number(totalMatch[1])
       : Number(res.headers.get("content-length") || "0");
-    await res.body?.cancel().catch(() => {});
+    await res.body?.cancel().catch(() => { });
 
     if (!ok || cfMitigated) return false;
     if (!contentType || !contentType.startsWith("image/")) return false;
@@ -404,6 +404,61 @@ async function verifyImageUrl(url) {
   } catch {
     return false;
   }
+}
+
+function normalizeTitleText(text) {
+  return String(text || "")
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLowerCase()
+    .replace(/\bvi\b/g, "6")
+    .replace(/\biv\b/g, "4")
+    .replace(/\biii\b/g, "3")
+    .replace(/\bii\b/g, "2")
+    .replace(/\bv\b/g, "5");
+}
+
+function extractInstallmentNumbers(text) {
+  const norm = normalizeTitleText(text);
+  return new Set(norm.match(/\b\d+\b/g) || []);
+}
+
+function doesTitleMatchGame(candidateTitle, query) {
+  if (!candidateTitle || !query) return false;
+  if (
+    /\b(soundtrack|ost|artbook|asset pack|graphic assets|4k graphic|server|sdk|benchmark|wallpaper|music pack|deluxe upgrade|season pass)\b/i.test(
+      candidateTitle
+    ) &&
+    !/\b(soundtrack|ost|artbook)\b/i.test(query)
+  ) {
+    return false;
+  }
+
+  const queryNums = extractInstallmentNumbers(query);
+  const candNums = extractInstallmentNumbers(candidateTitle);
+  for (const num of queryNums) {
+    if (!candNums.has(num)) return false;
+  }
+
+  const qNorm = normalizeTitleText(query).replace(/[^a-z0-9\s]/g, " ");
+  const cNorm = normalizeTitleText(candidateTitle).replace(/[^a-z0-9\s]/g, " ");
+  const qCompact = qNorm.replace(/\s+/g, "");
+  const cCompact = cNorm.replace(/\s+/g, "");
+  if (qCompact.length >= 4 && cCompact.includes(qCompact)) {
+    return true;
+  }
+
+  const qWords = qNorm
+    .split(/\s+/)
+    .filter((w) => w.length >= 3 && !STOP_WORDS.has(w));
+  const cWords = new Set(cNorm.split(/\s+/).filter(Boolean));
+  if (qWords.length === 0) return false;
+
+  let hits = 0;
+  for (const w of qWords) {
+    if (cWords.has(w)) hits++;
+  }
+  return hits / qWords.length >= 0.75;
 }
 
 async function findSteamGameImage(query) {
@@ -418,33 +473,30 @@ async function findSteamGameImage(query) {
       6000
     );
     const items = searchJson?.items || [];
-    if (items.length === 0) return "";
+    const strictMatches = items.filter((it) => doesTitleMatchGame(it.name, query));
+    if (strictMatches.length === 0) return "";
 
-    const normalizedQuery = query.toLowerCase().replace(/[^a-z0-9]/g, "");
-    const bestMatch =
-      items.find((it) => {
-        const nameNorm = String(it.name || "").toLowerCase().replace(/[^a-z0-9]/g, "");
-        return nameNorm.includes(normalizedQuery) || normalizedQuery.includes(nameNorm);
-      }) || items[0];
+    for (const match of strictMatches.slice(0, 2)) {
+      if (!match?.id) continue;
+      const detailsJson = await fetchJsonWithTimeout(
+        `https://store.steampowered.com/api/appdetails?appids=${match.id}`,
+        { headers: { "User-Agent": REQUEST_HEADERS["User-Agent"] } },
+        6000
+      );
+      const appData = detailsJson?.[String(match.id)]?.data;
+      if (!appData || !doesTitleMatchGame(appData.name || match.name, query)) {
+        continue;
+      }
 
-    if (!bestMatch?.id) return "";
+      const candidates = [
+        appData.screenshots?.[0]?.path_full,
+        appData.header_image,
+      ].filter(Boolean);
 
-    const detailsJson = await fetchJsonWithTimeout(
-      `https://store.steampowered.com/api/appdetails?appids=${bestMatch.id}`,
-      { headers: { "User-Agent": REQUEST_HEADERS["User-Agent"] } },
-      6000
-    );
-    const appData = detailsJson?.[String(bestMatch.id)]?.data;
-    if (!appData) return "";
-
-    const candidates = [
-      appData.screenshots?.[0]?.path_full,
-      appData.header_image,
-    ].filter(Boolean);
-
-    for (const img of candidates) {
-      if (await verifyImageUrl(img)) {
-        return img;
+      for (const img of candidates) {
+        if (await verifyImageUrl(img)) {
+          return img;
+        }
       }
     }
     return "";
@@ -456,29 +508,43 @@ async function findSteamGameImage(query) {
 async function findWikipediaImage(query) {
   if (!query || query.length < 3) return "";
   try {
-    const searchJson = await fetchJsonWithTimeout(
-      `https://en.wikipedia.org/w/api.php?action=query&list=search&srsearch=${encodeURIComponent(
-        query
-      )}&srlimit=3&format=json`,
-      { headers: { "User-Agent": "GamerYapBot/1.0 (https://github.com)" } },
-      5000
-    );
-    const results = searchJson?.query?.search || [];
-    for (const entry of results.slice(0, 3)) {
-      if (!entry?.title) continue;
-      const summary = await fetchJsonWithTimeout(
-        `https://en.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(entry.title)}`,
+    const searchQueries = [query, `${query} video game`];
+    for (const sq of searchQueries) {
+      const searchJson = await fetchJsonWithTimeout(
+        `https://en.wikipedia.org/w/api.php?action=query&list=search&srsearch=${encodeURIComponent(
+          sq
+        )}&srlimit=3&format=json`,
         { headers: { "User-Agent": "GamerYapBot/1.0 (https://github.com)" } },
         5000
       );
-      const candidates = [
-        summary?.originalimage?.source,
-        summary?.thumbnail?.source,
-      ].filter(Boolean);
+      const results = searchJson?.query?.search || [];
+      for (const entry of results.slice(0, 3)) {
+        if (!entry?.title || !doesTitleMatchGame(entry.title, query)) continue;
 
-      for (const img of candidates) {
-        if (isUsableImageCandidate(img) && (await verifyImageUrl(img))) {
-          return img;
+        const summary = await fetchJsonWithTimeout(
+          `https://en.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(entry.title)}`,
+          { headers: { "User-Agent": "GamerYapBot/1.0 (https://github.com)" } },
+          5000
+        );
+        const desc = `${summary?.description || ""} ${summary?.extract || ""}`;
+        if (
+          /\b(film|movie|animated feature|soundtrack album|studio album|television series)\b/i.test(
+            desc
+          ) &&
+          !/\bvideo game\b/i.test(desc)
+        ) {
+          continue;
+        }
+
+        const candidates = [
+          summary?.originalimage?.source,
+          summary?.thumbnail?.source,
+        ].filter(Boolean);
+
+        for (const img of candidates) {
+          if (isUsableImageCandidate(img) && (await verifyImageUrl(img))) {
+            return img;
+          }
         }
       }
     }
@@ -491,25 +557,98 @@ async function findWikipediaImage(query) {
 function isImageRelevantToGame(imageUrl, gameTitle) {
   if (!imageUrl || !gameTitle) return true;
   const imgLower = imageUrl.toLowerCase();
-  const gameTokens = gameTitle
-    .toLowerCase()
+  const gameNorm = normalizeTitleText(gameTitle);
+  const gameTokens = gameNorm
     .replace(/[^a-z0-9\s]/g, " ")
     .split(/\s+/)
     .filter((w) => w.length >= 4 && !STOP_WORDS.has(w));
-  if (gameTokens.length === 0) return true;
   if (gameTokens.some((tok) => imgLower.includes(tok))) return true;
+
   const commonOtherGameSlugs = [
-    "silksong", "witcher", "fortnite", "minecraft", "valorant", "elden", "gta",
+    "silksong", "witcher", "fortnite", "minecraft", "valorant", "elden", "gta", "fable", "exoprimal",
   ];
   for (const slug of commonOtherGameSlugs) {
-    if (imgLower.includes(slug) && !gameTitle.toLowerCase().includes(slug)) {
+    if (imgLower.includes(slug) && !gameNorm.includes(slug)) {
       return false;
     }
   }
   return true;
 }
 
-async function resolveStrictRelevantImage(candidate, gameTitle, imageSearchQuery) {
+async function fetchHtmlWithSlashRetry(rawUrl) {
+  if (!rawUrl) return null;
+  const html = await fetchTextWithTimeout(rawUrl, { headers: REQUEST_HEADERS }, 9000);
+  if (html) return html;
+  const altUrl = rawUrl.endsWith("/") ? rawUrl.replace(/\/+$/, "") : `${rawUrl}/`;
+  return await fetchTextWithTimeout(altUrl, { headers: REQUEST_HEADERS }, 9000);
+}
+
+async function findCrossFeedGameImage(gameTitle, imageSearchQuery, feedItems = [], verifiedPool = [], usedImages = new Set()) {
+  const queries = [gameTitle, imageSearchQuery].filter((q) => q && q.length >= 3);
+  if (queries.length === 0) return "";
+
+  const isMatchedByText = (text) =>
+    queries.some((q) => doesTitleMatchGame(text, q)) ||
+    queries.some((q) => {
+      const qTokens = extractTopicTokens(q);
+      const tTokens = extractTopicTokens(text);
+      if (qTokens.size === 0) return false;
+      let shared = 0;
+      for (const tok of qTokens) {
+        if (tTokens.has(tok)) shared++;
+      }
+      return shared >= Math.min(2, qTokens.size) && extractInstallmentNumbers(q).size === 0;
+    });
+
+  // 1. Prefer verified editorial images from live RSS feed items matching this exact game
+  const matchingRss = feedItems.filter(
+    (it) =>
+      (it.image || it.fetchUrl) &&
+      !usedImages.has(it.image) &&
+      (isMatchedByText(it.rawTitle) || isMatchedByText(it.url))
+  );
+
+  for (const item of matchingRss.slice(0, 6)) {
+    let img = item.image;
+    if (!img || isLowResThumbnail(img)) {
+      const html = await fetchHtmlWithSlashRetry(item.fetchUrl || item.url);
+      const og = html ? extractMetaImageFromHtml(html, item.fetchUrl || item.url) : "";
+      if (og) img = og;
+    }
+    if (
+      img &&
+      isImageRelevantToGame(img, gameTitle) &&
+      (await verifyImageUrl(img))
+    ) {
+      return img;
+    }
+  }
+
+  // 2. Next check verified editorial images already retained for the same exact game
+  const sameGamePool = verifiedPool.filter(
+    (a) =>
+      a.image &&
+      !/wikimedia\.org|\/steam\/apps\//i.test(a.image) &&
+      gameTitle &&
+      normalizeTitleText(a.gameTitle || "") === normalizeTitleText(gameTitle)
+  );
+  const unusedSameGame = sameGamePool.find((a) => !usedImages.has(a.image));
+  const picked = unusedSameGame || sameGamePool[0];
+  if (picked && (await verifyImageUrl(picked.image))) {
+    return picked.image;
+  }
+
+  return "";
+}
+
+async function resolveStrictRelevantImage(
+  candidate,
+  gameTitle,
+  imageSearchQuery,
+  options = {}
+) {
+  const { feedItems = [], verifiedPool = [], usedImages = new Set() } = options;
+
   const currentOk =
     candidate.image &&
     isImageRelevantToGame(candidate.image, gameTitle) &&
@@ -517,6 +656,33 @@ async function resolveStrictRelevantImage(candidate, gameTitle, imageSearchQuery
 
   if (currentOk) {
     return candidate.image;
+  }
+
+  // Retry fetching original article page og:image (handles trailing-slash WP URLs)
+  if (candidate.fetchUrl || candidate.url) {
+    const html = await fetchHtmlWithSlashRetry(candidate.fetchUrl || candidate.url);
+    const metaImg = html
+      ? extractMetaImageFromHtml(html, candidate.fetchUrl || candidate.url)
+      : "";
+    if (
+      metaImg &&
+      isImageRelevantToGame(metaImg, gameTitle) &&
+      (await verifyImageUrl(metaImg))
+    ) {
+      return metaImg;
+    }
+  }
+
+  // Look for matching widescreen art from corroborated outlets / feed items
+  const crossFeedImg = await findCrossFeedGameImage(
+    gameTitle,
+    imageSearchQuery,
+    feedItems,
+    verifiedPool,
+    usedImages
+  );
+  if (crossFeedImg) {
+    return crossFeedImg;
   }
 
   for (const query of [gameTitle, imageSearchQuery]) {
@@ -535,23 +701,16 @@ async function resolveStrictRelevantImage(candidate, gameTitle, imageSearchQuery
     }
   }
 
-  if (candidate.image && (await verifyImageUrl(candidate.image))) {
-    return candidate.image;
-  }
-
   return "";
 }
 
 async function enrichArticleFromWeb(candidate) {
   try {
-    const html = await fetchTextWithTimeout(
-      candidate.url,
-      { headers: REQUEST_HEADERS },
-      9000
-    );
+    const targetUrl = candidate.fetchUrl || candidate.url;
+    const html = await fetchHtmlWithSlashRetry(targetUrl);
     if (!html) return candidate;
 
-    const metaImage = extractMetaImageFromHtml(html, candidate.url);
+    const metaImage = extractMetaImageFromHtml(html, targetUrl);
     if (metaImage && (!candidate.image || isLowResThumbnail(candidate.image))) {
       candidate.image = metaImage;
     }
@@ -996,12 +1155,12 @@ async function rewriteWithGemini(model, article) {
     summary: String(rawPulse.summary || parsed.summary).trim(),
     viewpoints: Array.isArray(rawPulse.viewpoints)
       ? rawPulse.viewpoints
-          .filter((v) => v?.stance && v?.detail)
-          .map((v) => ({
-            stance: String(v.stance).trim(),
-            detail: String(v.detail).trim(),
-          }))
-          .slice(0, 3)
+        .filter((v) => v?.stance && v?.detail)
+        .map((v) => ({
+          stance: String(v.stance).trim(),
+          detail: String(v.detail).trim(),
+        }))
+        .slice(0, 3)
       : [],
   };
 
@@ -1032,6 +1191,44 @@ async function rewriteWithGemini(model, article) {
   };
 }
 
+async function isExistingArticleImageValid(article) {
+  if (!article.image || !(await verifyImageUrl(article.image))) return false;
+  if (!isImageRelevantToGame(article.image, article.gameTitle)) return false;
+
+  const expected = article.gameTitle || article.title;
+  const steamMatch = article.image.match(/\/steam\/apps\/(\d+)\//i);
+  if (steamMatch) {
+    const details = await fetchJsonWithTimeout(
+      `https://store.steampowered.com/api/appdetails?appids=${steamMatch[1]}`,
+      { headers: { "User-Agent": REQUEST_HEADERS["User-Agent"] } },
+      5000
+    );
+    const appName = details?.[steamMatch[1]]?.data?.name;
+    if (!appName || !doesTitleMatchGame(appName, expected)) {
+      return false;
+    }
+  }
+
+  if (/wikimedia\.org/i.test(article.image)) {
+    const filePart = decodeURIComponent(article.image.split("/").pop() || "").split("?")[0];
+    const cleanFile = filePart.replace(/[_.-]/g, " ");
+    if (/\bposter\b/i.test(cleanFile) && !doesTitleMatchGame(cleanFile, expected)) {
+      return false;
+    }
+    const expectedTokens = extractTopicTokens(expected);
+    const fileTokens = extractTopicTokens(cleanFile);
+    let overlap = 0;
+    for (const tok of expectedTokens) {
+      if (fileTokens.has(tok)) overlap++;
+    }
+    if (article.gameTitle && expectedTokens.size > 0 && overlap === 0) {
+      return false;
+    }
+  }
+
+  return true;
+}
+
 async function main() {
   const apiKey = process.env.GEMINI_API_KEY;
   if (!apiKey || apiKey === "your_gemini_api_key_here") {
@@ -1042,36 +1239,92 @@ async function main() {
   const nowMs = Date.now();
   const existingArticles = readExistingArticles();
 
-  // Retain articles within 72h (All) and auto-repair/purge any blocked or broken images
   const within72h = existingArticles.filter(
     (a) => isWithinHours(a.publishedAt, MAX_ALL_AGE_MS, nowMs) && !isNoiseItem(a.title)
   );
-  const verifiedExisting = await Promise.all(
-    within72h.map(async (article) => {
-      const ok = await verifyImageUrl(article.image);
-      if (ok) return article;
 
-      const repaired = await resolveStrictRelevantImage(
-        { rawTitle: article.title, image: "" },
-        article.gameTitle,
-        article.gameTitle || article.title
-      );
-      if (repaired) {
-        console.log(`[REPAIR] Replaced blocked/broken image for "${article.title}".`);
-        return { ...article, image: repaired };
-      }
-      console.log(`[PURGE] Dropped unverified-image article "${article.title}".`);
-      return null;
-    })
+  // Fetch feeds, Steam trends, and community pulse first so repair & new matching share the live editorial pool
+  const [feedResults, trendingGames, communityThreads] = await Promise.all([
+    Promise.allSettled(
+      FEEDS.map(async (feedConfig) => {
+        const feed = await parser.parseURL(feedConfig.url);
+        return { source: feedConfig.source, items: feed.items || [] };
+      })
+    ),
+    fetchTrendingSteamGames(),
+    fetchLemmyCommunityPulse(),
+  ]);
+
+  const allFeedItems = [];
+  for (let i = 0; i < feedResults.length; i++) {
+    const res = feedResults[i];
+    const sourceName = FEEDS[i].source;
+    if (res.status === "rejected") {
+      console.warn(`Failed to fetch ${sourceName} RSS:`, res.reason?.message || res.reason);
+      continue;
+    }
+    for (const item of res.value.items) {
+      const rawLink = String(item.link || item.guid || "").trim();
+      const normalizedLink = normalizeUrl(rawLink);
+      const rawTitle = stripHtml(item.title);
+      const publishedAt = parsePublishedDate(item);
+      const categories = Array.isArray(item.categories)
+        ? item.categories.map((c) => (typeof c === "string" ? c : c?._ || "")).filter(Boolean)
+        : [];
+      if (!normalizedLink || !rawTitle || !publishedAt) continue;
+
+      allFeedItems.push({
+        source: sourceName,
+        rawTitle,
+        rawText: extractRssBodyText(item) || rawTitle,
+        url: normalizedLink,
+        fetchUrl: rawLink,
+        image: extractRssImage(item),
+        publishedAt,
+        categories,
+      });
+    }
+  }
+
+  const validityChecks = await Promise.all(
+    within72h.map(async (article) => ({
+      article,
+      valid: await isExistingArticleImageValid(article),
+    }))
   );
 
-  const retainedExisting = verifiedExisting
-    .filter(Boolean)
-    .map((a) => ({
-      ...a,
-      // Trending flag strictly reflects <=24h window
-      isTrending: isWithinHours(a.publishedAt, MAX_TRENDING_AGE_MS, nowMs),
-    }));
+  const goodExisting = validityChecks
+    .filter((x) => x.valid)
+    .map((x) => x.article);
+  const usedExistingImages = new Set(goodExisting.map((a) => a.image));
+
+  const verifiedExisting = [...goodExisting];
+  for (const { article, valid } of validityChecks) {
+    if (valid) continue;
+    const repaired = await resolveStrictRelevantImage(
+      { rawTitle: article.title, url: article.url, fetchUrl: `${article.url}/`, image: "" },
+      article.gameTitle,
+      article.gameTitle || article.title,
+      {
+        feedItems: allFeedItems,
+        verifiedPool: verifiedExisting,
+        usedImages: usedExistingImages,
+      }
+    );
+    if (repaired) {
+      usedExistingImages.add(repaired);
+      console.log(`[REPAIR] Replaced inaccurate/blocked image for "${article.title}".`);
+      verifiedExisting.push({ ...article, image: repaired });
+    } else {
+      console.log(`[PURGE] Dropped inaccurate-image article "${article.title}".`);
+    }
+  }
+
+  const retainedExisting = verifiedExisting.map((a) => ({
+    ...a,
+    // Trending flag strictly reflects <=24h window
+    isTrending: isWithinHours(a.publishedAt, MAX_TRENDING_AGE_MS, nowMs),
+  }));
 
   const repairedImageCount = retainedExisting.filter((a) => {
     const prev = existingArticles.find((e) => e.id === a.id);
@@ -1092,68 +1345,36 @@ async function main() {
     retainedExisting.length < MIN_TARGET_ARTICLES
       ? Math.min(BOOTSTRAP_NEW_PER_RUN, Math.max(STEADY_NEW_PER_RUN, neededForBaseline))
       : Math.min(
-          MAX_STEADY_NEW_PER_RUN,
-          Math.max(STEADY_NEW_PER_RUN, purgedCount)
-        );
+        MAX_STEADY_NEW_PER_RUN,
+        Math.max(STEADY_NEW_PER_RUN, purgedCount)
+      );
   const candidatePoolLimit = Math.max(CANDIDATE_POOL_SIZE, targetNewArticles * 2);
 
   const trendingCount = retainedExisting.filter((a) => a.isTrending).length;
   console.log(
-    `Loaded ${retainedExisting.length} retained (<=72h) stories (${trendingCount} in <=24h Trending). Mode: ${
-      retainedExisting.length < MIN_TARGET_ARTICLES ? "BOOTSTRAP" : "STEADY"
+    `Loaded ${retainedExisting.length} retained (<=72h) stories (${trendingCount} in <=24h Trending). Mode: ${retainedExisting.length < MIN_TARGET_ARTICLES ? "BOOTSTRAP" : "STEADY"
     } | Target new stories: ${targetNewArticles}.`
   );
 
-  const [feedResults, trendingGames, communityThreads] = await Promise.all([
-    Promise.allSettled(
-      FEEDS.map(async (feedConfig) => {
-        const feed = await parser.parseURL(feedConfig.url);
-        return { source: feedConfig.source, items: feed.items || [] };
-      })
-    ),
-    fetchTrendingSteamGames(),
-    fetchLemmyCommunityPulse(),
-  ]);
-
   const unseenCandidates = [];
-  for (let i = 0; i < feedResults.length; i++) {
-    const res = feedResults[i];
-    const sourceName = FEEDS[i].source;
-
-    if (res.status === "rejected") {
-      console.warn(`Failed to fetch ${sourceName} RSS:`, res.reason?.message || res.reason);
+  for (const entry of allFeedItems) {
+    if (
+      !isWithinHours(entry.publishedAt, MAX_ALL_AGE_MS, nowMs) ||
+      seenUrls.has(entry.url) ||
+      isNoiseItem(entry.rawTitle, entry.categories)
+    ) {
       continue;
     }
-
-    for (const item of res.value.items) {
-      const normalizedLink = normalizeUrl(item.link || item.guid);
-      const rawTitle = stripHtml(item.title);
-      const publishedAt = parsePublishedDate(item);
-      const categories = Array.isArray(item.categories)
-        ? item.categories.map((c) => (typeof c === "string" ? c : c?._ || "")).filter(Boolean)
-        : [];
-
-      if (
-        !normalizedLink ||
-        !rawTitle ||
-        !publishedAt ||
-        !isWithinHours(publishedAt, MAX_ALL_AGE_MS, nowMs) ||
-        seenUrls.has(normalizedLink) ||
-        isNoiseItem(rawTitle, categories)
-      ) {
-        continue;
-      }
-
-      seenUrls.add(normalizedLink);
-      unseenCandidates.push({
-        source: sourceName,
-        rawTitle,
-        rawText: extractRssBodyText(item) || rawTitle,
-        url: normalizedLink,
-        image: extractRssImage(item),
-        publishedAt,
-      });
-    }
+    seenUrls.add(entry.url);
+    unseenCandidates.push({
+      source: entry.source,
+      rawTitle: entry.rawTitle,
+      rawText: entry.rawText,
+      url: entry.url,
+      fetchUrl: entry.fetchUrl,
+      image: entry.image,
+      publishedAt: entry.publishedAt,
+    });
   }
 
   const trendingChanged = retainedExisting.some((a) => {
@@ -1308,7 +1529,12 @@ async function main() {
       const bestImage = await resolveStrictRelevantImage(
         candidate,
         rewritten.gameTitle,
-        rewritten.imageSearchQuery
+        rewritten.imageSearchQuery,
+        {
+          feedItems: allFeedItems,
+          verifiedPool: [...rewrittenArticles, ...retainedExisting],
+          usedImages: usedExistingImages,
+        }
       );
 
       if (!bestImage) {
@@ -1318,6 +1544,8 @@ async function main() {
         if (i < candidatePool.length - 1) await sleep(API_DELAY_MS);
         continue;
       }
+
+      usedExistingImages.add(bestImage);
 
       acceptedPostTopics.push(postTokens);
       const isTrending = isWithinHours(candidate.publishedAt, MAX_TRENDING_AGE_MS, nowMs);
