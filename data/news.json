@@ -303,57 +303,6 @@
     "publishedAt": "2026-11-26T18:00:00.000Z"
   },
   {
-    "id": "23e8002a98c119dc",
-    "title": "Path of Exile 2 Boss Slams 'Truly Terrible' Game Reveals and Calls Out Blizzard",
-    "summary": "Path of Exile co-game director Jonathan Rogers recently criticized standard industry livestream practices at a DevGAMM conference, taking a direct jab at Blizzard for withholding the juiciest details until the very end. Rogers argued that game announcements should cut straight to exciting gameplay and core features to maintain player interest.",
-    "content": [
-      "Speaking at the DevGAMM FTW! games industry conference, Path of Exile co-game director Jonathan Rogers shared insights into how Grinding Gear Games handles its seasonal update schedules. Unlike many traditional game developers, GGG cuts straight to showing new gameplay features ahead of any preamble during its announcement livestreams, a strategy Rogers credits as a key driver behind the game's 13-year success.",
-      "According to Rogers, these announcement streams serve a dual purpose beyond mere marketing. They actively help dictate what features and content the development team should focus on with each update, ensuring that every new league is backed by genuinely exciting features that can successfully rally the player base.",
-      "During his presentation, Rogers did not shy away from critiquing broader industry trends, noting that he has witnessed numerous 'truly terrible livestreams for game announcements' before delivering a playful jab directly targeting Blizzard. While major studios often prefer a slower build-up featuring extensive introductions and detailed design breakdowns, Rogers believes holding the best reveals for the end wastes everyone's time.",
-      "Industry observers and journalists note that while traditional build-ups can sometimes drag on during deep-dive statistic reviews, hearing the direct thought process from developers can humanize studios for the audience. Nevertheless, Rogers' underlying message emphasizes that developers must accurately read the room and tailor their presentations to instantly capture community excitement rather than putting viewers to sleep."
-    ],
-    "highlights": [
-      "Path of Exile co-game director Jonathan Rogers criticized standard industry announcement streams at DevGAMM.",
-      "Rogers singled out Blizzard with a direct jab regarding lengthy and delayed game reveals.",
-      "Grinding Gear Games relies on cutting straight to gameplay to test whether a seasonal league concept is exciting enough to build.",
-      "Critics debate whether prolonged developer deep-dives humanize studio teams or simply drag on too long."
-    ],
-    "socialPulse": {
-      "sentiment": "Mixed",
-      "viralPlatforms": [
-        "X / Twitter",
-        "Reddit",
-        "YouTube"
-      ],
-      "summary": "Social media users are heavily debating the pacing of modern game developer livestreams, with many players agreeing that traditional update streams often include too much filler. Some community members appreciate the deep dives into stats and humanizing the developers behind the screens, while others strongly prefer Grinding Gear Games' fast-paced, gameplay-first approach.",
-      "viewpoints": [
-        {
-          "stance": "Cut to the Chase",
-          "detail": "Many players agree with Jonathan Rogers that prolonged introductions and delayed reveals waste time and drain excitement. Gamers want to see major gameplay features and new content immediately to decide if an update is worth returning for."
-        },
-        {
-          "stance": "Appreciate the Context",
-          "detail": "Other community members enjoy hearing developer thought processes and detailed statistical breakdowns. They feel this transparency reminds audiences that real humans are building the games and provides valuable insight into design decisions."
-        }
-      ]
-    },
-    "category": "Industry",
-    "gameTitle": "Path of Exile 2",
-    "gameScale": "AAA",
-    "fanbaseScore": 9,
-    "isUpcoming": false,
-    "isRumor": false,
-    "releaseWindow": "",
-    "isControversy": false,
-    "controversyAngle": "",
-    "isTrending": false,
-    "importance": 6,
-    "source": "PC Gamer",
-    "url": "https://www.pcgamer.com/games/rpg/blizzard-im-looking-at-you-path-of-exile-2-boss-criticizes-truly-terrible-game-announcements-that-hold-the-juiciest-details-until-the-end",
-    "image": "https://cdn.mos.cms.futurecdn.net/HMRK6xpxefVxP2MDgUaKmG-1920-80.jpg",
-    "publishedAt": "2026-11-26T23:00:00.000Z"
-  },
-  {
     "id": "e3e25e724d87073b",
     "title": "Ubisoft Denies GenAI Pitch Mandate Following Report on Internal Developer Pressure",
     "summary": "Ubisoft has pushed back against a new report claiming its developers must explain why they are not using generative AI in game pitches. While management encourages exploring AI and established the Motherbrain studio division, the company insists technology adoption remains optional.",
@@ -456,6 +405,57 @@
     "url": "https://www.eurogamer.net/grand-theft-auto-6-first-week-hours-watched-record",
     "image": "https://assetsio.gnwcdn.com/gta-6-vice-city-characters-gold-ak-1.jpg?width=690&quality=85&format=jpg&auto=webp",
     "publishedAt": "2026-11-26T15:32:20.000Z"
+  },
+  {
+    "id": "23e8002a98c119dc",
+    "title": "Path of Exile 2 Boss Slams 'Truly Terrible' Game Reveals and Calls Out Blizzard",
+    "summary": "Path of Exile co-game director Jonathan Rogers recently criticized standard industry livestream practices at a DevGAMM conference, taking a direct jab at Blizzard for withholding the juiciest details until the very end. Rogers argued that game announcements should cut straight to exciting gameplay and core features to maintain player interest.",
+    "content": [
+      "Speaking at the DevGAMM FTW! games industry conference, Path of Exile co-game director Jonathan Rogers shared insights into how Grinding Gear Games handles its seasonal update schedules. Unlike many traditional game developers, GGG cuts straight to showing new gameplay features ahead of any preamble during its announcement livestreams, a strategy Rogers credits as a key driver behind the game's 13-year success.",
+      "According to Rogers, these announcement streams serve a dual purpose beyond mere marketing. They actively help dictate what features and content the development team should focus on with each update, ensuring that every new league is backed by genuinely exciting features that can successfully rally the player base.",
+      "During his presentation, Rogers did not shy away from critiquing broader industry trends, noting that he has witnessed numerous 'truly terrible livestreams for game announcements' before delivering a playful jab directly targeting Blizzard. While major studios often prefer a slower build-up featuring extensive introductions and detailed design breakdowns, Rogers believes holding the best reveals for the end wastes everyone's time.",
+      "Industry observers and journalists note that while traditional build-ups can sometimes drag on during deep-dive statistic reviews, hearing the direct thought process from developers can humanize studios for the audience. Nevertheless, Rogers' underlying message emphasizes that developers must accurately read the room and tailor their presentations to instantly capture community excitement rather than putting viewers to sleep."
+    ],
+    "highlights": [
+      "Path of Exile co-game director Jonathan Rogers criticized standard industry announcement streams at DevGAMM.",
+      "Rogers singled out Blizzard with a direct jab regarding lengthy and delayed game reveals.",
+      "Grinding Gear Games relies on cutting straight to gameplay to test whether a seasonal league concept is exciting enough to build.",
+      "Critics debate whether prolonged developer deep-dives humanize studio teams or simply drag on too long."
+    ],
+    "socialPulse": {
+      "sentiment": "Mixed",
+      "viralPlatforms": [
+        "X / Twitter",
+        "Reddit",
+        "YouTube"
+      ],
+      "summary": "Social media users are heavily debating the pacing of modern game developer livestreams, with many players agreeing that traditional update streams often include too much filler. Some community members appreciate the deep dives into stats and humanizing the developers behind the screens, while others strongly prefer Grinding Gear Games' fast-paced, gameplay-first approach.",
+      "viewpoints": [
+        {
+          "stance": "Cut to the Chase",
+          "detail": "Many players agree with Jonathan Rogers that prolonged introductions and delayed reveals waste time and drain excitement. Gamers want to see major gameplay features and new content immediately to decide if an update is worth returning for."
+        },
+        {
+          "stance": "Appreciate the Context",
+          "detail": "Other community members enjoy hearing developer thought processes and detailed statistical breakdowns. They feel this transparency reminds audiences that real humans are building the games and provides valuable insight into design decisions."
+        }
+      ]
+    },
+    "category": "Industry",
+    "gameTitle": "Path of Exile 2",
+    "gameScale": "AAA",
+    "fanbaseScore": 9,
+    "isUpcoming": false,
+    "isRumor": false,
+    "releaseWindow": "",
+    "isControversy": false,
+    "controversyAngle": "",
+    "isTrending": false,
+    "importance": 6,
+    "source": "PC Gamer",
+    "url": "https://www.pcgamer.com/games/rpg/blizzard-im-looking-at-you-path-of-exile-2-boss-criticizes-truly-terrible-game-announcements-that-hold-the-juiciest-details-until-the-end",
+    "image": "https://cdn.mos.cms.futurecdn.net/HMRK6xpxefVxP2MDgUaKmG-1920-80.jpg",
+    "publishedAt": "2026-11-26T23:00:00.000Z"
   },
   {
     "id": "0888ae6c43571217",
@@ -613,6 +613,57 @@
     "publishedAt": "2026-11-26T12:15:40.000Z"
   },
   {
+    "id": "746a5699fd68e7a6",
+    "title": "EA Sports FC 27 Adds Late Commentator John Motson Using AI",
+    "summary": "EA Sports is introducing the voice of late legendary commentator John Motson to EA Sports FC 27 using artificial intelligence and archival audio. The decision has sparked a major debate across the gaming community regarding the use of AI to recreate deceased real-world figures. The feature was made possible with the direct permission of Motson's widow and son.",
+    "content": [
+      "EA Sports FC 27 is set to feature the voice of the iconic football commentator John Motson, who sadly passed away in 2023. This marks the first time that a deceased commentator has been added to the franchise. To make this possible, Electronic Arts utilized a combination of legacy archival recordings and artificial intelligence technology.",
+      "According to senior game design director Mat Prior, using AI was deemed the only viable method to bring Motson back into the commentary booth. Because Motson passed away before modern players like Chloe Kelly and Bradley Barcola entered the sport, completely fresh commentary lines regarding these athletes had to be synthesized using the AI tools.",
+      "The implementation of the late broadcaster's voice has received official backing and blessing from his family. Both Motson's widow and son gave their full permission for EA Sports to utilize his likeness and voice for this specific in-game addition.",
+      "The inclusion highlights a growing trend of technology intersecting with legacy media in sports video games. While it offers a nostalgic nod for long-time football fans, it also pushes the gaming industry further into complex ethical discussions surrounding synthetic voice replication."
+    ],
+    "highlights": [
+      "Late commentator John Motson's voice is being added to EA Sports FC 27.",
+      "EA used a mix of old recordings and AI to generate commentary for modern players.",
+      "Motson's widow and son gave full permission for the implementation.",
+      "This marks the first time a deceased commentator has been featured in the series."
+    ],
+    "socialPulse": {
+      "sentiment": "Heated",
+      "viralPlatforms": [
+        "X / Twitter",
+        "Reddit",
+        "YouTube"
+      ],
+      "summary": "Gamers and football fans are currently locked in a heated debate over the ethics of using artificial intelligence to recreate the voice of a deceased person. While some community members appreciate the respectful nod to a legendary broadcaster and note that his family gave permission, others express deep discomfort with the normalization of synthetic voices for dead individuals.",
+      "viewpoints": [
+        {
+          "stance": "Nostalgic Tribute",
+          "detail": "Many fans feel that hearing Motson's iconic voice again brings a wonderful sense of nostalgia to the game. They emphasize that since the family consented, it serves as a touching tribute rather than a disrespectful exploitation."
+        },
+        {
+          "stance": "Ethical Discomfort",
+          "detail": "Critics argue that using AI to generate new lines for a deceased commentator crosses a troubling ethical boundary. They worry about the slippery slope of synthetic voice replication in media and entertainment."
+        }
+      ]
+    },
+    "category": "Industry",
+    "gameTitle": "EA Sports FC 27",
+    "gameScale": "AAA",
+    "fanbaseScore": 9,
+    "isUpcoming": true,
+    "isRumor": false,
+    "releaseWindow": "Today",
+    "isControversy": true,
+    "controversyAngle": "AI Voice Replication",
+    "isTrending": false,
+    "importance": 8,
+    "source": "Nintendo Life",
+    "url": "https://www.nintendolife.com/news/2026/11/ea-sports-fc-27-is-using-ai-to-add-the-voice-of-late-commentator-john-motson",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/5adfa6a72f1ba6f269580d106ef6d6a760aa5119/ss_5adfa6a72f1ba6f269580d106ef6d6a760aa5119.1920x1080.jpg?t=1793610006",
+    "publishedAt": "2026-11-26T11:15:00.000Z"
+  },
+  {
     "id": "5b0087d0b388ffdc",
     "title": "Warhammer 40,000: Space Marine 2 Decimation Update Drops Weekly Clash, Vanguard Rework, and More",
     "summary": "The latest Decimation update for Warhammer 40,000: Space Marine 2 introduces the new Weekly Clash PvP mode, a fresh Chaos Siege sector challenge, and a substantial rework for the Vanguard class. Players can also unlock new heroic weapons and armor pieces while benefiting from various quality-of-life adjustments.",
@@ -665,55 +716,56 @@
     "publishedAt": "2026-11-26T17:58:30.000Z"
   },
   {
-    "id": "746a5699fd68e7a6",
-    "title": "EA Sports FC 27 Adds Late Commentator John Motson Using AI",
-    "summary": "EA Sports is introducing the voice of late legendary commentator John Motson to EA Sports FC 27 using artificial intelligence and archival audio. The decision has sparked a major debate across the gaming community regarding the use of AI to recreate deceased real-world figures. The feature was made possible with the direct permission of Motson's widow and son.",
+    "id": "ff94c0fa575837cf",
+    "title": "How Nintendo Modernised Ocarina Of Time's Iconic Swordfighting In The Remake",
+    "summary": "The Ocarina of Time remake shakes up classic N64 combat by introducing aggressively coordinated enemy groups and modern adjustments. While it keeps traditional sword-and-shield mechanics without stamina meters or complex parry systems, it offers a fascinating look at how 3D action design has evolved.",
     "content": [
-      "EA Sports FC 27 is set to feature the voice of the iconic football commentator John Motson, who sadly passed away in 2023. This marks the first time that a deceased commentator has been added to the franchise. To make this possible, Electronic Arts utilized a combination of legacy archival recordings and artificial intelligence technology.",
-      "According to senior game design director Mat Prior, using AI was deemed the only viable method to bring Motson back into the commentary booth. Because Motson passed away before modern players like Chloe Kelly and Bradley Barcola entered the sport, completely fresh commentary lines regarding these athletes had to be synthesized using the AI tools.",
-      "The implementation of the late broadcaster's voice has received official backing and blessing from his family. Both Motson's widow and son gave their full permission for EA Sports to utilize his likeness and voice for this specific in-game addition.",
-      "The inclusion highlights a growing trend of technology intersecting with legacy media in sports video games. While it offers a nostalgic nod for long-time football fans, it also pushes the gaming industry further into complex ethical discussions surrounding synthetic voice replication."
+      "The legacy of 2026 highlights an incredible year for video game swordfighting, with titles like Onimusha: Way of the Sword, Blood of Dawnwalker, and Phantom Blade Zero pushing the envelope. This makes it a fascinating time for The Hero of Time to step back into the fray, given that the original N64 Ocarina of Time practically set the template for modern action-game design.",
+      "Ocarina of Time famously defined lock-on mechanics and circle strafing, drawing its inspiration from a Toei Kyoto Studio Park ninja show witnessed by co-director Toru Osawa and colleagues. Director Yoshiaki Koizumi observed how one enemy attacked while others waited in a queue, solving the challenge of crowd control and giving birth to Z-targeting, which prevented players from being mobbed from all directions.",
+      "Modern players no longer need to be handled with kid gloves, and the Ocarina remake reflects that shift by overhauling encounters. For instance, the Forest Temple's fight against two Wolfos now features aggressive, tankier, and swifter fiends that conduct somersaulting tag-team switchups instead of patiently waiting in the background.",
+      "Despite these enhancements, playing the remake still feels like stepping into a parallel universe untouched by modern Soulslike trends. It omits trendy features like stamina meters, posture gauges, or high-risk parry abilities, leaving players with a cautious, chess-like game of sword-and-shield combat.",
+      "While it avoids the light and heavy attack fussiness or complex input flurries seen in other modern titles, the remake's combat remains laudably true to the original game. It offers simpler mechanics that reward patience and baiting mistakes, proving that classic design principles still hold up brilliantly today."
     ],
     "highlights": [
-      "Late commentator John Motson's voice is being added to EA Sports FC 27.",
-      "EA used a mix of old recordings and AI to generate commentary for modern players.",
-      "Motson's widow and son gave full permission for the implementation.",
-      "This marks the first time a deceased commentator has been featured in the series."
+      "Ocarina of Time originally invented the modern 3D lock-on system inspired by a live ninja show.",
+      "The remake ditches patient enemy queuing, introducing aggressive tag-team tactics for foes like the Wolfos.",
+      "Classic sword-and-shield combat remains intact without modern stamina meters or complex parry mechanics.",
+      "The gameplay delivers a deliberate, chess-like pacing that contrasts sharply with today's fast-paced Soulslikes."
     ],
     "socialPulse": {
-      "sentiment": "Heated",
+      "sentiment": "Mixed",
       "viralPlatforms": [
-        "X / Twitter",
         "Reddit",
+        "X / Twitter",
         "YouTube"
       ],
-      "summary": "Gamers and football fans are currently locked in a heated debate over the ethics of using artificial intelligence to recreate the voice of a deceased person. While some community members appreciate the respectful nod to a legendary broadcaster and note that his family gave permission, others express deep discomfort with the normalization of synthetic voices for dead individuals.",
+      "summary": "Gamers across social media are fiercely debating the balance between nostalgic fidelity and modern combat innovations in the Ocarina of Time remake. While some fans praise the retention of classic, methodical swordplay without complicated stamina meters, others wish Nintendo had integrated deeper mechanics like advanced parries or dynamic combos found in newer action titles.",
       "viewpoints": [
         {
-          "stance": "Nostalgic Tribute",
-          "detail": "Many fans feel that hearing Motson's iconic voice again brings a wonderful sense of nostalgia to the game. They emphasize that since the family consented, it serves as a touching tribute rather than a disrespectful exploitation."
+          "stance": "Praising the Classic Feel",
+          "detail": "Many players love that the game avoids modern Soulslike tropes, keeping combat focused on simple positioning and chess-like patience. They argue that adding excessive stamina and posture meters would ruin the nostalgic charm of the original N64 classic."
         },
         {
-          "stance": "Ethical Discomfort",
-          "detail": "Critics argue that using AI to generate new lines for a deceased commentator crosses a troubling ethical boundary. They worry about the slippery slope of synthetic voice replication in media and entertainment."
+          "stance": "Craving Modern Enhancements",
+          "detail": "Other fans feel disappointed by the lack of advanced combat flourishes like directional striking or high-risk parry systems. They believe that keeping the original mechanics too strict misses an opportunity to fully refresh the aging action formula."
         }
       ]
     },
-    "category": "Industry",
-    "gameTitle": "EA Sports FC 27",
+    "category": "Reviews",
+    "gameTitle": "The Legend of Zelda: Ocarina of Time",
     "gameScale": "AAA",
-    "fanbaseScore": 9,
-    "isUpcoming": true,
+    "fanbaseScore": 10,
+    "isUpcoming": false,
     "isRumor": false,
-    "releaseWindow": "Today",
-    "isControversy": true,
-    "controversyAngle": "AI Voice Replication",
+    "releaseWindow": "",
+    "isControversy": false,
+    "controversyAngle": "",
     "isTrending": false,
     "importance": 8,
     "source": "Nintendo Life",
-    "url": "https://www.nintendolife.com/news/2026/11/ea-sports-fc-27-is-using-ai-to-add-the-voice-of-late-commentator-john-motson",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/5adfa6a72f1ba6f269580d106ef6d6a760aa5119/ss_5adfa6a72f1ba6f269580d106ef6d6a760aa5119.1920x1080.jpg?t=1793610006",
-    "publishedAt": "2026-11-26T11:15:00.000Z"
+    "url": "https://www.nintendolife.com/features/talking-point-ocarina-of-time-revolutionised-the-3d-swordfight-but-how-does-the-remake-hold-up-in-a-vintage-year-for-clashing-blades",
+    "image": "https://images.nintendolife.com/54756797ecfc9/large.jpg",
+    "publishedAt": "2026-11-26T16:00:00.000Z"
   },
   {
     "id": "fb0f7aad6d93ed3f",
@@ -1174,6 +1226,57 @@
     "publishedAt": "2026-11-25T17:59:00.000Z"
   },
   {
+    "id": "82920a4d6424e046",
+    "title": "Aeterna Lucis Dev Braces For Impact As Silksong Announces Fresh Showcase",
+    "summary": "After delaying Aeterna Lucis to December 2026 specifically to escape Hollow Knight: Silksong's launch window, indie developer Aeternum Game Studios is now facing a new collision course. Team Cherry has announced an upcoming 'Cherry Time' special presentation featuring updates on the Sea of Sorrow DLC, threatening to overshadow indie releases yet again.",
+    "content": [
+      "The gaming universe seemingly has a cruel sense of humor when it comes to scheduling around Team Cherry's elusive masterpieces. Last year, a multitude of independent developers hastily pushed back their launch schedules to avoid the massive blast radius of Hollow Knight: Silksong. Among them was Aeternum Game Studios, which made the calculated decision to delay its upcoming metroidvania title, Aeterna Lucis, all the way to December 3rd, 2026, to ensure it occupied a safe distance from whatever the powerhouse indie developer was cooking up.",
+      "However, that carefully laid plan appears to be facing a new hurdle. Yesterday, Team Cherry abruptly announced an upcoming 'Cherry Time' special presentation slated for November 27th. The broadcast promises fresh news, official studio announcements, and a long-awaited update on the hotly anticipated Sea of Sorrow DLC, instantly commanding the attention of the entire gaming community and suffocating the oxygen out of the news cycle for concurrent indie titles.",
+      "The sudden timing of the presentation has sent a wave of bittersweet amusement and dread through indie development circles and player communities alike, popularized by spaces like Steam Hype. Developers who thought they successfully navigated the Silksong minefield by choosing a distant release date are now realizing that Team Cherry's ongoing content pipeline and promotional events can disrupt release schedules at literally any given moment.",
+      "While Aeterna Lucis still holds its firm December 2026 release date, the looming presence of the 'Cherry Time' showcase highlights the immense gravitational pull that Team Cherry exerts over the entire metroidvania genre. Whether the Sea of Sorrow DLC will launch immediately or simply occupy the headlines for weeks to come remains to be seen, but smaller studios are once again forced to watch and adapt to the unpredictable behemoth of the indie scene."
+    ],
+    "highlights": [
+      "Aeterna Lucis previously delayed its release to December 3rd, 2026, to avoid colliding with Hollow Knight: Silksong.",
+      "Team Cherry has unexpectedly announced a 'Cherry Time' special presentation for November 27th.",
+      "The showcase will feature studio updates and news on the highly anticipated Sea of Sorrow DLC.",
+      "Indie developers are once again bracing for potential marketing and attention overlap with Team Cherry's massive fanbase."
+    ],
+    "socialPulse": {
+      "sentiment": "Mixed",
+      "viralPlatforms": [
+        "Steam",
+        "X / Twitter",
+        "Reddit"
+      ],
+      "summary": "Gamers on social media are heavily amused by the comedic timing of Team Cherry's announcement, joking that the universe actively conspires against any indie game trying to breathe. At the same time, fans of Hollow Knight are wildly hyped for the Sea of Sorrow DLC news, while some community members express genuine sympathy for developers like Aeternum Game Studios who keep getting caught in the crossfire.",
+      "viewpoints": [
+        {
+          "stance": "Pure Hype for Team Cherry",
+          "detail": "Many fans couldn't care less about scheduling conflicts, expressing absolute elation that 'Cherry Time' is finally bringing concrete updates and DLC news. For this side of the community, any day with official Team Cherry communication is an immediate win."
+        },
+        {
+          "stance": "Sympathy for Rival Indies",
+          "detail": "Other players pointed out how genuinely unlucky Aeternum Game Studios is, having delayed their game by years only to land squarely in the path of a major DLC blowout. Commenters noted that competing for oxygen against Silksong-related content is practically impossible for smaller teams."
+        }
+      ]
+    },
+    "category": "Industry",
+    "gameTitle": "Hollow Knight: Silksong",
+    "gameScale": "AA",
+    "fanbaseScore": 10,
+    "isUpcoming": true,
+    "isRumor": false,
+    "releaseWindow": "Dec 3, 2026",
+    "isControversy": false,
+    "controversyAngle": "",
+    "isTrending": false,
+    "importance": 6,
+    "source": "Nintendo Life",
+    "url": "https://www.nintendolife.com/news/2026/11/here-we-go-again-after-delaying-for-silksong-indie-dev-braces-for-a-sea-of-sorrow-clash",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030300/26950369fe4b03c2268620eb9815c8a246aa0b06/ss_26950369fe4b03c2268620eb9815c8a246aa0b06.1920x1080.jpg?t=1776125736",
+    "publishedAt": "2026-11-26T12:45:00.000Z"
+  },
+  {
     "id": "683df533e53b06d4",
     "title": "Review: Gamesir Nova Vision Controller for Switch 1 & 2 Elevates the Mid-Range Market",
     "summary": "Accessory developer Gamesir has expanded its lineup with the Nova Vision, a mid-range controller designed for Switch 1 and 2 systems. Priced at $54.99, it introduces unique features like a built-in color LCD screen and tool-free adjustable tension Hall Effect analogue sticks.",
@@ -1224,57 +1327,6 @@
     "url": "https://www.nintendolife.com/reviews/gamesir-nova-vision-controller-for-switch-1-and-2-unique-features-elevate-this-mid-range-pad",
     "image": "https://images.nintendolife.com/637448a224e55/large.jpg",
     "publishedAt": "2026-11-26T18:00:00.000Z"
-  },
-  {
-    "id": "82920a4d6424e046",
-    "title": "Aeterna Lucis Dev Braces For Impact As Silksong Announces Fresh Showcase",
-    "summary": "After delaying Aeterna Lucis to December 2026 specifically to escape Hollow Knight: Silksong's launch window, indie developer Aeternum Game Studios is now facing a new collision course. Team Cherry has announced an upcoming 'Cherry Time' special presentation featuring updates on the Sea of Sorrow DLC, threatening to overshadow indie releases yet again.",
-    "content": [
-      "The gaming universe seemingly has a cruel sense of humor when it comes to scheduling around Team Cherry's elusive masterpieces. Last year, a multitude of independent developers hastily pushed back their launch schedules to avoid the massive blast radius of Hollow Knight: Silksong. Among them was Aeternum Game Studios, which made the calculated decision to delay its upcoming metroidvania title, Aeterna Lucis, all the way to December 3rd, 2026, to ensure it occupied a safe distance from whatever the powerhouse indie developer was cooking up.",
-      "However, that carefully laid plan appears to be facing a new hurdle. Yesterday, Team Cherry abruptly announced an upcoming 'Cherry Time' special presentation slated for November 27th. The broadcast promises fresh news, official studio announcements, and a long-awaited update on the hotly anticipated Sea of Sorrow DLC, instantly commanding the attention of the entire gaming community and suffocating the oxygen out of the news cycle for concurrent indie titles.",
-      "The sudden timing of the presentation has sent a wave of bittersweet amusement and dread through indie development circles and player communities alike, popularized by spaces like Steam Hype. Developers who thought they successfully navigated the Silksong minefield by choosing a distant release date are now realizing that Team Cherry's ongoing content pipeline and promotional events can disrupt release schedules at literally any given moment.",
-      "While Aeterna Lucis still holds its firm December 2026 release date, the looming presence of the 'Cherry Time' showcase highlights the immense gravitational pull that Team Cherry exerts over the entire metroidvania genre. Whether the Sea of Sorrow DLC will launch immediately or simply occupy the headlines for weeks to come remains to be seen, but smaller studios are once again forced to watch and adapt to the unpredictable behemoth of the indie scene."
-    ],
-    "highlights": [
-      "Aeterna Lucis previously delayed its release to December 3rd, 2026, to avoid colliding with Hollow Knight: Silksong.",
-      "Team Cherry has unexpectedly announced a 'Cherry Time' special presentation for November 27th.",
-      "The showcase will feature studio updates and news on the highly anticipated Sea of Sorrow DLC.",
-      "Indie developers are once again bracing for potential marketing and attention overlap with Team Cherry's massive fanbase."
-    ],
-    "socialPulse": {
-      "sentiment": "Mixed",
-      "viralPlatforms": [
-        "Steam",
-        "X / Twitter",
-        "Reddit"
-      ],
-      "summary": "Gamers on social media are heavily amused by the comedic timing of Team Cherry's announcement, joking that the universe actively conspires against any indie game trying to breathe. At the same time, fans of Hollow Knight are wildly hyped for the Sea of Sorrow DLC news, while some community members express genuine sympathy for developers like Aeternum Game Studios who keep getting caught in the crossfire.",
-      "viewpoints": [
-        {
-          "stance": "Pure Hype for Team Cherry",
-          "detail": "Many fans couldn't care less about scheduling conflicts, expressing absolute elation that 'Cherry Time' is finally bringing concrete updates and DLC news. For this side of the community, any day with official Team Cherry communication is an immediate win."
-        },
-        {
-          "stance": "Sympathy for Rival Indies",
-          "detail": "Other players pointed out how genuinely unlucky Aeternum Game Studios is, having delayed their game by years only to land squarely in the path of a major DLC blowout. Commenters noted that competing for oxygen against Silksong-related content is practically impossible for smaller teams."
-        }
-      ]
-    },
-    "category": "Industry",
-    "gameTitle": "Hollow Knight: Silksong",
-    "gameScale": "AA",
-    "fanbaseScore": 10,
-    "isUpcoming": true,
-    "isRumor": false,
-    "releaseWindow": "Dec 3, 2026",
-    "isControversy": false,
-    "controversyAngle": "",
-    "isTrending": false,
-    "importance": 6,
-    "source": "Nintendo Life",
-    "url": "https://www.nintendolife.com/news/2026/11/here-we-go-again-after-delaying-for-silksong-indie-dev-braces-for-a-sea-of-sorrow-clash",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030300/26950369fe4b03c2268620eb9815c8a246aa0b06/ss_26950369fe4b03c2268620eb9815c8a246aa0b06.1920x1080.jpg?t=1776125736",
-    "publishedAt": "2026-11-26T12:45:00.000Z"
   },
   {
     "id": "e5b86e7534c93ec0",
@@ -1376,6 +1428,58 @@
     "url": "https://www.gematsu.com/2026/11/hark-the-ghoul-launches-january-21-2027-for-ps5-xbox-series-switch-2-switch-and-pc",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3058660/5b0e4283073fca82f3cfbd6b7990416663dcf7bd/ss_5b0e4283073fca82f3cfbd6b7990416663dcf7bd.1920x1080.jpg?t=1795726221",
     "publishedAt": "2026-11-26T15:50:27.000Z"
+  },
+  {
+    "id": "b8c6187274659fc6",
+    "title": "AI-Generated GTA 6 PC Ports Hit With Take-Two Takedowns as Dev Calls Project 'Dumpster Fire'",
+    "summary": "An unofficial, AI-generated PC recompilation project for Grand Theft Auto 6 called Leonida has been targeted by copyright takedowns from Rockstar and Take-Two Interactive. Former Bungie developer Amy Hendricks documented the chaotic project, which was built using tools like Claude by teenagers before key members withdrew following Discord and GitHub enforcement actions.",
+    "content": [
+      "One of the creators of an unofficial AI-generated PC port of Grand Theft Auto 6 claims that Rockstar and Take-Two Interactive have stepped in to shut down the project. Titled 'Leonida' after the game's setting, the port is a recompilation translating the game's original code into native PC code. It was based on an incomplete GTA 6 Xbox build containing the executable file, which was leaked earlier in the week by a crypto figure named Cyberleek.",
+      "As documented by former Bungie developer Amy Hendricks in a Bluesky thread, the project was being built using Claude and Google's Antigravity tools. Hendricks noted that much of the creation process consisted of teenagers typing prompts like 'work faster' while spending significant amounts of money on usage fees.",
+      "Although the Leonida team managed to get the game to boot on PC, key members NotRexed and Shayder have withdrawn from the project and removed references from their social media. NotRexed shared a copyright infringement takedown notification from Discord, explaining that managing school, sports, and angry community members on Discord became too overwhelming.",
+      "The Leonida Discord server has been shut down, and GitHub has taken action against over 3,000 forks from the original repository following alleged takedown requests from Take-Two Interactive representatives. Despite this enforcement, separate leaderboards have already emerged to track progress on other similar GTA 6 recompilation projects.",
+      "Prior to the console release of GTA 6, former Rockstar North tech director Obbe Vermeij predicted that Rockstar would release an official PC version sooner than expected to combat generative AI rip-offs. When asked about the risk, Take-Two CEO Strauss Zelnick stated the company is not cavalier about the threat, but remains confident players prefer the authentic experience."
+    ],
+    "highlights": [
+      "An unofficial AI-generated GTA 6 PC port project called Leonida has faced aggressive takedowns from Rockstar and Take-Two.",
+      "The project was built by teenage developers using AI tools like Claude, prompting remarks about its chaotic nature from industry veterans.",
+      "GitHub and Discord removed the project's servers and thousands of code forks following copyright infringement notices.",
+      "Take-Two previously stated they take AI risks seriously, while former developers predicted swift action to protect the franchise's PC release."
+    ],
+    "socialPulse": {
+      "sentiment": "Heated",
+      "viralPlatforms": [
+        "X / Twitter",
+        "Reddit",
+        "Discord"
+      ],
+      "summary": "Social media users are heavily discussing the bizarre nature of teenagers attempting an AI-generated PC recompilation of an unreleased blockbuster. Observers on platforms like Bluesky and Discord have criticized the chaotic implementation and high usage costs, while others focus on the inevitable and swift legal hammer dropped by Take-Two Interactive.",
+      "viewpoints": [
+        {
+          "stance": "Inevitable Legal Action",
+          "detail": "Many commentators noted that attempting to distribute a recompilation based on leaked executable files was bound to trigger immediate corporate copyright enforcement. They expressed zero surprise that Take-Two moved quickly to shut down the GitHub repositories and Discord servers."
+        },
+        {
+          "stance": "Chaos and Slop",
+          "detail": "Industry developers and tech enthusiasts reacted with a mix of amusement and horror at the reliance on AI tools like Claude to cobble together a game port. Observers highlighted the absurdity of teenagers spending large sums of money on usage fees to prompt an AI into writing a complex game port."
+        }
+      ]
+    },
+    "category": "PC",
+    "gameTitle": "Grand Theft Auto 6",
+    "gameScale": "AAA",
+    "fanbaseScore": 10,
+    "isUpcoming": true,
+    "isRumor": false,
+    "releaseWindow": "Rumor / TBA",
+    "isControversy": true,
+    "controversyAngle": "AI Code Backlash",
+    "isTrending": false,
+    "importance": 8,
+    "source": "Rock Paper Shotgun",
+    "url": "https://www.rockpapershotgun.com/ai-generated-gta-6-pc-ports-get-nuked-in-alleged-rockstar-takedown-spree-as-former-bungie-dev-hails-most-ridiculous-dumpster-fire-ever",
+    "image": "https://assetsio.gnwcdn.com/gta6-dancing-on-car.jpeg?width=690&quality=85&format=jpg&auto=webp",
+    "publishedAt": "2026-11-25T10:38:50.000Z"
   },
   {
     "id": "e2c43226f318ed7b",
@@ -1481,58 +1585,6 @@
     "publishedAt": "2026-11-26T14:20:36.000Z"
   },
   {
-    "id": "b8c6187274659fc6",
-    "title": "AI-Generated GTA 6 PC Ports Hit With Take-Two Takedowns as Dev Calls Project 'Dumpster Fire'",
-    "summary": "An unofficial, AI-generated PC recompilation project for Grand Theft Auto 6 called Leonida has been targeted by copyright takedowns from Rockstar and Take-Two Interactive. Former Bungie developer Amy Hendricks documented the chaotic project, which was built using tools like Claude by teenagers before key members withdrew following Discord and GitHub enforcement actions.",
-    "content": [
-      "One of the creators of an unofficial AI-generated PC port of Grand Theft Auto 6 claims that Rockstar and Take-Two Interactive have stepped in to shut down the project. Titled 'Leonida' after the game's setting, the port is a recompilation translating the game's original code into native PC code. It was based on an incomplete GTA 6 Xbox build containing the executable file, which was leaked earlier in the week by a crypto figure named Cyberleek.",
-      "As documented by former Bungie developer Amy Hendricks in a Bluesky thread, the project was being built using Claude and Google's Antigravity tools. Hendricks noted that much of the creation process consisted of teenagers typing prompts like 'work faster' while spending significant amounts of money on usage fees.",
-      "Although the Leonida team managed to get the game to boot on PC, key members NotRexed and Shayder have withdrawn from the project and removed references from their social media. NotRexed shared a copyright infringement takedown notification from Discord, explaining that managing school, sports, and angry community members on Discord became too overwhelming.",
-      "The Leonida Discord server has been shut down, and GitHub has taken action against over 3,000 forks from the original repository following alleged takedown requests from Take-Two Interactive representatives. Despite this enforcement, separate leaderboards have already emerged to track progress on other similar GTA 6 recompilation projects.",
-      "Prior to the console release of GTA 6, former Rockstar North tech director Obbe Vermeij predicted that Rockstar would release an official PC version sooner than expected to combat generative AI rip-offs. When asked about the risk, Take-Two CEO Strauss Zelnick stated the company is not cavalier about the threat, but remains confident players prefer the authentic experience."
-    ],
-    "highlights": [
-      "An unofficial AI-generated GTA 6 PC port project called Leonida has faced aggressive takedowns from Rockstar and Take-Two.",
-      "The project was built by teenage developers using AI tools like Claude, prompting remarks about its chaotic nature from industry veterans.",
-      "GitHub and Discord removed the project's servers and thousands of code forks following copyright infringement notices.",
-      "Take-Two previously stated they take AI risks seriously, while former developers predicted swift action to protect the franchise's PC release."
-    ],
-    "socialPulse": {
-      "sentiment": "Heated",
-      "viralPlatforms": [
-        "X / Twitter",
-        "Reddit",
-        "Discord"
-      ],
-      "summary": "Social media users are heavily discussing the bizarre nature of teenagers attempting an AI-generated PC recompilation of an unreleased blockbuster. Observers on platforms like Bluesky and Discord have criticized the chaotic implementation and high usage costs, while others focus on the inevitable and swift legal hammer dropped by Take-Two Interactive.",
-      "viewpoints": [
-        {
-          "stance": "Inevitable Legal Action",
-          "detail": "Many commentators noted that attempting to distribute a recompilation based on leaked executable files was bound to trigger immediate corporate copyright enforcement. They expressed zero surprise that Take-Two moved quickly to shut down the GitHub repositories and Discord servers."
-        },
-        {
-          "stance": "Chaos and Slop",
-          "detail": "Industry developers and tech enthusiasts reacted with a mix of amusement and horror at the reliance on AI tools like Claude to cobble together a game port. Observers highlighted the absurdity of teenagers spending large sums of money on usage fees to prompt an AI into writing a complex game port."
-        }
-      ]
-    },
-    "category": "PC",
-    "gameTitle": "Grand Theft Auto 6",
-    "gameScale": "AAA",
-    "fanbaseScore": 10,
-    "isUpcoming": true,
-    "isRumor": false,
-    "releaseWindow": "Rumor / TBA",
-    "isControversy": true,
-    "controversyAngle": "AI Code Backlash",
-    "isTrending": false,
-    "importance": 8,
-    "source": "Rock Paper Shotgun",
-    "url": "https://www.rockpapershotgun.com/ai-generated-gta-6-pc-ports-get-nuked-in-alleged-rockstar-takedown-spree-as-former-bungie-dev-hails-most-ridiculous-dumpster-fire-ever",
-    "image": "https://assetsio.gnwcdn.com/gta6-dancing-on-car.jpeg?width=690&quality=85&format=jpg&auto=webp",
-    "publishedAt": "2026-11-25T10:38:50.000Z"
-  },
-  {
     "id": "972ac98d85ae0ca3",
     "title": "Diablo 4 is Making Its Most Nostalgic Season Permanently Playable",
     "summary": "Blizzard has announced that due to overwhelming community demand, much of Diablo 4's nostalgic Season 15, Hell's Legacy, will carry forward permanently ahead of Season 16. Players can look forward to keeping classic boss encounters, legacy unique items, and even the secret cow island when the next update arrives.",
@@ -1633,6 +1685,58 @@
     "url": "https://www.gamespot.com/articles/playstation-plus-essential-free-games-for-december-2026",
     "image": "https://www.gamespot.com/wp-content/uploads/2026/11/PS-Plus-December-2026.jpg?w=1200",
     "publishedAt": "2026-11-25T16:32:11.000Z"
+  },
+  {
+    "id": "eb488f6d0e456fd6",
+    "title": "Nvidia Drops Driver 621.40 To Finally Squash The Infamous SSD-Hammering Bug",
+    "summary": "Nvidia has pushed out a new graphics card driver, version 621.40, aiming to permanently resolve a bug where background logging excessively wrote massive amounts of data to users' solid-state drives. While initial community reports on forums are somewhat hopeful, early testers advise waiting for a definitive consensus given previous hotfixes fell short.",
+    "content": [
+      "Nvidia has released a brand-new graphics card driver, version 621.40, which hopefully serves as a definitive cure for the problematic 621.24 update. The previous version was reportedly writing unnecessarily vast amounts of data to some users' SSDs, causing major anxiety over hardware wear and tear. Although a late-week hotfix helped mitigate the issue, it failed to resolve everything completely, leaving users crossing their fingers that the new 621.40 release manages to totally rectify the problem once and for all.",
+      "Alongside addressing the storage hardware issue, the 621.40 driver includes specific game enhancements targeted at Warhammer 40,000: Dawn of War 4, Where Winds Meet, and Assetto Corsa Rally. However, the headlining patch note for many PC players remains Nvidia's explicit aim to deal with the fact that excessive writes to the file 'nvlog.nvlgstg' may occur in the background during normal operation.",
+      "As for whether the update has completely achieved its goal, early community feedback on Reddit and the official Nvidia forums suggests positive signs, though absolute proof is still pending. Gamers who previously rolled back to issue-free drivers like version 621.01 are being advised to wait a few more days to see if a more definitive consensus emerges before updating their systems.",
+      "The caution stems from the fact that the preceding hotfix also declared war against the excessive writes to 'nvlog.nvlgstg'. While that hotfix successfully stopped the heavy writing from starting immediately upon boot-up and reduced overall volume, it failed to totally eradicate the problem if affected PCs were left running for extended periods. Transitioning these fixes into Nvidia's main branch marks a crucial step toward ensuring the company's official app and site downloads are entirely free of excessive write bugs.",
+      "For users looking to check if their machine is currently suffering from excessive background writing, the process requires opening the Windows Task Manager. By navigating to the 'details' tab, selecting 'I/O write bytes' through the column header settings, and tracking 'NVDisplay.Container.exe', users can calculate whether their system is logging small megabytes or massive gigabytes of unneeded data."
+    ],
+    "highlights": [
+      "Nvidia releases driver 621.40 to target the persistent SSD-hammering bug tied to background logging file nvlog.nvlgstg.",
+      "Previous hotfixes reduced the severity of the excessive data writes over time but failed to completely eliminate the problem during extended sessions.",
+      "Early user feedback on Reddit and Nvidia forums is cautiously optimistic, though many recommend waiting for a finalized consensus.",
+      "Users can monitor potential drive-wear by enabling 'I/O write bytes' in Windows Task Manager for NVDisplay.Container.exe."
+    ],
+    "socialPulse": {
+      "sentiment": "Mixed",
+      "viralPlatforms": [
+        "Reddit",
+        "Nvidia Forums",
+        "X / Twitter"
+      ],
+      "summary": "The PC gaming community is closely monitoring the new driver rollout with a mixture of cautious optimism and skepticism. While some users are reporting positive initial results on forums, many remain hesitant to install the update immediately due to the incomplete fix provided by the previous hotfix. Discussions focus heavily on monitoring drive health and verifying whether background write spikes have truly vanished.",
+      "viewpoints": [
+        {
+          "stance": "Cautiously Hopeful",
+          "detail": "Some users on Reddit and Nvidia forums note that the new driver appears to quiet down background disk activity significantly. They are glad to see Nvidia moving the fix into the main driver branch rather than relying on lingering temporary hotfixes."
+        },
+        {
+          "stance": "Wait-and-See Skepticism",
+          "detail": "Other members of the community prefer to stay on stable older drivers like version 621.01 until long-term tests confirm the bug is gone. They point out that previous patches promised total fixes that ultimately degraded when PCs ran for extended hours."
+        }
+      ]
+    },
+    "category": "PC",
+    "gameTitle": "",
+    "gameScale": "AAA",
+    "fanbaseScore": 10,
+    "isUpcoming": false,
+    "isRumor": false,
+    "releaseWindow": "",
+    "isControversy": false,
+    "controversyAngle": "",
+    "isTrending": false,
+    "importance": 7,
+    "source": "Rock Paper Shotgun",
+    "url": "https://www.rockpapershotgun.com/nvidia-release-new-graphics-card-driver-hopefully-finally-fixing-that-ssd-hammering-unnecessary-write-bug-the-previous-hotfix-couldnt-seem-to-sort",
+    "image": "https://assetsio.gnwcdn.com/nvidia-dlss-4-5-ray-reconstruction-announced-01.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "publishedAt": "2026-11-25T17:24:30.000Z"
   },
   {
     "id": "e9010d45f1cfeee1",
