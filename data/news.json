@@ -51,6 +51,56 @@
     "publishedAt": "2026-11-27T23:53:40.000Z"
   },
   {
+    "id": "42dfdbc90f5ef373",
+    "title": "GTA 6 PC Port Rumors Spark Intense Community Debate Online",
+    "summary": "A recent live community thread discussing an alleged GTA 6 PC port running at 24 FPS and using 10 GB of RAM has ignited heated debates across social media. Gamers are currently divided over performance concerns, resource usage, and ethical discussions surrounding industry practices.",
+    "content": [
+      "A recent community thread has emerged surrounding Grand Theft Auto 6, focusing heavily on an alleged PC port rumor that claims the game runs at 24 FPS and consumes 10 GB of RAM. While the original source material from Insider Gaming is a rudimentary cheat code guide placeholder, the surrounding community buzz has shifted toward technical performance and platform concerns.",
+      "The discussion quickly expanded into broader critiques of the gaming industry, touching upon studio practices, resource optimization, and the environmental impact of modern hardware demands. Commenters on the live thread expressed deep skepticism regarding how upcoming hardware-intensive titles will perform on standard PC setups.",
+      "Ethical concerns surrounding game development also took center stage in the community replies. Several users voiced strong opinions against corporate practices, union busting, and the heavy resource costs associated with modern AAA game development and optimization.",
+      "Other members of the community advocated for patience, suggesting that waiting for official releases rather than relying on early rumors or overhyped expectations is the best approach. Many noted that gamers can easily find alternative titles that are more reasonably priced while waiting for stable, verified platform releases."
+    ],
+    "highlights": [
+      "Community thread discusses an unverified GTA 6 PC port performance rumor.",
+      "Reported metrics claim a 24 FPS frame rate and 10 GB of RAM usage.",
+      "Discussions heavily critique industry studio practices and environmental impacts.",
+      "Gamers debate the value of waiting for official releases versus buying overpriced games."
+    ],
+    "socialPulse": {
+      "sentiment": "Heated",
+      "viralPlatforms": [
+        "Reddit",
+        "X / Twitter"
+      ],
+      "summary": "Social media users are heavily engaged in heated arguments regarding technical performance, optimization, and the ethics of modern AAA development. While some users focus strictly on hardware limitations and framerates, others use the thread to critique corporate studio behaviors and environmental concerns.",
+      "viewpoints": [
+        {
+          "stance": "Performance Skepticism",
+          "detail": "Players are deeply concerned that optimization issues will plague upcoming platform ports, resulting in unplayable frame rates and excessive RAM consumption. Many argue that high hardware requirements are becoming increasingly unreasonable for average consumers."
+        },
+        {
+          "stance": "Ethical Boycott & Caution",
+          "detail": "Community members are questioning the practices of major developers, highlighting issues like union busting and environmental costs. Some users urge fellow gamers to avoid overhyped releases and focus on affordable, well-optimized alternatives."
+        }
+      ]
+    },
+    "category": "PC",
+    "gameTitle": "Grand Theft Auto 6",
+    "gameScale": "AAA",
+    "fanbaseScore": 10,
+    "isUpcoming": true,
+    "isRumor": true,
+    "releaseWindow": "Rumor / TBA",
+    "isControversy": true,
+    "controversyAngle": "Port Performance Backlash",
+    "isTrending": true,
+    "importance": 7,
+    "source": "Insider Gaming",
+    "url": "https://insider-gaming.com/how-to-enter-cheats-in-gta-6",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1546990/ss_778d72865d6f09ba99b43f10c2b29e0537781a85.1920x1080.jpg?t=1781138647",
+    "publishedAt": "2026-11-27T21:50:16.000Z"
+  },
+  {
     "id": "9b56e02377795b06",
     "title": "Will GTA 6 Get Story DLC? Inside Rockstar's Post-Launch Plans and Rumors",
     "summary": "Gamers and industry analysts are eagerly speculating on whether Grand Theft Auto 6 will receive post-launch story DLC following its upcoming release. While details remain scarce, community discussions are heating up regarding Rockstar's historical approach to single-player expansions versus their heavy focus on online multiplayer content.",
@@ -352,6 +402,57 @@
     "url": "https://www.pcgamesn.com/warhammer-40k-dawn-of-war-4/painter-demo-out-now",
     "image": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/11/warhammer-40k-dawn-of-war-painter-demo-out-now-model-builder-detailed-customization.jpg",
     "publishedAt": "2026-11-27T13:14:25.000Z"
+  },
+  {
+    "id": "a956a6130ae83067",
+    "title": "Rockstar Discusses GTA 6's Biggest Prologue Twist and Early Alternatives",
+    "summary": "Rockstar Games managed to keep Grand Theft Auto 6's major prologue plot revelation completely secret until launch. Head of development Rob Nelson revealed that the studio debated alternative approaches to Jason and Lucia having a young child before committing to the risky narrative choice.",
+    "content": [
+      "Players diving into the first 20 minutes of Grand Theft Auto 6 encounter a hugely significant plot revelation involving protagonists Jason and Lucia. In the game's prologue, Lucia is shown abandoning her young child, Tomás, in order to rob a store at gunpoint. It is an astonishing moment that immediately lends Lucia complex character depth and establishes genuine human stakes for both protagonists.",
+      "Speaking to Eurogamer in an interview shortly before the game's release, Rockstar head of development Rob Nelson discussed keeping the secret under wraps despite numerous leaks leading up to launch. Nelson expressed gratitude that the twist remained a surprise, noting that the subversion of expectations was entirely intentional to shift the context of the story within the first 10 to 15 minutes.",
+      "Giving the protagonists this kind of narrative weight ran counter to the straight-to-the-action thrills of previous GTA titles, making it a hotly debated topic within the studio during development. Multiple times throughout the process, team members questioned if the child could instead be a little sister or someone else, voicing concerns that players would feel too guilty having a good time in Vice City. However, Nelson and the team decided the tension was vital for the story's power.",
+      "To help players understand Lucia's difficult decision, the game explores her backstory further in later chapters through flashbacks and dialogue. The narrative reveals that she did not know she was pregnant at the time, and explains that Tomás is safely cared for by her stable, loving aunt. This core narrative choice ultimately shaped the entire arc of Jason and Lucia's characters and their personal cycle-breaking motivations."
+    ],
+    "highlights": [
+      "Rockstar successfully kept GTA 6's major prologue twist a secret until launch.",
+      "The opening twist involves Lucia abandoning her young child Tomás to commit a robbery.",
+      "Studio developers debated changing the child to a relative to lessen player guilt.",
+      "The narrative choice establishes genuine human stakes and shapes the character arcs."
+    ],
+    "socialPulse": {
+      "sentiment": "Mixed",
+      "viralPlatforms": [
+        "Reddit",
+        "X / Twitter",
+        "YouTube"
+      ],
+      "summary": "Community discussions cover a mix of praise for the game's narrative risks and debates over technical performance and studio practices. While many players appreciate the deeper storytelling and human stakes introduced with Jason and Lucia, others voice concerns regarding optimization and broader industry controversies.",
+      "viewpoints": [
+        {
+          "stance": "Narrative Appreciation",
+          "detail": "Many players praise Rockstar for taking genuine narrative risks and introducing deeper emotional stakes into the franchise's story. They find the prologue twist adds a refreshing layer of complexity to the protagonists compared to previous entries."
+        },
+        {
+          "stance": "Technical and Industry Concerns",
+          "detail": "Other community members focus discussions on reported performance metrics and ongoing studio controversies surrounding development practices. These users debate the broader implications of optimization and corporate culture while evaluating the game's launch."
+        }
+      ]
+    },
+    "category": "Industry",
+    "gameTitle": "Grand Theft Auto 6",
+    "gameScale": "AAA",
+    "fanbaseScore": 10,
+    "isUpcoming": false,
+    "isRumor": false,
+    "releaseWindow": "",
+    "isControversy": false,
+    "controversyAngle": "",
+    "isTrending": true,
+    "importance": 9,
+    "source": "Eurogamer",
+    "url": "https://www.eurogamer.net/gta-6-rockstar-debated-changing-jason-lucias-big-secret",
+    "image": "https://assetsio.gnwcdn.com/GTA-6-review-21.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "publishedAt": "2026-11-27T11:31:00.000Z"
   },
   {
     "id": "2bbfeafb2adb31d5",
@@ -1074,56 +1175,6 @@
     "publishedAt": "2026-11-26T11:00:06.000Z"
   },
   {
-    "id": "c3d8cd82e78707bd",
-    "title": "The Witcher 3 Remastered Ver. 5.02 Update Lands With Switch 2 Mod Fixes",
-    "summary": "CD Projekt Red has officially released The Witcher 3: Wild Hunt - Remastered version 5.02 patch across supported platforms. The new update brings a wide variety of bug fixes spanning gameplay, user interface, quests, and more. Notably, it includes specific improvements for the upcoming hardware iteration, increasing the allowed mod size for players.",
-    "content": [
-      "CD Projekt Red continues to support The Witcher 3: Wild Hunt - Remastered with ongoing updates, deploying version 5.02 today. Players across eligible platforms can now download the patch to experience a cleaner, more stable journey through the Continent.",
-      "The patch notes highlight a broad spectrum of technical improvements. Developers have addressed various issues affecting core gameplay mechanics, fine-tuned the user interface, and resolved frustrating bugs tied to specific quests.",
-      "Of particular interest to Nintendo hardware enthusiasts, the ver. 5.02 update includes targeted adjustments for the platform referred to as Switch 2. Among these platform-specific changes is a welcome increase to the allowed mod size.",
-      "While CD Projekt Red is well past the initial launch window of the original game, this ongoing attention demonstrates a continued commitment to polishing the remastered experience. Players can review the complete set of patch notes directly through community channels or official sources."
-    ],
-    "highlights": [
-      "Version 5.02 update is live now for The Witcher 3: Wild Hunt - Remastered.",
-      "Includes general fixes for gameplay, user interface, and quests.",
-      "Features dedicated improvements for Switch 2 hardware, including a larger mod size limit."
-    ],
-    "socialPulse": {
-      "sentiment": "Hyped",
-      "viralPlatforms": [
-        "X / Twitter",
-        "Reddit",
-        "YouTube"
-      ],
-      "summary": "Fans are pleasantly surprised and excited to see CD Projekt Red continuing to support the remastered version of The Witcher 3 with quality-of-life updates. Discussions on Reddit and social media heavily focus on the Switch 2 specific enhancements, with many players praising the expanded mod size limits. Others are simply pleased to see the developer stamping out lingering quest and UI bugs years after the game's initial release.",
-      "viewpoints": [
-        {
-          "stance": "Continued Support Appreciation",
-          "detail": "Many players express genuine admiration for CD Projekt Red's dedication to keeping the game polished and updated years after launch. It reassures fans that their favorite title remains in active care."
-        },
-        {
-          "stance": "Platform-Specific Excitement",
-          "detail": "Nintendo platform enthusiasts are thrilled to see dedicated upgrades, specifically highlighting the increased mod size limit as a game-changer for portable and hybrid play. The inclusion of hardware-tailored tweaks shows strong attention to detail."
-        }
-      ]
-    },
-    "category": "PC",
-    "gameTitle": "The Witcher 3: Wild Hunt",
-    "gameScale": "AAA",
-    "fanbaseScore": 10,
-    "isUpcoming": false,
-    "isRumor": false,
-    "releaseWindow": "",
-    "isControversy": false,
-    "controversyAngle": "",
-    "isTrending": false,
-    "importance": 6,
-    "source": "Nintendo Life",
-    "url": "https://www.nintendolife.com/news/2026/11/the-witcher-3-remastered-ver-5-02-update-is-now-live-here-are-the-full-patch-notes",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/f7f564ecedd09b3e503b071a637aeefdedbeedd8/ss_f7f564ecedd09b3e503b071a637aeefdedbeedd8.1920x1080.jpg?t=1793900434",
-    "publishedAt": "2026-11-26T15:00:00.000Z"
-  },
-  {
     "id": "87119c7504399245",
     "title": "Team Ninja Defends AI in Quality Assurance While Insisting Creative Choices Must Remain Human",
     "summary": "Team Ninja producers Kohei Shibata and Masakazu Hirayama recently discussed the studio's development philosophy, addressing how they balance challenging action design with modern tool usage. While the studio employs AI to handle repetitive quality assurance tasks and streamline workflows, they firmly maintain that the core creative elements and fun factor must be crafted by human hands.",
@@ -1174,6 +1225,56 @@
     "url": "https://kotaku.com/team-ninja-ai-qa-difficulty-nioh-wo-long-koei-temco-capcom-2001000539",
     "image": "https://kotaku.com/app/uploads/2026/11/Wo-Long-Danfu-1280x720.jpg",
     "publishedAt": "2026-11-26T11:30:49.000Z"
+  },
+  {
+    "id": "c3d8cd82e78707bd",
+    "title": "The Witcher 3 Remastered Ver. 5.02 Update Lands With Switch 2 Mod Fixes",
+    "summary": "CD Projekt Red has officially released The Witcher 3: Wild Hunt - Remastered version 5.02 patch across supported platforms. The new update brings a wide variety of bug fixes spanning gameplay, user interface, quests, and more. Notably, it includes specific improvements for the upcoming hardware iteration, increasing the allowed mod size for players.",
+    "content": [
+      "CD Projekt Red continues to support The Witcher 3: Wild Hunt - Remastered with ongoing updates, deploying version 5.02 today. Players across eligible platforms can now download the patch to experience a cleaner, more stable journey through the Continent.",
+      "The patch notes highlight a broad spectrum of technical improvements. Developers have addressed various issues affecting core gameplay mechanics, fine-tuned the user interface, and resolved frustrating bugs tied to specific quests.",
+      "Of particular interest to Nintendo hardware enthusiasts, the ver. 5.02 update includes targeted adjustments for the platform referred to as Switch 2. Among these platform-specific changes is a welcome increase to the allowed mod size.",
+      "While CD Projekt Red is well past the initial launch window of the original game, this ongoing attention demonstrates a continued commitment to polishing the remastered experience. Players can review the complete set of patch notes directly through community channels or official sources."
+    ],
+    "highlights": [
+      "Version 5.02 update is live now for The Witcher 3: Wild Hunt - Remastered.",
+      "Includes general fixes for gameplay, user interface, and quests.",
+      "Features dedicated improvements for Switch 2 hardware, including a larger mod size limit."
+    ],
+    "socialPulse": {
+      "sentiment": "Hyped",
+      "viralPlatforms": [
+        "X / Twitter",
+        "Reddit",
+        "YouTube"
+      ],
+      "summary": "Fans are pleasantly surprised and excited to see CD Projekt Red continuing to support the remastered version of The Witcher 3 with quality-of-life updates. Discussions on Reddit and social media heavily focus on the Switch 2 specific enhancements, with many players praising the expanded mod size limits. Others are simply pleased to see the developer stamping out lingering quest and UI bugs years after the game's initial release.",
+      "viewpoints": [
+        {
+          "stance": "Continued Support Appreciation",
+          "detail": "Many players express genuine admiration for CD Projekt Red's dedication to keeping the game polished and updated years after launch. It reassures fans that their favorite title remains in active care."
+        },
+        {
+          "stance": "Platform-Specific Excitement",
+          "detail": "Nintendo platform enthusiasts are thrilled to see dedicated upgrades, specifically highlighting the increased mod size limit as a game-changer for portable and hybrid play. The inclusion of hardware-tailored tweaks shows strong attention to detail."
+        }
+      ]
+    },
+    "category": "PC",
+    "gameTitle": "The Witcher 3: Wild Hunt",
+    "gameScale": "AAA",
+    "fanbaseScore": 10,
+    "isUpcoming": false,
+    "isRumor": false,
+    "releaseWindow": "",
+    "isControversy": false,
+    "controversyAngle": "",
+    "isTrending": false,
+    "importance": 6,
+    "source": "Nintendo Life",
+    "url": "https://www.nintendolife.com/news/2026/11/the-witcher-3-remastered-ver-5-02-update-is-now-live-here-are-the-full-patch-notes",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/f7f564ecedd09b3e503b071a637aeefdedbeedd8/ss_f7f564ecedd09b3e503b071a637aeefdedbeedd8.1920x1080.jpg?t=1793900434",
+    "publishedAt": "2026-11-26T15:00:00.000Z"
   },
   {
     "id": "3c749cd430c4cc6b",
